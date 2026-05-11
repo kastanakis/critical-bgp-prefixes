@@ -412,20 +412,6 @@ No active exploitation or intrusive measurements are performed.
 
 ---
 
-# Citation
-
-If you use this repository, datasets, or methodology in academic work, please cite the associated paper.
-
-```bibtex
-@misc{criticalbgpprefixes,
-  title={Critical BGP Prefixes: Characterizing the Routing Infrastructure of Public Critical Services},
-  author={Authors},
-  year={2025}
-}
-```
-
----
-
 # License
 
 See the included `LICENSE` file.
