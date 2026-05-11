@@ -92,7 +92,6 @@ The repository aggregates publicly reachable Critical Infrastructure datasets fr
 * Estonia
 * Lithuania
 * Sweden
-* Bahamas
 
 ## Critical Infrastructure Sectors
 
