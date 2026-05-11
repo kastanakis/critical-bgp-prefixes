@@ -4,7 +4,7 @@ Measurement framework and datasets for identifying and analyzing BGP prefixes th
 
 This repository accompanies the paper:
 
-> **Critical BGP Prefixes: Characterizing the Routing Infrastructure of Public Critical Services**
+> **Critical BGP Prefixes: A Measurement-based Investigation of Critical Infrastructure Security**
 
 The project studies the Internet routing infrastructure behind publicly reachable government, healthcare, educational, financial, and other critical services across multiple countries.
 
