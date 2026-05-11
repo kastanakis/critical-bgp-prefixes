@@ -2,9 +2,7 @@
 
 Measurement framework and datasets for identifying and analyzing BGP prefixes that host publicly reachable Critical Infrastructure (CI) services.
 
-This repository accompanies the paper:
-
-> **Critical BGP Prefixes: A Measurement-based Investigation of Critical Infrastructure Security**
+This repository accompanies the IFIP Networking 2026 workshop paper **Critical BGP Prefixes: A Measurement-based Investigation of Critical Infrastructure Security**, presented at the **4th IOCRCI Workshop: Impact of IT/OT Convergence on the Resilience of Critical Infrastructures**.
 
 The project studies the Internet routing infrastructure behind publicly reachable government, healthcare, educational, financial, and other critical services across multiple countries.
 
