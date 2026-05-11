@@ -1,0 +1,7 @@
+Country,Valid,Valid (%),Invalid,Invalid (%),Unknown,Unknown (%),Total Prefixes
+bahamas,84,70.0,2,1.67,34,28.33,120
+estonia,250,90.25,0,0.0,27,9.75,277
+lithuania,289,90.03,0,0.0,32,9.97,321
+netherlands,3448,85.43,2,0.05,586,14.52,4036
+sweden,422,67.41,2,0.32,202,32.27,626
+switzerland,599,82.73,0,0.0,125,17.27,724

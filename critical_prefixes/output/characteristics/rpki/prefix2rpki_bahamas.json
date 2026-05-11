@@ -1,0 +1,2026 @@
+{
+    "172.67.128.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.128.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.128.0/20"
+    },
+    "2606:4700::/44": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700::/44",
+                "max_length": 44,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700::/44"
+    },
+    "66.129.86.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "13649",
+        "prefix": "66.129.86.0/24"
+    },
+    "35.168.0.0/13": {
+        "validating_roas": [
+            {
+                "origin": "14618",
+                "prefix": "35.168.0.0/13",
+                "max_length": 13,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "35.168.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "16509",
+                "prefix": "35.160.0.0/12",
+                "max_length": 12,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14618",
+        "prefix": "35.168.0.0/13"
+    },
+    "63.245.112.0/20": {
+        "validating_roas": [
+            {
+                "origin": "8014",
+                "prefix": "63.245.112.0/20",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "8014",
+        "prefix": "63.245.112.0/20"
+    },
+    "162.241.224.0/21": {
+        "validating_roas": [
+            {
+                "origin": "46606",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "396982",
+                "prefix": "162.241.224.0/21",
+                "max_length": 21,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "19871",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "26337",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "46606",
+        "prefix": "162.241.224.0/21"
+    },
+    "69.4.160.0/20": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "69.4.160.0/20"
+    },
+    "104.18.80.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.18.80.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.18.80.0/20"
+    },
+    "2606:4700:3033::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3033::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/44",
+                "max_length": 44,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:3033::/48"
+    },
+    "172.66.0.0/22": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.66.0.0/22",
+                "max_length": 22,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.66.0.0/22"
+    },
+    "50.16.0.0/16": {
+        "validating_roas": [
+            {
+                "origin": "14618",
+                "prefix": "50.16.0.0/16",
+                "max_length": 16,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "50.16.0.0/16",
+                "max_length": 16,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "14618",
+                "prefix": "50.16.0.0/15",
+                "max_length": 15,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "16509",
+                "prefix": "50.16.0.0/15",
+                "max_length": 15,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "16509",
+                "prefix": "50.16.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14618",
+        "prefix": "50.16.0.0/16"
+    },
+    "172.67.64.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.64.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.64.0/20"
+    },
+    "34.96.224.0/20": {
+        "validating_roas": [
+            {
+                "origin": "396982",
+                "prefix": "34.96.224.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            },
+            {
+                "origin": "396982",
+                "prefix": "34.96.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "396982",
+                "prefix": "34.96.0.0/12",
+                "max_length": 12,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "396982",
+        "prefix": "34.96.224.0/20"
+    },
+    "104.21.80.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.21.80.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "104.21.64.0/19",
+                "max_length": 19,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.21.80.0/20"
+    },
+    "141.193.84.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "19377",
+        "prefix": "141.193.84.0/24"
+    },
+    "141.136.43.0/24": {
+        "validating_roas": [
+            {
+                "origin": "47583",
+                "prefix": "141.136.43.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "47583",
+        "prefix": "141.136.43.0/24"
+    },
+    "24.51.88.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.51.88.0/21"
+    },
+    "192.223.25.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "32751",
+        "prefix": "192.223.25.0/24"
+    },
+    "192.185.32.0/21": {
+        "validating_roas": [
+            {
+                "origin": "19871",
+                "prefix": "192.185.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "26337",
+                "prefix": "192.185.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "46606",
+                "prefix": "192.185.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "137443",
+                "prefix": "192.185.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "396982",
+                "prefix": "192.185.32.0/20",
+                "max_length": 20,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "19871",
+        "prefix": "192.185.32.0/21"
+    },
+    "72.167.64.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "72.167.64.0/21"
+    },
+    "72.167.132.0/22": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "72.167.132.0/22"
+    },
+    "23.220.112.0/22": {
+        "validating_roas": [
+            {
+                "origin": "16625",
+                "prefix": "23.220.112.0/22",
+                "max_length": 22,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "23.192.0.0/11",
+                "max_length": 11,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16625",
+        "prefix": "23.220.112.0/22"
+    },
+    "2606:4700:3035::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3035::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/44",
+                "max_length": 44,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:3035::/48"
+    },
+    "217.174.153.0/24": {
+        "validating_roas": [
+            {
+                "origin": "57344",
+                "prefix": "217.174.153.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "57344",
+                "prefix": "217.174.152.0/23",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "31083",
+                "prefix": "217.174.152.0/23",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "57344",
+        "prefix": "217.174.153.0/24"
+    },
+    "162.255.119.0/24": {
+        "validating_roas": [
+            {
+                "origin": "22612",
+                "prefix": "162.255.116.0/22",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "22612",
+        "prefix": "162.255.119.0/24"
+    },
+    "24.51.64.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.51.64.0/21"
+    },
+    "5.161.74.0/24": {
+        "validating_roas": [
+            {
+                "origin": "213230",
+                "prefix": "5.161.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "24940",
+                "prefix": "5.161.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "213230",
+        "prefix": "5.161.74.0/24"
+    },
+    "24.60.0.0/14": {
+        "validating_roas": [
+            {
+                "origin": "7922",
+                "prefix": "24.60.0.0/14",
+                "max_length": 14,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "7922",
+        "prefix": "24.60.0.0/14"
+    },
+    "188.114.96.0/24": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "188.114.96.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "188.114.96.0/24"
+    },
+    "67.212.160.0/19": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "32475",
+        "prefix": "67.212.160.0/19"
+    },
+    "104.21.32.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.21.32.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "104.21.32.0/19",
+                "max_length": 19,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.21.32.0/20"
+    },
+    "200.124.193.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "14234",
+        "prefix": "200.124.193.0/24"
+    },
+    "80.169.0.0/16": {
+        "validating_roas": [
+            {
+                "origin": "8220",
+                "prefix": "80.169.0.0/16",
+                "max_length": 16,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "8220",
+        "prefix": "80.169.0.0/16"
+    },
+    "204.74.99.0/24": {
+        "validating_roas": [
+            {
+                "origin": "397220",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "12008",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "19905",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397213",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397214",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397215",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397216",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397217",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397218",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397219",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397221",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397222",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397223",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397224",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397225",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397226",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397227",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397228",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397229",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397230",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397231",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397232",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397233",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397234",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397235",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397236",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397237",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397238",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397239",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397240",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397241",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397242",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "397243",
+                "prefix": "204.74.99.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "397220",
+        "prefix": "204.74.99.0/24"
+    },
+    "70.39.144.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "54641",
+        "prefix": "70.39.144.0/21"
+    },
+    "68.178.244.0/22": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "68.178.244.0/22"
+    },
+    "2a06:98c1:3121::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2a06:98c1:3121::/48",
+                "max_length": 48,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2a06:98c1:3121::/48"
+    },
+    "104.96.178.0/24": {
+        "validating_roas": [
+            {
+                "origin": "33905",
+                "prefix": "104.96.178.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "104.64.0.0/10",
+                "max_length": 10,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "33905",
+        "prefix": "104.96.178.0/24"
+    },
+    "54.208.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "14618",
+                "prefix": "54.208.0.0/15",
+                "max_length": 15,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "54.208.0.0/15",
+                "max_length": 15,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "16509",
+                "prefix": "54.208.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14618",
+        "prefix": "54.208.0.0/15"
+    },
+    "194.6.163.0/24": {
+        "validating_roas": [
+            {
+                "origin": "206147",
+                "prefix": "194.6.163.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "3303",
+                "prefix": "194.6.160.0/19",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "206147",
+        "prefix": "194.6.163.0/24"
+    },
+    "107.180.112.0/22": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "107.180.112.0/22"
+    },
+    "104.26.0.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.26.0.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.26.0.0/20"
+    },
+    "185.154.92.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "12649",
+        "prefix": "185.154.92.0/24"
+    },
+    "185.27.184.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "9100",
+        "prefix": "185.27.184.0/24"
+    },
+    "13.248.240.0/20": {
+        "validating_roas": [
+            {
+                "origin": "16509",
+                "prefix": "13.248.128.0/17",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "13.248.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16509",
+        "prefix": "13.248.240.0/20"
+    },
+    "209.17.116.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "19871",
+        "prefix": "209.17.116.0/24"
+    },
+    "76.223.96.0/20": {
+        "validating_roas": [
+            {
+                "origin": "16509",
+                "prefix": "76.223.0.0/17",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16509",
+        "prefix": "76.223.96.0/20"
+    },
+    "216.239.136.0/21": {
+        "validating_roas": [
+            {
+                "origin": "19237",
+                "prefix": "216.239.136.0/21",
+                "max_length": 21,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "19237",
+        "prefix": "216.239.136.0/21"
+    },
+    "212.7.64.0/20": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "8884",
+        "prefix": "212.7.64.0/20"
+    },
+    "206.189.176.0/20": {
+        "validating_roas": [
+            {
+                "origin": "14061",
+                "prefix": "206.189.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14061",
+        "prefix": "206.189.176.0/20"
+    },
+    "2607:f1c0::/32": {
+        "validating_roas": [
+            {
+                "origin": "8560",
+                "prefix": "2607:f1c0::/32",
+                "max_length": 64,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "8560",
+        "prefix": "2607:f1c0::/32"
+    },
+    "2606:4700:20::/44": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:20::/44",
+                "max_length": 44,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:20::/44"
+    },
+    "72.167.124.0/22": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "72.167.124.0/22"
+    },
+    "162.241.172.0/23": {
+        "validating_roas": [
+            {
+                "origin": "46606",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "396982",
+                "prefix": "162.241.172.0/23",
+                "max_length": 23,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "19871",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "26337",
+                "prefix": "162.240.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "46606",
+        "prefix": "162.241.172.0/23"
+    },
+    "198.54.116.0/24": {
+        "validating_roas": [
+            {
+                "origin": "22612",
+                "prefix": "198.54.112.0/20",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "22612",
+        "prefix": "198.54.116.0/24"
+    },
+    "162.210.96.0/24": {
+        "validating_roas": [
+            {
+                "origin": "14555",
+                "prefix": "162.210.96.0/21",
+                "max_length": 21,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "invalid_length",
+        "validator": "routinator",
+        "resource": "14555",
+        "prefix": "162.210.96.0/24"
+    },
+    "15.222.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "16509",
+                "prefix": "15.222.0.0/15",
+                "max_length": 15,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16509",
+        "prefix": "15.222.0.0/15"
+    },
+    "2606:4700:3030::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/44",
+                "max_length": 44,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:3030::/48"
+    },
+    "208.109.16.0/20": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "208.109.16.0/20"
+    },
+    "2a06:98c1:3120::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2a06:98c1:3120::/48",
+                "max_length": 48,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2a06:98c1:3120::/48"
+    },
+    "206.188.192.0/23": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "19871",
+        "prefix": "206.188.192.0/23"
+    },
+    "136.144.192.0/18": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "20857",
+        "prefix": "136.144.192.0/18"
+    },
+    "104.18.160.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.18.160.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.18.160.0/20"
+    },
+    "23.251.147.0/24": {
+        "validating_roas": [
+            {
+                "origin": "396982",
+                "prefix": "23.251.147.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "15169",
+                "prefix": "23.251.128.0/19",
+                "max_length": 19,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "396982",
+        "prefix": "23.251.147.0/24"
+    },
+    "104.17.64.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.17.64.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.17.64.0/20"
+    },
+    "185.230.63.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "58182",
+        "prefix": "185.230.63.0/24"
+    },
+    "35.227.144.0/20": {
+        "validating_roas": [
+            {
+                "origin": "396982",
+                "prefix": "35.227.144.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            },
+            {
+                "origin": "396982",
+                "prefix": "35.227.0.0/16",
+                "max_length": 16,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "15169",
+                "prefix": "35.224.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "396982",
+        "prefix": "35.227.144.0/20"
+    },
+    "162.214.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "46606",
+                "prefix": "162.214.0.0/15",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "19871",
+                "prefix": "162.214.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "26337",
+                "prefix": "162.214.0.0/15",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "46606",
+        "prefix": "162.214.0.0/15"
+    },
+    "91.247.172.0/24": {
+        "validating_roas": [
+            {
+                "origin": "7393",
+                "prefix": "91.247.172.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "7393",
+        "prefix": "91.247.172.0/24"
+    },
+    "74.208.0.0/16": {
+        "validating_roas": [
+            {
+                "origin": "8560",
+                "prefix": "74.208.0.0/16",
+                "max_length": 32,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "8560",
+        "prefix": "74.208.0.0/16"
+    },
+    "104.21.16.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.21.16.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "104.21.0.0/19",
+                "max_length": 19,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.21.16.0/20"
+    },
+    "198.23.48.0/24": {
+        "validating_roas": [
+            {
+                "origin": "14555",
+                "prefix": "198.23.48.0/20",
+                "max_length": 20,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "invalid_length",
+        "validator": "routinator",
+        "resource": "14555",
+        "prefix": "198.23.48.0/24"
+    },
+    "24.244.144.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.244.144.0/21"
+    },
+    "188.114.97.0/24": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "188.114.97.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "188.114.97.0/24"
+    },
+    "170.194.152.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "26342",
+        "prefix": "170.194.152.0/21"
+    },
+    "198.49.23.0/24": {
+        "validating_roas": [
+            {
+                "origin": "53831",
+                "prefix": "198.49.23.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "53831",
+        "prefix": "198.49.23.0/24"
+    },
+    "198.185.159.0/24": {
+        "validating_roas": [
+            {
+                "origin": "53831",
+                "prefix": "198.185.159.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "53831",
+        "prefix": "198.185.159.0/24"
+    },
+    "172.67.192.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.192.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.192.0/20"
+    },
+    "67.227.128.0/17": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "32244",
+        "prefix": "67.227.128.0/17"
+    },
+    "69.163.128.0/17": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "26347",
+        "prefix": "69.163.128.0/17"
+    },
+    "156.67.64.0/20": {
+        "validating_roas": [
+            {
+                "origin": "47583",
+                "prefix": "156.67.64.0/20",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "47583",
+        "prefix": "156.67.64.0/20"
+    },
+    "185.27.186.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "9100",
+        "prefix": "185.27.186.0/24"
+    },
+    "213.133.232.0/22": {
+        "validating_roas": [
+            {
+                "origin": "51423",
+                "prefix": "213.133.232.0/22",
+                "max_length": 22,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "51423",
+        "prefix": "213.133.232.0/22"
+    },
+    "44.192.0.0/11": {
+        "validating_roas": [
+            {
+                "origin": "14618",
+                "prefix": "44.192.0.0/11",
+                "max_length": 11,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "44.192.0.0/11",
+                "max_length": 11,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "16509",
+                "prefix": "44.192.0.0/10",
+                "max_length": 10,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14618",
+        "prefix": "44.192.0.0/11"
+    },
+    "162.159.128.0/19": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "162.159.128.0/19",
+                "max_length": 19,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "162.159.128.0/19"
+    },
+    "24.244.152.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.244.152.0/21"
+    },
+    "104.18.0.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.18.0.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.18.0.0/20"
+    },
+    "108.60.224.0/19": {
+        "validating_roas": [
+            {
+                "origin": "8014",
+                "prefix": "108.60.224.0/19",
+                "max_length": 19,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "8014",
+        "prefix": "108.60.224.0/19"
+    },
+    "24.51.112.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.51.112.0/21"
+    },
+    "2.17.162.0/24": {
+        "validating_roas": [
+            {
+                "origin": "20940",
+                "prefix": "2.17.162.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2.16.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "20940",
+        "prefix": "2.17.162.0/24"
+    },
+    "160.219.0.0/16": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15661",
+        "prefix": "160.219.0.0/16"
+    },
+    "35.214.128.0/17": {
+        "validating_roas": [
+            {
+                "origin": "19527",
+                "prefix": "35.214.128.0/17",
+                "max_length": 17,
+                "validity": "valid"
+            },
+            {
+                "origin": "15169",
+                "prefix": "35.214.128.0/17",
+                "max_length": 17,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "19527",
+                "prefix": "35.212.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "19527",
+        "prefix": "35.214.128.0/17"
+    },
+    "3.96.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "16509",
+                "prefix": "3.96.0.0/15",
+                "max_length": 15,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "3.64.0.0/10",
+                "max_length": 10,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16509",
+        "prefix": "3.96.0.0/15"
+    },
+    "107.180.116.0/22": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "107.180.116.0/22"
+    },
+    "50.87.0.0/16": {
+        "validating_roas": [
+            {
+                "origin": "46606",
+                "prefix": "50.87.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "19871",
+                "prefix": "50.87.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "26337",
+                "prefix": "50.87.0.0/16",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "46606",
+        "prefix": "50.87.0.0/16"
+    },
+    "34.174.128.0/17": {
+        "validating_roas": [
+            {
+                "origin": "396982",
+                "prefix": "34.174.128.0/17",
+                "max_length": 17,
+                "validity": "valid"
+            },
+            {
+                "origin": "15169",
+                "prefix": "34.174.0.0/16",
+                "max_length": 16,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "15169",
+                "prefix": "34.168.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "396982",
+        "prefix": "34.174.128.0/17"
+    },
+    "192.0.78.0/24": {
+        "validating_roas": [
+            {
+                "origin": "2635",
+                "prefix": "192.0.64.0/18",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "2635",
+        "prefix": "192.0.78.0/24"
+    },
+    "54.70.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "16509",
+                "prefix": "54.70.0.0/15",
+                "max_length": 15,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "54.68.0.0/14",
+                "max_length": 14,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "16509",
+                "prefix": "54.64.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "16509",
+        "prefix": "54.70.0.0/15"
+    },
+    "2a02:26f0:8d00::/48": {
+        "validating_roas": [
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0:8d00::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0::/32",
+                "max_length": 32,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0::/29",
+                "max_length": 29,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "20940",
+        "prefix": "2a02:26f0:8d00::/48"
+    },
+    "2606:4700:3032::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3032::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/44",
+                "max_length": 44,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:3032::/48"
+    },
+    "172.67.176.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.176.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.176.0/20"
+    },
+    "172.67.208.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.208.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.208.0/20"
+    },
+    "104.94.100.0/24": {
+        "validating_roas": [
+            {
+                "origin": "20940",
+                "prefix": "104.94.100.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "104.64.0.0/10",
+                "max_length": 10,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "20940",
+        "prefix": "104.94.100.0/24"
+    },
+    "104.22.64.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "104.22.64.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "104.22.64.0/20"
+    },
+    "100.24.0.0/13": {
+        "validating_roas": [
+            {
+                "origin": "14618",
+                "prefix": "100.24.0.0/13",
+                "max_length": 13,
+                "validity": "valid"
+            },
+            {
+                "origin": "16509",
+                "prefix": "100.24.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14618",
+        "prefix": "100.24.0.0/13"
+    },
+    "138.197.160.0/20": {
+        "validating_roas": [
+            {
+                "origin": "14061",
+                "prefix": "138.197.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14061",
+        "prefix": "138.197.160.0/20"
+    },
+    "104.94.222.0/24": {
+        "validating_roas": [
+            {
+                "origin": "33905",
+                "prefix": "104.94.222.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "104.64.0.0/10",
+                "max_length": 10,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "33905",
+        "prefix": "104.94.222.0/24"
+    },
+    "67.20.64.0/18": {
+        "validating_roas": [
+            {
+                "origin": "46606",
+                "prefix": "67.20.64.0/18",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "19871",
+                "prefix": "67.20.64.0/18",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            },
+            {
+                "origin": "26337",
+                "prefix": "67.20.64.0/18",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "46606",
+        "prefix": "67.20.64.0/18"
+    },
+    "198.12.232.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "398101",
+        "prefix": "198.12.232.0/21"
+    },
+    "2a02:26f0:1d00::/48": {
+        "validating_roas": [
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0:1d00::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0::/32",
+                "max_length": 32,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2a02:26f0::/29",
+                "max_length": 29,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "20940",
+        "prefix": "2a02:26f0:1d00::/48"
+    },
+    "138.197.0.0/20": {
+        "validating_roas": [
+            {
+                "origin": "14061",
+                "prefix": "138.197.0.0/16",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "14061",
+        "prefix": "138.197.0.0/20"
+    },
+    "24.51.100.0/24": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "24.51.100.0/24"
+    },
+    "160.153.0.0/24": {
+        "validating_roas": [
+            {
+                "origin": "209242",
+                "prefix": "160.153.0.0/22",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "398787",
+                "prefix": "160.153.0.0/24",
+                "max_length": 24,
+                "validity": "invalid_asn"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "209242",
+        "prefix": "160.153.0.0/24"
+    },
+    "34.174.0.0/17": {
+        "validating_roas": [
+            {
+                "origin": "396982",
+                "prefix": "34.174.0.0/17",
+                "max_length": 17,
+                "validity": "valid"
+            },
+            {
+                "origin": "15169",
+                "prefix": "34.174.0.0/16",
+                "max_length": 16,
+                "validity": "invalid_length"
+            },
+            {
+                "origin": "15169",
+                "prefix": "34.168.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "396982",
+        "prefix": "34.174.0.0/17"
+    },
+    "172.67.16.0/20": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "172.67.16.0/20",
+                "max_length": 20,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "172.67.16.0/20"
+    },
+    "2606:4700:3031::/48": {
+        "validating_roas": [
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3031::/48",
+                "max_length": 48,
+                "validity": "valid"
+            },
+            {
+                "origin": "13335",
+                "prefix": "2606:4700:3030::/44",
+                "max_length": 44,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "13335",
+        "prefix": "2606:4700:3031::/48"
+    },
+    "50.62.0.0/15": {
+        "validating_roas": [
+            {
+                "origin": "26496",
+                "prefix": "50.62.0.0/15",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "26496",
+        "prefix": "50.62.0.0/15"
+    },
+    "2.17.100.0/24": {
+        "validating_roas": [
+            {
+                "origin": "20940",
+                "prefix": "2.17.100.0/24",
+                "max_length": 24,
+                "validity": "valid"
+            },
+            {
+                "origin": "20940",
+                "prefix": "2.16.0.0/13",
+                "max_length": 13,
+                "validity": "invalid_length"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "20940",
+        "prefix": "2.17.100.0/24"
+    },
+    "65.75.64.0/21": {
+        "validating_roas": [],
+        "status": "unknown",
+        "validator": "routinator",
+        "resource": "15146",
+        "prefix": "65.75.64.0/21"
+    },
+    "107.180.0.0/18": {
+        "validating_roas": [
+            {
+                "origin": "400754",
+                "prefix": "107.180.0.0/18",
+                "max_length": 24,
+                "validity": "valid"
+            }
+        ],
+        "status": "valid",
+        "validator": "routinator",
+        "resource": "400754",
+        "prefix": "107.180.0.0/18"
+    }
+}

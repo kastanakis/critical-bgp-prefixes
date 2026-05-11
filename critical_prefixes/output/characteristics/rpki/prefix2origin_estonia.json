@@ -1,0 +1,2905 @@
+{
+    "185.199.109.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "104.21.112.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.96.0/19"
+        ]
+    },
+    "2606:4700::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:1::/48"
+        ]
+    },
+    "37.27.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.16.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "66.33.60.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.158.176.0/22": {
+        "origin": [
+            {
+                "asn": 202635,
+                "holder": "SERVERFARM - Server Farm LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.224.0.0/12": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "185.94.112.0/23": {
+        "origin": [
+            {
+                "asn": 200804,
+                "holder": "NSS - OU NORTHSIDE SOLUTIONS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.152.2.0/24": {
+        "origin": [
+            {
+                "asn": 214855,
+                "holder": "ROBOTSTXT - Robotstxt S.L"
+            }
+        ],
+        "related_prefixes": [
+            "82.152.0.0/15"
+        ]
+    },
+    "104.22.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "90.190.0.0/15": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.168.0.0/13": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "35.160.0.0/12"
+        ]
+    },
+    "165.227.244.0/22": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a06:98c1:3123::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.17.128.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "37.0.24.0/21": {
+        "origin": [
+            {
+                "asn": 50794,
+                "holder": "LEVIRA - Levira AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.150.64.0/22": {
+        "origin": [
+            {
+                "asn": 2586,
+                "holder": "UNINET-AS - Elisa Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.65.32.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.212.192.0/19": {
+        "origin": [
+            {
+                "asn": 29624,
+                "holder": "KRICK-TECHNOLOGIC-AS - Krick Management GmbH trading as iWelt GmbH + Co. KG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.108.0.0/14": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.96.0.0/12",
+            "34.108.0.0/20",
+            "34.108.16.0/20",
+            "34.108.32.0/20",
+            "34.108.48.0/20",
+            "34.108.64.0/20",
+            "34.108.80.0/20",
+            "34.108.96.0/20",
+            "34.108.112.0/20",
+            "34.108.128.0/20",
+            "34.108.144.0/20",
+            "34.108.160.0/20",
+            "34.108.176.0/20",
+            "34.108.192.0/20",
+            "34.108.208.0/20",
+            "34.108.224.0/20",
+            "34.108.240.0/20",
+            "34.110.16.0/20",
+            "34.110.9.0/24"
+        ]
+    },
+    "146.59.0.0/17": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": [
+            "146.59.0.0/16"
+        ]
+    },
+    "185.174.161.0/24": {
+        "origin": [
+            {
+                "asn": 206844,
+                "holder": "RIKS - Riigi Info- ja Kommunikatsioonitehnoloogia Keskus"
+            }
+        ],
+        "related_prefixes": [
+            "185.174.160.0/22"
+        ]
+    },
+    "172.67.160.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "128.129.48.0/20": {
+        "origin": [
+            {
+                "asn": 18563,
+                "holder": "CGINET-01"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:130::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36"
+        ]
+    },
+    "172.67.128.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3037::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "135.181.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3033::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "84.205.184.0/24": {
+        "origin": [
+            {
+                "asn": 31242,
+                "holder": "TKPSA-AS - P4 Sp. z o.o."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.215.132.0/22": {
+        "origin": [
+            {
+                "asn": 197289,
+                "holder": "HELMES-AS - AS HELMES"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "132.155.56.0/22": {
+        "origin": [
+            {
+                "asn": 41701,
+                "holder": "CAP-FIN-AS - Capgemini Finland Oy"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.180.0.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.195.246.0/24": {
+        "origin": [
+            {
+                "asn": 43958,
+                "holder": "TALLINK-AS - AS Tallink Grupp"
+            }
+        ],
+        "related_prefixes": [
+            "91.195.246.0/23"
+        ]
+    },
+    "91.208.15.0/24": {
+        "origin": [
+            {
+                "asn": 47525,
+                "holder": "TBB-AS - AS TBB pank"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "178.248.136.0/21": {
+        "origin": [
+            {
+                "asn": 204595,
+                "holder": "UUSPROGRAMM - UUS PROGRAMM"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.71.128.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "35.71.128.0/17"
+        ]
+    },
+    "185.197.194.0/23": {
+        "origin": [
+            {
+                "asn": 51167,
+                "holder": "CONTABO - Contabo GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.35.128.0/17": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "20.64.0.0/10": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "20.74.128.0/17"
+        ]
+    },
+    "95.216.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.89.32.0/19": {
+        "origin": [
+            {
+                "asn": 198632,
+                "holder": "EE-ESTPAK-IPT - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "90.128.0.0/12": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": [
+            "90.135.0.0/16",
+            "90.138.0.0/16",
+            "90.133.0.0/17",
+            "90.138.0.0/17",
+            "90.139.128.0/17",
+            "90.140.0.0/17",
+            "90.140.128.0/17",
+            "90.128.0.0/18",
+            "90.137.0.0/18",
+            "90.137.64.0/18",
+            "90.139.0.0/18",
+            "90.142.192.0/18",
+            "90.143.64.0/18",
+            "90.130.96.0/19",
+            "90.131.32.0/19",
+            "90.131.128.0/19",
+            "90.139.64.0/19",
+            "90.133.192.0/20",
+            "90.133.208.0/20",
+            "90.142.176.0/20",
+            "90.130.12.0/22",
+            "90.141.72.0/22",
+            "90.142.144.0/22",
+            "90.142.148.0/22",
+            "90.142.168.0/22",
+            "90.142.172.0/22",
+            "90.130.28.0/23",
+            "90.130.74.0/24",
+            "90.130.155.0/24"
+        ]
+    },
+    "176.112.144.0/22": {
+        "origin": [
+            {
+                "asn": 201601,
+                "holder": "ASTREC-DATA - Astrec Data OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.104.224.0/19": {
+        "origin": [
+            {
+                "asn": 63949,
+                "holder": "AKAMAI-LINODE-AP Akamai Connected Cloud"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.80.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.64.0/19"
+        ]
+    },
+    "185.4.72.0/24": {
+        "origin": [
+            {
+                "asn": 198068,
+                "holder": "PAGM-AS - P.A.G.M. OU"
+            }
+        ],
+        "related_prefixes": [
+            "185.4.72.0/22"
+        ]
+    },
+    "45.223.18.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.217.21.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "172.217.0.0/16"
+        ]
+    },
+    "45.60.19.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "20.192.0.0/10": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "20.203.0.0/17",
+            "20.196.0.0/18"
+        ]
+    },
+    "172.67.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:e80::/32": {
+        "origin": [
+            {
+                "asn": 39823,
+                "holder": "COMPIC - Compic OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.78.44.0/22": {
+        "origin": [
+            {
+                "asn": 47736,
+                "holder": "SMIT - IT and Development Center of Ministry of Interior, Estonia"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "40.80.0.0/12": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "40.95.86.0/23",
+            "40.95.238.0/23",
+            "40.80.71.0/24"
+        ]
+    },
+    "20.48.0.0/12": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.65.192.0/18": {
+        "origin": [
+            {
+                "asn": 2586,
+                "holder": "UNINET-AS - Elisa Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "31.220.7.0/24": {
+        "origin": [
+            {
+                "asn": 63473,
+                "holder": "HOSTHATCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "208.91.112.0/24": {
+        "origin": [
+            {
+                "asn": 40934,
+                "holder": "FORTINET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "109.235.240.0/21": {
+        "origin": [
+            {
+                "asn": 8728,
+                "holder": "AS INFONET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.101.121.0/24": {
+        "origin": [
+            {
+                "asn": 198068,
+                "holder": "PAGM-AS - P.A.G.M. OU"
+            }
+        ],
+        "related_prefixes": [
+            "5.101.112.0/20"
+        ]
+    },
+    "2606:4700:3035::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "154.56.32.0/23": {
+        "origin": [
+            {
+                "asn": 47583,
+                "holder": "AS-HOSTINGER - Hostinger International Limited"
+            }
+        ],
+        "related_prefixes": [
+            "154.48.0.0/12"
+        ]
+    },
+    "188.114.96.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3036::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "141.101.90.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.20.151.0/24": {
+        "origin": [
+            {
+                "asn": 197517,
+                "holder": "SALVA-AS - Salva Kindlustuse AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "78.110.35.0/24": {
+        "origin": [
+            {
+                "asn": 215447,
+                "holder": "PRIMEND - Primend OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.150.116.0/22": {
+        "origin": [
+            {
+                "asn": 16125,
+                "holder": "CHERRYSERVERS1-AS - UAB Cherry Servers"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.7.252.0/23": {
+        "origin": [
+            {
+                "asn": 61189,
+                "holder": "ELKDATA - Elkdata OU"
+            }
+        ],
+        "related_prefixes": [
+            "185.7.252.0/22"
+        ]
+    },
+    "75.2.64.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "75.2.0.0/17"
+        ]
+    },
+    "185.169.68.0/22": {
+        "origin": [
+            {
+                "asn": 205930,
+                "holder": "VIRTUAALCOM - Virtuaal.com OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.92.160.0/21": {
+        "origin": [
+            {
+                "asn": 39823,
+                "holder": "COMPIC - Compic OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.154.0.0/16": {
+        "origin": [
+            {
+                "asn": 12876,
+                "holder": "AS12876 - SCALEWAY S.A.S."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.236.222.0/24": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.196.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.20.100.0/24": {
+        "origin": [
+            {
+                "asn": 199328,
+                "holder": "EKSPRESS-DIGITAL - Ekspress Grupp AS"
+            }
+        ],
+        "related_prefixes": [
+            "185.20.100.0/22"
+        ]
+    },
+    "2a02:4780:21::/48": {
+        "origin": [
+            {
+                "asn": 47583,
+                "holder": "AS-HOSTINGER - Hostinger International Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.195.240.0/23": {
+        "origin": [
+            {
+                "asn": 47846,
+                "holder": "SEDO-AS - SEDO GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "75.2.60.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "75.2.0.0/17",
+            "75.2.48.0/20"
+        ]
+    },
+    "195.250.160.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.204.0.0/18": {
+        "origin": [
+            {
+                "asn": 2586,
+                "holder": "UNINET-AS - Elisa Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.146.64.0/20": {
+        "origin": [
+            {
+                "asn": 49604,
+                "holder": "ZONE - Zone Media OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.22.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "85.222.232.0/22": {
+        "origin": [
+            {
+                "asn": 49604,
+                "holder": "ZONE - Zone Media OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.154.221.0/24": {
+        "origin": [
+            {
+                "asn": 207254,
+                "holder": "EE-EMEEDIA - AS Postimees Grupp"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.208.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "65.109.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "65.108.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.22.145.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.253.176.0/24": {
+        "origin": [
+            {
+                "asn": 202759,
+                "holder": "FAIRYHOSTING - RJ Network OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.32.0/19"
+        ]
+    },
+    "104.18.208.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "45.60.13.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "159.69.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "65.39.205.0/24": {
+        "origin": [
+            {
+                "asn": 53831,
+                "holder": "SQUARESPACE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.96.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.96.0/19"
+        ]
+    },
+    "104.20.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "85.206.148.0/22": {
+        "origin": [
+            {
+                "asn": 43811,
+                "holder": "TELIA-LIETUVA - Telia Lietuva, AB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "92.205.0.0/20": {
+        "origin": [
+            {
+                "asn": 21499,
+                "holder": "GODADDY-SXB - Host Europe GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "92.205.0.0/19"
+        ]
+    },
+    "79.98.24.0/21": {
+        "origin": [
+            {
+                "asn": 212531,
+                "holder": "INTERNETO-VIZIJA - UAB \"Interneto vizija\""
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a06:98c1:3121::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "78.24.192.0/21": {
+        "origin": [
+            {
+                "asn": 43682,
+                "holder": "EE-SEB-AS - AS SEB Pank"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.156.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a13:c5c0::/32": {
+        "origin": [
+            {
+                "asn": 216263,
+                "holder": "RADICENTER - Radicenter OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.111.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "185.31.240.0/22": {
+        "origin": [
+            {
+                "asn": 49604,
+                "holder": "ZONE - Zone Media OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.160.0.0/11": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "199.60.103.0/24": {
+        "origin": [
+            {
+                "asn": 209242,
+                "holder": "CLOUDFLARESPECTRUM - Cloudflare London, LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "138.68.124.0/22": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.247.0.0/16": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:1c50:94::/48": {
+        "origin": [
+            {
+                "asn": 30811,
+                "holder": "EPISERVER_AS - Optimizely AB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "64.190.62.0/23": {
+        "origin": [
+            {
+                "asn": 47846,
+                "holder": "SEDO-AS - SEDO GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.246.184.0/22": {
+        "origin": [
+            {
+                "asn": 34702,
+                "holder": "WAVECOM-AS - Aktsiaselts WaveCom"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.20.101.0/24": {
+        "origin": [
+            {
+                "asn": 199328,
+                "holder": "EKSPRESS-DIGITAL - Ekspress Grupp AS"
+            }
+        ],
+        "related_prefixes": [
+            "185.20.100.0/22"
+        ]
+    },
+    "192.124.249.0/24": {
+        "origin": [
+            {
+                "asn": 30148,
+                "holder": "SUCURI-SEC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.168.0.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:10::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:11::/48"
+        ]
+    },
+    "99.83.176.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "99.83.128.0/17"
+        ]
+    },
+    "159.60.128.0/20": {
+        "origin": [
+            {
+                "asn": 35280,
+                "holder": "F5 - F5 Networks SARL"
+            }
+        ],
+        "related_prefixes": [
+            "159.60.128.0/18"
+        ]
+    },
+    "165.160.13.0/24": {
+        "origin": [
+            {
+                "asn": 19574,
+                "holder": "CSC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.26.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "2606:4700:20::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:21::/48"
+        ]
+    },
+    "213.219.64.0/18": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.114.80.0/20": {
+        "origin": [
+            {
+                "asn": 30811,
+                "holder": "EPISERVER_AS - Optimizely AB"
+            }
+        ],
+        "related_prefixes": [
+            "217.114.94.0/24"
+        ]
+    },
+    "2001:ad0::/32": {
+        "origin": [
+            {
+                "asn": 3327,
+                "holder": "CITIC - CITIC Telecom CPC Netherlands B.V."
+            }
+        ],
+        "related_prefixes": [
+            "2001:ad0:5000::/40"
+        ]
+    },
+    "94.46.40.0/21": {
+        "origin": [
+            {
+                "asn": 200719,
+                "holder": "MISSDOMAIN - Miss Hosting AB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.88.192.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.80.0.0/12",
+            "34.88.0.0/14"
+        ]
+    },
+    "2a01:4f9::/32": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.47.192.0/19": {
+        "origin": [
+            {
+                "asn": 3327,
+                "holder": "CITIC - CITIC Telecom CPC Netherlands B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.249.56.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "13.248.0.0/14"
+        ]
+    },
+    "185.174.162.0/23": {
+        "origin": [
+            {
+                "asn": 206844,
+                "holder": "RIKS - Riigi Info- ja Kommunikatsioonitehnoloogia Keskus"
+            }
+        ],
+        "related_prefixes": [
+            "185.174.160.0/22"
+        ]
+    },
+    "2606:4700:3030::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "185.236.32.0/22": {
+        "origin": [
+            {
+                "asn": 209587,
+                "holder": "EESTILOTO - AS Eesti Loto"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.66.40.0/21": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "206.189.48.0/20": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.222.144.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.222.0.0/16"
+        ]
+    },
+    "2a02:4780:27::/48": {
+        "origin": [
+            {
+                "asn": 47583,
+                "holder": "AS-HOSTINGER - Hostinger International Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "51.138.0.0/16": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "54.171.0.0/16": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "54.160.0.0/12"
+        ]
+    },
+    "2a06:98c1:3120::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.16.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.0.0.0/11"
+        ]
+    },
+    "199.36.158.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.96.0.0/14": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.96.0.0/12",
+            "34.96.0.0/20",
+            "34.96.16.0/20",
+            "34.96.128.0/20",
+            "34.96.144.0/20",
+            "34.96.160.0/20",
+            "34.96.176.0/20",
+            "34.96.192.0/20",
+            "34.96.208.0/20",
+            "34.96.224.0/20",
+            "34.96.240.0/20",
+            "34.97.0.0/20",
+            "34.97.16.0/20",
+            "34.97.32.0/20",
+            "34.97.48.0/20",
+            "34.97.64.0/20",
+            "34.97.80.0/20",
+            "34.97.96.0/20",
+            "34.97.112.0/20",
+            "34.97.128.0/20",
+            "34.97.144.0/20",
+            "34.97.160.0/20",
+            "34.97.176.0/20",
+            "34.97.192.0/20",
+            "34.97.208.0/20",
+            "34.97.224.0/20",
+            "34.97.240.0/20",
+            "34.98.160.0/20",
+            "34.98.176.0/20",
+            "34.98.192.0/20",
+            "34.98.208.0/20",
+            "34.98.224.0/20",
+            "34.98.240.0/20",
+            "34.99.0.0/20",
+            "34.99.16.0/20",
+            "34.99.32.0/20",
+            "34.99.48.0/20",
+            "34.99.64.0/20",
+            "34.99.96.0/20",
+            "34.99.112.0/20",
+            "34.99.128.0/20",
+            "34.99.144.0/20",
+            "34.99.160.0/20",
+            "34.99.176.0/20",
+            "34.99.192.0/20",
+            "34.99.208.0/20",
+            "34.99.224.0/20",
+            "34.99.240.0/20",
+            "34.98.128.0/21",
+            "34.99.80.0/21",
+            "34.99.88.0/21",
+            "34.98.152.0/22",
+            "34.98.156.0/22"
+        ]
+    },
+    "78.110.40.0/22": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "216.239.36.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "216.239.32.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "188.68.56.0/22": {
+        "origin": [
+            {
+                "asn": 197540,
+                "holder": "NETCUP-AS - netcup GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.16.160.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "216.239.34.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "185.230.63.0/24": {
+        "origin": [
+            {
+                "asn": 58182,
+                "holder": "WIX_COM - Wix.com Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:18e0:5::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3108::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "66.6.22.0/24": {
+        "origin": [
+            {
+                "asn": 48851,
+                "holder": "RADWARE - Radware Ltd"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.216.236.0/24": {
+        "origin": [
+            {
+                "asn": 12993,
+                "holder": "DEAC-AS - SIA Digitalas Ekonomikas Attistibas Centrs"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.98.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.17.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "104.19.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "89.219.136.0/21": {
+        "origin": [
+            {
+                "asn": 3327,
+                "holder": "CITIC - CITIC Telecom CPC Netherlands B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.64.0/19"
+        ]
+    },
+    "62.77.152.0/21": {
+        "origin": [
+            {
+                "asn": 212531,
+                "holder": "INTERNETO-VIZIJA - UAB \"Interneto vizija\""
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.50.0.0/16": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "13.48.0.0/14"
+        ]
+    },
+    "185.139.252.0/22": {
+        "origin": [
+            {
+                "asn": 203311,
+                "holder": "CCDCOE - NATO Cooperative Cyber Defence Centre of Excellence"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.110.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "2600:9000:2487::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "18.65.32.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "199.34.228.0/24": {
+        "origin": [
+            {
+                "asn": 27647,
+                "holder": "WEEBLY"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.209.96.0/22": {
+        "origin": [
+            {
+                "asn": 47736,
+                "holder": "SMIT - IT and Development Center of Ministry of Interior, Estonia"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "198.49.23.0/24": {
+        "origin": [
+            {
+                "asn": 53831,
+                "holder": "SQUARESPACE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.108.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "104.21.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.0.0/19"
+        ]
+    },
+    "104.18.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "167.99.240.0/20": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "83.181.56.0/21": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": [
+            "83.176.0.0/12",
+            "83.181.56.0/24",
+            "83.181.57.0/24",
+            "83.181.58.0/24"
+        ]
+    },
+    "94.23.0.0/16": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.64.0.0/11": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a03:b0c0:1::/48": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "87.119.160.0/19": {
+        "origin": [
+            {
+                "asn": 2586,
+                "holder": "UNINET-AS - Elisa Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "81.21.240.0/20": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "171.22.246.0/23": {
+        "origin": [
+            {
+                "asn": 206844,
+                "holder": "RIKS - Riigi Info- ja Kommunikatsioonitehnoloogia Keskus"
+            }
+        ],
+        "related_prefixes": [
+            "171.22.244.0/22"
+        ]
+    },
+    "2a01:1b8::/32": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": [
+            "2a01:1b8:5::/48"
+        ]
+    },
+    "193.40.195.0/24": {
+        "origin": [
+            {
+                "asn": 3332,
+                "holder": "SWEDBANK-AS - Swedbank AS"
+            }
+        ],
+        "related_prefixes": [
+            "193.40.0.0/16"
+        ]
+    },
+    "193.178.176.0/21": {
+        "origin": [
+            {
+                "asn": 16279,
+                "holder": "AS16279_CITADELE - AS \"Citadele banka\""
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "84.50.0.0/16": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.97.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "37.143.64.0/21": {
+        "origin": [
+            {
+                "asn": 57873,
+                "holder": "SONICTEST - SONICTEST Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.167.56.0/23": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.128.0.0/10"
+        ]
+    },
+    "80.92.65.0/24": {
+        "origin": [
+            {
+                "asn": 24611,
+                "holder": "DCLUX-AS - Datacenter Luxembourg S.A."
+            }
+        ],
+        "related_prefixes": [
+            "80.92.64.0/19"
+        ]
+    },
+    "198.185.159.0/24": {
+        "origin": [
+            {
+                "asn": 53831,
+                "holder": "SQUARESPACE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.192.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.176.124.0/24": {
+        "origin": [
+            {
+                "asn": 3301,
+                "holder": "TELIANET-SWEDEN - Telia Company AB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.96.186.0/24": {
+        "origin": [
+            {
+                "asn": 32475,
+                "holder": "SINGLEHOP-LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "80.235.0.0/17": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:bb8::/32": {
+        "origin": [
+            {
+                "asn": 3221,
+                "holder": "EENET-AS - Haridus- ja Teadusministeerium"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "146.190.176.0/22": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "54.76.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "54.72.0.0/13"
+        ]
+    },
+    "81.20.144.0/20": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "83.136.136.0/24": {
+        "origin": [
+            {
+                "asn": 29600,
+                "holder": "LATVENERGO-AS - AS \"Latvenergo\""
+            }
+        ],
+        "related_prefixes": [
+            "83.136.136.0/21"
+        ]
+    },
+    "194.126.96.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a06:98c1:3122::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.196.224.0/19": {
+        "origin": [
+            {
+                "asn": 61307,
+                "holder": "EE-AS-STV - AS STV"
+            }
+        ],
+        "related_prefixes": [
+            "85.196.192.0/18"
+        ]
+    },
+    "195.50.192.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.43.104.0/22": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.114.94.0/24": {
+        "origin": [
+            {
+                "asn": 30811,
+                "holder": "EPISERVER_AS - Optimizely AB"
+            }
+        ],
+        "related_prefixes": [
+            "217.114.80.0/20"
+        ]
+    },
+    "65.21.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.194.200.0/22": {
+        "origin": [
+            {
+                "asn": 61189,
+                "holder": "ELKDATA - Elkdata OU"
+            }
+        ],
+        "related_prefixes": [
+            "85.194.200.0/23",
+            "85.194.202.0/23"
+        ]
+    },
+    "34.240.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "162.159.128.0/19": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "162.159.128.0/17"
+        ]
+    },
+    "35.214.128.0/17": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            },
+            {
+                "asn": 19527,
+                "holder": "GOOGLE-2"
+            }
+        ],
+        "related_prefixes": [
+            "35.212.0.0/14"
+        ]
+    },
+    "104.21.48.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.32.0/19"
+        ]
+    },
+    "16.170.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.0.0/19"
+        ]
+    },
+    "13.104.0.0/14": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "13.107.3.0/24",
+            "13.107.4.0/24",
+            "13.107.5.0/24",
+            "13.107.6.0/24",
+            "13.107.7.0/24",
+            "13.107.9.0/24",
+            "13.107.12.0/24",
+            "13.107.13.0/24",
+            "13.107.14.0/24",
+            "13.107.15.0/24",
+            "13.107.16.0/24",
+            "13.107.18.0/24",
+            "13.107.19.0/24",
+            "13.107.21.0/24",
+            "13.107.22.0/24",
+            "13.107.39.0/24",
+            "13.107.40.0/24",
+            "13.107.42.0/24",
+            "13.107.43.0/24",
+            "13.107.48.0/24",
+            "13.107.49.0/24",
+            "13.107.50.0/24",
+            "13.107.51.0/24",
+            "13.107.52.0/24",
+            "13.107.54.0/24",
+            "13.107.56.0/24",
+            "13.107.128.0/24",
+            "13.107.129.0/24",
+            "13.107.137.0/24",
+            "13.107.139.0/24",
+            "13.107.140.0/24",
+            "13.107.254.0/24"
+        ]
+    },
+    "104.18.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "195.80.96.0/19": {
+        "origin": [
+            {
+                "asn": 8240,
+                "holder": "AS8240 - Information System Authority"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.101.96.0/19": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.124.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.64.0.0/10"
+        ]
+    },
+    "5.181.161.0/24": {
+        "origin": [
+            {
+                "asn": 205282,
+                "holder": "TILDA-IE-1 - Tilda Publishing Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.203.196.0/24": {
+        "origin": [
+            {
+                "asn": 19905,
+                "holder": "SECURITYSERVICES"
+            }
+        ],
+        "related_prefixes": [
+            "193.203.196.0/23"
+        ]
+    },
+    "95.217.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a01:4f8::/32": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.223.28.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.39.0.0/17": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.159.128.0/17": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.86.211.0/24": {
+        "origin": [
+            {
+                "asn": 216263,
+                "holder": "RADICENTER - Radicenter OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.40.0.0/16": {
+        "origin": [
+            {
+                "asn": 3221,
+                "holder": "EENET-AS - Haridus- ja Teadusministeerium"
+            }
+        ],
+        "related_prefixes": [
+            "193.40.195.0/24"
+        ]
+    },
+    "192.40.55.0/24": {
+        "origin": [
+            {
+                "asn": 20395,
+                "holder": "MEDFUSION-LEWISVILLE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "76.76.21.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.253.179.0/24": {
+        "origin": [
+            {
+                "asn": 202759,
+                "holder": "FAIRYHOSTING - RJ Network OU"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "165.160.15.0/24": {
+        "origin": [
+            {
+                "asn": 19574,
+                "holder": "CSC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.166.0.0/18": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.22.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "23.236.62.0/24": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "23.236.48.0/20"
+        ]
+    },
+    "192.0.78.0/24": {
+        "origin": [
+            {
+                "asn": 2635,
+                "holder": "AUTOMATTIC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.106.96.0/19": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "92.62.128.0/24": {
+        "origin": [
+            {
+                "asn": 15440,
+                "holder": "BALTNETA - UAB \"Baltnetos komunikacijos\""
+            }
+        ],
+        "related_prefixes": [
+            "92.62.128.0/20"
+        ]
+    },
+    "212.107.52.0/22": {
+        "origin": [
+            {
+                "asn": 197289,
+                "holder": "HELMES-AS - AS HELMES"
+            }
+        ],
+        "related_prefixes": [
+            "212.107.32.0/19"
+        ]
+    },
+    "172.245.208.0/23": {
+        "origin": [
+            {
+                "asn": 36352,
+                "holder": "AS-COLOCROSSING"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "78.28.64.0/18": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "37.148.169.0/24": {
+        "origin": [
+            {
+                "asn": 204427,
+                "holder": "PROACT-AS - Proact IT Latvia, SIA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "94.130.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:90d8::/46": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:90d0::/44"
+        ]
+    },
+    "172.67.208.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.153.0.0/18": {
+        "origin": [
+            {
+                "asn": 1257,
+                "holder": "SWIPNET - TELE2"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3032::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "172.67.176.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.99.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.142.0.0/16": {
+        "origin": [
+            {
+                "asn": 719,
+                "holder": "ELISA-AS - Elisa Oyj"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.250.112.0/21": {
+        "origin": [
+            {
+                "asn": 39038,
+                "holder": "KERNEL-AS - Kernel AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.22.48.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "77.240.243.0/24": {
+        "origin": [
+            {
+                "asn": 42300,
+                "holder": "TOPCONNECT-AS - TOP CONNECT OU"
+            }
+        ],
+        "related_prefixes": [
+            "77.240.240.0/22"
+        ]
+    },
+    "185.157.108.0/22": {
+        "origin": [
+            {
+                "asn": 202652,
+                "holder": "ELEVI-AS - Elevi AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "100.24.0.0/13": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.222.0.0/19": {
+        "origin": [
+            {
+                "asn": 3327,
+                "holder": "CITIC - CITIC Telecom CPC Netherlands B.V."
+            }
+        ],
+        "related_prefixes": [
+            "195.222.16.0/24"
+        ]
+    },
+    "2606:4700:3034::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "212.1.212.0/24": {
+        "origin": [
+            {
+                "asn": 47583,
+                "holder": "AS-HOSTINGER - Hostinger International Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.223.48.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.223.0.0/17"
+        ]
+    },
+    "2a01:111:f000::/36": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "2a01:111::/32"
+        ]
+    },
+    "185.221.63.0/24": {
+        "origin": [
+            {
+                "asn": 58051,
+                "holder": "ZUME - Alpha Internet Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "64.226.112.0/20": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.184.32.0/19": {
+        "origin": [
+            {
+                "asn": 8240,
+                "holder": "AS8240 - Information System Authority"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3031::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "195.12.178.0/24": {
+        "origin": [
+            {
+                "asn": 24984,
+                "holder": "LUMINORLT - Luminor Bank AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.50.99.0/24": {
+        "origin": [
+            {
+                "asn": 203906,
+                "holder": "PERH - Sihtasutus Pohja-Eesti Regionaalhaigla"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.31.92.0/22": {
+        "origin": [
+            {
+                "asn": 60415,
+                "holder": "LOGINET-AS - Loginet Solutions LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:7b40::/32": {
+        "origin": [
+            {
+                "asn": 62282,
+                "holder": "RACKRAY - UAB Rakrejus"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.224.188.0/23": {
+        "origin": [
+            {
+                "asn": 197611,
+                "holder": "LHV-AS - AS LHV Pank"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a06:98c1:3200::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "51.136.0.0/15": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "88.196.0.0/16": {
+        "origin": [
+            {
+                "asn": 3249,
+                "holder": "ESTPAK - Telia Eesti AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.129.0.0/17": {
+        "origin": [
+            {
+                "asn": 174,
+                "holder": ""
+            }
+        ],
+        "related_prefixes": [
+            "82.129.48.0/20",
+            "82.129.96.0/20",
+            "82.129.112.0/20",
+            "82.129.16.0/21",
+            "82.129.72.0/21",
+            "82.129.80.0/21",
+            "82.129.28.0/22",
+            "82.129.68.0/22",
+            "82.129.80.0/22",
+            "82.129.84.0/22",
+            "82.129.6.0/23",
+            "82.129.46.0/23",
+            "82.129.66.0/23",
+            "82.129.80.0/23",
+            "82.129.82.0/23",
+            "82.129.84.0/23",
+            "82.129.86.0/23",
+            "82.129.4.0/24",
+            "82.129.5.0/24",
+            "82.129.8.0/24",
+            "82.129.9.0/24",
+            "82.129.12.0/24",
+            "82.129.13.0/24",
+            "82.129.16.0/24",
+            "82.129.17.0/24",
+            "82.129.18.0/24",
+            "82.129.19.0/24",
+            "82.129.20.0/24",
+            "82.129.21.0/24",
+            "82.129.22.0/24",
+            "82.129.23.0/24",
+            "82.129.26.0/24",
+            "82.129.32.0/24",
+            "82.129.33.0/24",
+            "82.129.34.0/24",
+            "82.129.35.0/24",
+            "82.129.39.0/24",
+            "82.129.44.0/24",
+            "82.129.45.0/24",
+            "82.129.80.0/24",
+            "82.129.81.0/24",
+            "82.129.82.0/24",
+            "82.129.83.0/24",
+            "82.129.84.0/24",
+            "82.129.85.0/24",
+            "82.129.86.0/24",
+            "82.129.87.0/24"
+        ]
+    },
+    "164.10.48.0/24": {
+        "origin": [
+            {
+                "asn": 19905,
+                "holder": "SECURITYSERVICES"
+            }
+        ],
+        "related_prefixes": [
+            "164.10.0.0/16"
+        ]
+    }
+}

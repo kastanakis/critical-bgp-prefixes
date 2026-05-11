@@ -1,0 +1,7796 @@
+{
+    "193.238.143.0/24": {
+        "origin": [
+            {
+                "asn": 16111,
+                "holder": "ONLINE-CONSULTING - Online Consulting AG"
+            }
+        ],
+        "related_prefixes": [
+            "193.238.140.0/22"
+        ]
+    },
+    "34.89.160.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.80.0.0/12",
+            "34.88.0.0/14"
+        ]
+    },
+    "83.166.128.0/19": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.101.0.0/19": {
+        "origin": [
+            {
+                "asn": 9044,
+                "holder": "SOLNET - BSE Software GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.201.56.0/22": {
+        "origin": [
+            {
+                "asn": 51395,
+                "holder": "AS-SOFTPLUS - Datasource AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.3.195.0/24": {
+        "origin": [
+            {
+                "asn": 51895,
+                "holder": "PUBLICOMPSERVER - Ingo Klein"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "130.92.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.98.126.0/24": {
+        "origin": [
+            {
+                "asn": 12306,
+                "holder": "PLUSLINE - Plus.line AG"
+            }
+        ],
+        "related_prefixes": [
+            "82.98.64.0/18"
+        ]
+    },
+    "213.146.0.0/19": {
+        "origin": [
+            {
+                "asn": 16267,
+                "holder": "CH Regionalmedien AG"
+            }
+        ],
+        "related_prefixes": [
+            "213.146.8.0/24"
+        ]
+    },
+    "193.73.122.0/24": {
+        "origin": [
+            {
+                "asn": 198385,
+                "holder": "ALPINEDC - AlpineDC SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:27a7::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "2a02:2e0:cd4d::/48": {
+        "origin": [
+            {
+                "asn": 12306,
+                "holder": "PLUSLINE - Plus.line AG"
+            }
+        ],
+        "related_prefixes": [
+            "2a02:2e0::/29"
+        ]
+    },
+    "193.192.224.0/19": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "193.192.232.0/23"
+        ]
+    },
+    "77.74.80.0/21": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:2449::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "2600:1419:4600::/48": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "2600:1400::/24"
+        ]
+    },
+    "2a11:7980::/40": {
+        "origin": [
+            {
+                "asn": 210861,
+                "holder": "ONA - Open Networks Association"
+            }
+        ],
+        "related_prefixes": [
+            "2a11:7980:ff::/48"
+        ]
+    },
+    "2a05:d014:c00::/38": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2a05:d000::/25",
+            "2a05:d014::/35",
+            "2a05:d014::/36"
+        ]
+    },
+    "2a00:7580:60::/48": {
+        "origin": [
+            {
+                "asn": 8414,
+                "holder": "International Telecommunication Union"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "204.74.99.0/24": {
+        "origin": [
+            {
+                "asn": 397238,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397213,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397224,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397234,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397232,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397237,
+                "holder": "SECURITYSERVICES"
+            },
+            {
+                "asn": 397220,
+                "holder": "SECURITYSERVICES"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "108.139.8.0/22": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "108.136.0.0/14"
+        ]
+    },
+    "195.141.0.0/16": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "195.141.249.0/24"
+        ]
+    },
+    "185.98.120.0/22": {
+        "origin": [
+            {
+                "asn": 59414,
+                "holder": "CLOUDSCALE - cloudscale.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.226.0.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.148.0.0/14": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.144.0.0/13",
+            "34.148.0.0/16",
+            "34.150.0.0/16",
+            "34.151.0.0/16",
+            "34.148.0.0/20",
+            "34.148.16.0/20",
+            "34.148.32.0/20",
+            "34.148.48.0/20",
+            "34.148.64.0/20",
+            "34.148.80.0/20",
+            "34.148.96.0/20",
+            "34.148.112.0/20",
+            "34.148.128.0/20",
+            "34.148.144.0/20",
+            "34.148.160.0/20",
+            "34.148.176.0/20",
+            "34.148.192.0/20",
+            "34.148.208.0/20",
+            "34.148.224.0/20",
+            "34.148.240.0/20",
+            "34.150.0.0/20",
+            "34.150.16.0/20",
+            "34.150.32.0/20",
+            "34.150.48.0/20",
+            "34.150.64.0/20",
+            "34.150.80.0/20",
+            "34.150.96.0/20",
+            "34.150.112.0/20",
+            "34.150.128.0/20",
+            "34.150.144.0/20",
+            "34.150.160.0/20",
+            "34.150.176.0/20",
+            "34.150.192.0/20",
+            "34.150.208.0/20",
+            "34.150.224.0/20",
+            "34.150.240.0/20",
+            "34.151.0.0/20",
+            "34.151.16.0/20",
+            "34.151.32.0/20",
+            "34.151.48.0/20",
+            "34.151.64.0/20",
+            "34.151.80.0/20",
+            "34.151.96.0/20",
+            "34.151.112.0/20",
+            "34.151.128.0/20",
+            "34.151.144.0/20",
+            "34.151.160.0/20",
+            "34.151.176.0/20",
+            "34.151.192.0/20",
+            "34.151.208.0/20",
+            "34.151.224.0/20",
+            "34.151.240.0/20"
+        ]
+    },
+    "104.21.80.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.64.0/19"
+        ]
+    },
+    "193.33.30.0/23": {
+        "origin": [
+            {
+                "asn": 203882,
+                "holder": "EVOK - Altern8 SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.243.208.0/20": {
+        "origin": [
+            {
+                "asn": 35635,
+                "holder": "NETJUMP - Net Jump GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:1458::/32": {
+        "origin": [
+            {
+                "asn": 513,
+                "holder": "CERN - CERN - European Organization for Nuclear Research"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.16.176.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "2001:918::/32": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "2001:918:f00::/40",
+            "2001:918:1ab::/48",
+            "2001:918:ff3e::/48",
+            "2001:918:ff44::/48",
+            "2001:918:ff5d::/48",
+            "2001:918:ff64::/48",
+            "2001:918:ff74::/48",
+            "2001:918:ffaa::/48",
+            "2001:918:ffac::/48",
+            "2001:918:ffad::/48",
+            "2001:918:ffb7::/48",
+            "2001:918:fff2::/48",
+            "2001:918:fff7::/48",
+            "2001:918:fff9::/48",
+            "2001:918:fffa::/48"
+        ]
+    },
+    "213.3.0.0/17": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "213.3.0.0/16"
+        ]
+    },
+    "2606:4700:3035::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "172.64.152.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "185.209.64.0/22": {
+        "origin": [
+            {
+                "asn": 61157,
+                "holder": "PLUSSERVER-ASN1 - PlusServer GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "173.222.140.0/22": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "173.222.0.0/15"
+        ]
+    },
+    "138.81.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3038::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "104.97.14.0/23": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "104.64.0.0/10"
+        ]
+    },
+    "193.111.202.0/23": {
+        "origin": [
+            {
+                "asn": 49113,
+                "holder": "CABLOTEL - Petignat Jean-Charles trading as Cablotel Telereseaux"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.32.124.0/24": {
+        "origin": [
+            {
+                "asn": 59891,
+                "holder": "FSIT - FSIT AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.169.128.0/20": {
+        "origin": [
+            {
+                "asn": 20932,
+                "holder": "SIG-ST - Services Industriels de Geneve"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.246.63.0/24": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "193.246.62.0/23"
+        ]
+    },
+    "195.49.0.0/17": {
+        "origin": [
+            {
+                "asn": 1836,
+                "holder": "GREEN - green.ch AG"
+            }
+        ],
+        "related_prefixes": [
+            "195.49.41.0/24",
+            "195.49.78.0/24",
+            "195.49.79.0/24"
+        ]
+    },
+    "193.247.117.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "145.250.13.0/24": {
+        "origin": [
+            {
+                "asn": 214898,
+                "holder": "CH-KANTON-BASEL-AS - Kanton Basel-Stadt"
+            }
+        ],
+        "related_prefixes": [
+            "145.250.0.0/17"
+        ]
+    },
+    "104.21.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.32.0/19"
+        ]
+    },
+    "217.147.208.0/20": {
+        "origin": [
+            {
+                "asn": 31424,
+                "holder": "NEXELLENT-AS - Netrics Zuerich AG, Opfikon"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.53.176.0/22": {
+        "origin": [
+            {
+                "asn": 61969,
+                "holder": "TEAMINTERNET-AS - Team Internet AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.32.0.0/11": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.33.0.0/16",
+            "34.35.0.0/16",
+            "34.37.0.0/16",
+            "34.38.0.0/16",
+            "34.41.0.0/16",
+            "34.42.0.0/16",
+            "34.44.0.0/16",
+            "34.45.0.0/16",
+            "34.46.0.0/16",
+            "34.48.0.0/16",
+            "34.55.0.0/16",
+            "34.56.0.0/16",
+            "34.57.0.0/16",
+            "34.58.0.0/16",
+            "34.59.0.0/16",
+            "34.60.0.0/16",
+            "34.61.0.0/16",
+            "34.63.0.0/16",
+            "34.32.0.0/17",
+            "34.32.128.0/17",
+            "34.34.0.0/17",
+            "34.39.0.0/17",
+            "34.39.128.0/17",
+            "34.40.0.0/17",
+            "34.40.128.0/17",
+            "34.47.128.0/17",
+            "34.51.0.0/17",
+            "34.51.128.0/17",
+            "34.52.128.0/17",
+            "34.53.0.0/17",
+            "34.53.128.0/17",
+            "34.62.0.0/17",
+            "34.62.128.0/17",
+            "34.34.128.0/18",
+            "34.47.0.0/18",
+            "34.47.64.0/18",
+            "34.50.0.0/18",
+            "34.50.64.0/18",
+            "34.50.192.0/18",
+            "34.50.160.0/19",
+            "34.34.200.0/21",
+            "34.34.208.0/21",
+            "34.34.216.0/21",
+            "34.50.128.0/21",
+            "34.34.192.0/24"
+        ]
+    },
+    "213.239.192.0/18": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.242.164.0/23": {
+        "origin": [
+            {
+                "asn": 61232,
+                "holder": "REDIT - redIT Services AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:1900:4120::/44": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "2600:1900::/31"
+        ]
+    },
+    "212.43.192.0/18": {
+        "origin": [
+            {
+                "asn": 8426,
+                "holder": "CLARANET-AS - Claranet Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.58.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.32.0.0/11"
+        ]
+    },
+    "2a03:b0c0:2::/48": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "54.74.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "54.72.0.0/13"
+        ]
+    },
+    "87.237.168.0/22": {
+        "origin": [
+            {
+                "asn": 42810,
+                "holder": "TCNETCH - TcNet GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.65.160.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.64.0.0/12",
+            "34.64.0.0/14"
+        ]
+    },
+    "208.90.32.0/24": {
+        "origin": [
+            {
+                "asn": 40193,
+                "holder": "AS-TRIT"
+            }
+        ],
+        "related_prefixes": [
+            "208.90.32.0/21"
+        ]
+    },
+    "18.156.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "176.9.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.209.6.0/24": {
+        "origin": [
+            {
+                "asn": 208813,
+                "holder": "GALEXIS - Galexis AG"
+            }
+        ],
+        "related_prefixes": [
+            "194.209.0.0/16"
+        ]
+    },
+    "130.59.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.38.160.0/19": {
+        "origin": [
+            {
+                "asn": 12350,
+                "holder": "VTX-NETWORK - VTX Services SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "89.45.227.0/24": {
+        "origin": [
+            {
+                "asn": 42695,
+                "holder": "CNHAB - Cleura AB"
+            }
+        ],
+        "related_prefixes": [
+            "89.45.226.0/23"
+        ]
+    },
+    "108.128.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "128.127.55.0/24": {
+        "origin": [
+            {
+                "asn": 9100,
+                "holder": "ASPECTRA - Aspectra AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.193.244.0/22": {
+        "origin": [
+            {
+                "asn": 62035,
+                "holder": "BYTEWORKS - Byteworks GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.140.144.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.136.0.0/13",
+            "34.140.0.0/16"
+        ]
+    },
+    "185.98.152.0/22": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:620::/32": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": [
+            "2001:620::/29"
+        ]
+    },
+    "185.85.248.0/22": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:2a8::/32": {
+        "origin": [
+            {
+                "asn": 29655,
+                "holder": "TRENKA - Trenka Informatik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.196.104.0/22": {
+        "origin": [
+            {
+                "asn": 60059,
+                "holder": "AVENIQ-AS - Aveniq AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:1128::/32": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.34.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "2600:9000:25ef::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "178.62.192.0/18": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "146.67.0.0/16": {
+        "origin": [
+            {
+                "asn": 8803,
+                "holder": "MIGROS - Migros-Genossenschafts-Bund"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.239.16.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.170.88.0/24": {
+        "origin": [
+            {
+                "asn": 48038,
+                "holder": "CH-COOP - Coop Genossenschaft"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.120.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.64.0.0/10"
+        ]
+    },
+    "195.64.134.0/23": {
+        "origin": [
+            {
+                "asn": 42059,
+                "holder": "HUGY - HuGy GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.76.192.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.64.0.0/12",
+            "34.76.0.0/14"
+        ]
+    },
+    "92.43.216.0/21": {
+        "origin": [
+            {
+                "asn": 25563,
+                "holder": "WEBLAND-AS - Webland AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "94.103.96.0/20": {
+        "origin": [
+            {
+                "asn": 49457,
+                "holder": "OPENBUSINESS - Openbusiness S.A."
+            }
+        ],
+        "related_prefixes": [
+            "94.103.97.0/24"
+        ]
+    },
+    "138.201.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:67c:10ec::/48": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.248.144.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "13.248.0.0/14"
+        ]
+    },
+    "172.64.155.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "195.15.192.0/18": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.239.220.0/24": {
+        "origin": [
+            {
+                "asn": 48751,
+                "holder": "UNOG-AS - United Nations Logistics Base"
+            }
+        ],
+        "related_prefixes": [
+            "193.239.220.0/23"
+        ]
+    },
+    "2a02:418::/29": {
+        "origin": [
+            {
+                "asn": 29691,
+                "holder": "NINE - Nine Internet Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.165.136.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "18.164.0.0/14"
+        ]
+    },
+    "185.90.36.0/22": {
+        "origin": [
+            {
+                "asn": 200759,
+                "holder": "FLOW - Flow Swiss AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "54.242.0.0/15": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "54.240.0.0/12"
+        ]
+    },
+    "195.70.0.0/19": {
+        "origin": [
+            {
+                "asn": 12333,
+                "holder": "DFINET - Cheops Technology Switzerland SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.203.32.0/19": {
+        "origin": [
+            {
+                "asn": 25375,
+                "holder": "LEU-AS - LeuPuls AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.206.104.0/23": {
+        "origin": [
+            {
+                "asn": 15532,
+                "holder": "Raiffeisen Schweiz Genossenschaft"
+            }
+        ],
+        "related_prefixes": [
+            "91.206.104.0/24"
+        ]
+    },
+    "216.239.36.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "213.167.226.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "129.132.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.248.176.0/20": {
+        "origin": [
+            {
+                "asn": 20473,
+                "holder": "AS-VULTR"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.52.208.0/20": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.32.0.0/11"
+        ]
+    },
+    "45.223.167.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.85.124.0/22": {
+        "origin": [
+            {
+                "asn": 48461,
+                "holder": "STEPPING-STONE - stepping stone AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.9.122.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.231.200.0/21": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": [
+            "46.231.200.0/24"
+        ]
+    },
+    "193.247.32.0/22": {
+        "origin": [
+            {
+                "asn": 39265,
+                "holder": "BERN - Stadtverwaltung der Stadt Bern"
+            }
+        ],
+        "related_prefixes": [
+            "193.247.32.0/24"
+        ]
+    },
+    "54.246.128.0/17": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "54.240.0.0/12"
+        ]
+    },
+    "185.88.236.0/22": {
+        "origin": [
+            {
+                "asn": 29691,
+                "holder": "NINE - Nine Internet Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.178.193.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "185.178.192.0/22"
+        ]
+    },
+    "51.254.0.0/15": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.104.0.0/14": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.96.0.0/12",
+            "34.104.128.0/20",
+            "34.104.144.0/20",
+            "34.104.160.0/20",
+            "34.104.176.0/20",
+            "34.104.192.0/20",
+            "34.104.208.0/20",
+            "34.104.224.0/20",
+            "34.104.240.0/20",
+            "34.105.0.0/20",
+            "34.105.16.0/20",
+            "34.105.32.0/20",
+            "34.105.48.0/20",
+            "34.105.64.0/20",
+            "34.105.80.0/20",
+            "34.105.96.0/20",
+            "34.105.112.0/20",
+            "34.105.128.0/20",
+            "34.105.144.0/20",
+            "34.105.160.0/20",
+            "34.105.176.0/20",
+            "34.105.192.0/20",
+            "34.105.208.0/20",
+            "34.105.224.0/20",
+            "34.105.240.0/20",
+            "34.106.0.0/20",
+            "34.106.16.0/20",
+            "34.106.32.0/20",
+            "34.106.48.0/20",
+            "34.106.64.0/20",
+            "34.106.80.0/20",
+            "34.106.96.0/20",
+            "34.106.112.0/20",
+            "34.106.128.0/20",
+            "34.106.144.0/20",
+            "34.106.160.0/20",
+            "34.106.176.0/20",
+            "34.106.192.0/20",
+            "34.106.208.0/20",
+            "34.106.224.0/20",
+            "34.106.240.0/20",
+            "34.107.0.0/20",
+            "34.107.16.0/20",
+            "34.107.32.0/20",
+            "34.107.48.0/20",
+            "34.107.64.0/20",
+            "34.107.80.0/20",
+            "34.107.96.0/20",
+            "34.107.112.0/20",
+            "34.104.8.0/21",
+            "34.104.16.0/21",
+            "34.104.40.0/21",
+            "34.104.0.0/22",
+            "34.104.6.0/23",
+            "34.104.29.0/24",
+            "34.104.30.0/24",
+            "34.104.31.0/24"
+        ]
+    },
+    "52.223.0.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.223.0.0/17"
+        ]
+    },
+    "5.148.160.0/19": {
+        "origin": [
+            {
+                "asn": 29691,
+                "holder": "NINE - Nine Internet Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.134.183.0/24": {
+        "origin": [
+            {
+                "asn": 21449,
+                "holder": "ETATGE - ETAT DE GENEVE"
+            }
+        ],
+        "related_prefixes": [
+            "193.134.176.0/20"
+        ]
+    },
+    "185.199.108.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "104.18.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "2a00:c38::/32": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.165.168.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "18.164.0.0/14"
+        ]
+    },
+    "2a01:b100::/32": {
+        "origin": [
+            {
+                "asn": 43127,
+                "holder": "PCK-AS - Ifolor AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.195.208.0/20": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": [
+            "85.195.192.0/18"
+        ]
+    },
+    "107.154.76.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "77.74.168.0/23": {
+        "origin": [
+            {
+                "asn": 43127,
+                "holder": "PCK-AS - Ifolor AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.41.90.0/24": {
+        "origin": [
+            {
+                "asn": 200713,
+                "holder": "FREY-AS - Zettaplan AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.75.32.0/22": {
+        "origin": [
+            {
+                "asn": 198385,
+                "holder": "ALPINEDC - AlpineDC SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.144.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.117.168.0/22": {
+        "origin": [
+            {
+                "asn": 200713,
+                "holder": "FREY-AS - Zettaplan AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "144.76.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.64.138.0/23": {
+        "origin": [
+            {
+                "asn": 42085,
+                "holder": "TELCONET-AS - Telconet AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.165.0.0/16": {
+        "origin": [
+            {
+                "asn": 8560,
+                "holder": "IONOS-AS - IONOS SE"
+            }
+        ],
+        "related_prefixes": [
+            "82.165.208.0/21",
+            "82.165.4.0/22",
+            "82.165.2.0/23",
+            "82.165.50.0/23",
+            "82.165.130.0/23",
+            "82.165.132.0/23",
+            "82.165.140.0/23",
+            "82.165.200.0/23",
+            "82.165.204.0/23",
+            "82.165.220.0/23",
+            "82.165.10.0/24",
+            "82.165.14.0/24",
+            "82.165.16.0/24",
+            "82.165.42.0/24",
+            "82.165.58.0/24",
+            "82.165.63.0/24",
+            "82.165.142.0/24",
+            "82.165.171.0/24",
+            "82.165.173.0/24",
+            "82.165.181.0/24",
+            "82.165.193.0/24",
+            "82.165.196.0/24",
+            "82.165.230.0/24",
+            "82.165.235.0/24",
+            "82.165.245.0/24"
+        ]
+    },
+    "194.126.145.0/24": {
+        "origin": [
+            {
+                "asn": 34960,
+                "holder": "NETCETERA-AG-AS - Netcetera AG"
+            }
+        ],
+        "related_prefixes": [
+            "194.126.144.0/23"
+        ]
+    },
+    "212.103.64.0/19": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": [
+            "212.103.64.0/24"
+        ]
+    },
+    "18.198.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a04:4e42:400::/48": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:4e42::/32"
+        ]
+    },
+    "146.185.64.0/19": {
+        "origin": [
+            {
+                "asn": 8758,
+                "holder": "IWAY - Iway AG"
+            }
+        ],
+        "related_prefixes": [
+            "146.185.94.0/24"
+        ]
+    },
+    "104.18.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "104.18.38.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "212.71.120.0/21": {
+        "origin": [
+            {
+                "asn": 24951,
+                "holder": "EVERYWARE-NET - EveryWare AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.40.0.0/19": {
+        "origin": [
+            {
+                "asn": 12350,
+                "holder": "VTX-NETWORK - VTX Services SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "162.55.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.0.0/19"
+        ]
+    },
+    "3.124.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.64.0.0/10"
+        ]
+    },
+    "2a04:c43::/32": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:c43:f11::/48",
+            "2a04:c43:f12::/48"
+        ]
+    },
+    "192.33.120.0/21": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.148.0.0/24": {
+        "origin": [
+            {
+                "asn": 20988,
+                "holder": "MTF-CLOUD - MTF Solutions AG"
+            }
+        ],
+        "related_prefixes": [
+            "217.148.0.0/20",
+            "217.148.0.0/23"
+        ]
+    },
+    "194.40.0.0/23": {
+        "origin": [
+            {
+                "asn": 24949,
+                "holder": "BTCML-AXA-AS - AXA Technology Services UK Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "76.76.21.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "139.104.191.0/24": {
+        "origin": [
+            {
+                "asn": 8137,
+                "holder": "DISNEYONLINE-AS"
+            }
+        ],
+        "related_prefixes": [
+            "139.104.184.0/21"
+        ]
+    },
+    "23.218.64.0/21": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.192.0.0/11"
+        ]
+    },
+    "185.145.148.0/22": {
+        "origin": [
+            {
+                "asn": 15623,
+                "holder": "CYBERLINK - Cyberlink AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.64.149.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "85.131.128.0/19": {
+        "origin": [
+            {
+                "asn": 34309,
+                "holder": "LINK11 - Link11 GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "85.131.137.0/24"
+        ]
+    },
+    "134.21.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.37.160.0/20": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.32.0.0/11"
+        ]
+    },
+    "165.160.15.0/24": {
+        "origin": [
+            {
+                "asn": 19574,
+                "holder": "CSC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.35.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "194.247.8.0/24": {
+        "origin": [
+            {
+                "asn": 9100,
+                "holder": "ASPECTRA - Aspectra AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "81.17.16.0/20": {
+        "origin": [
+            {
+                "asn": 51852,
+                "holder": "PLI-AS - Private Layer INC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.247.120.0/22": {
+        "origin": [
+            {
+                "asn": 6776,
+                "holder": "THENET - TheNet - Internet Services AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:2792::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "85.10.192.0/18": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.240.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "185.221.40.0/24": {
+        "origin": [
+            {
+                "asn": 206087,
+                "holder": "INTERNEZZO - internezzo ag"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.138.212.0/22": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "162.23.0.0/16": {
+        "origin": [
+            {
+                "asn": 33845,
+                "holder": "SWISSGOV - Swiss Federation represented by FOITT"
+            }
+        ],
+        "related_prefixes": [
+            "162.23.128.0/17",
+            "162.23.64.0/18",
+            "162.23.32.0/19",
+            "162.23.16.0/20",
+            "162.23.0.0/21",
+            "162.23.8.0/22",
+            "162.23.12.0/23",
+            "162.23.15.0/24"
+        ]
+    },
+    "52.217.231.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.216.0.0/14",
+            "52.217.224.0/19"
+        ]
+    },
+    "185.125.164.0/22": {
+        "origin": [
+            {
+                "asn": 203732,
+                "holder": "DVBERN - DV Bern AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.150.244.0/23": {
+        "origin": [
+            {
+                "asn": 31004,
+                "holder": "SBB-CFF-FFS - Schweizerische Bundesbahnen SBB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a06:c01::/32": {
+        "origin": [
+            {
+                "asn": 59414,
+                "holder": "CLOUDSCALE - cloudscale.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.99.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.137.172.0/24": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.0.66.0/24": {
+        "origin": [
+            {
+                "asn": 2635,
+                "holder": "AUTOMATTIC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.40.144.0/23": {
+        "origin": [
+            {
+                "asn": 206891,
+                "holder": "KANTONLUZERN - Kanton Luzern, Dienststelle Informatik"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a04:4e42:600::/48": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:4e42::/32"
+        ]
+    },
+    "2a00:c1e0::/32": {
+        "origin": [
+            {
+                "asn": 59891,
+                "holder": "FSIT - FSIT AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:67c:2e38::/48": {
+        "origin": [
+            {
+                "asn": 31424,
+                "holder": "NEXELLENT-AS - Netrics Zuerich AG, Opfikon"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.18.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.0.0.0/11"
+        ]
+    },
+    "195.65.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "195.65.0.0/24",
+            "195.65.24.0/24",
+            "195.65.33.0/24",
+            "195.65.37.0/24",
+            "195.65.43.0/24",
+            "195.65.86.0/24",
+            "195.65.91.0/24",
+            "195.65.103.0/24",
+            "195.65.142.0/24"
+        ]
+    },
+    "88.99.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.22.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "160.46.224.0/19": {
+        "origin": [
+            {
+                "asn": 8590,
+                "holder": "Bayerische Motoren Werke Aktiengesellschaft"
+            }
+        ],
+        "related_prefixes": [
+            "160.46.245.0/24"
+        ]
+    },
+    "157.90.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.212.164.0/24": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "23.192.0.0/11"
+        ]
+    },
+    "34.224.0.0/12": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "104.131.64.0/18": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.246.0.0/17": {
+        "origin": [
+            {
+                "asn": 42708,
+                "holder": "GLESYS - GleSYS AB"
+            }
+        ],
+        "related_prefixes": [
+            "46.246.10.0/23",
+            "46.246.1.0/24"
+        ]
+    },
+    "193.47.112.0/20": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "130.125.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "108.156.200.0/22": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.46.56.0/22": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "93.190.126.0/24": {
+        "origin": [
+            {
+                "asn": 210861,
+                "holder": "ONA - Open Networks Association"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.52.132.0/22": {
+        "origin": [
+            {
+                "asn": 15830,
+                "holder": "EQUINIX - Equinix (EMEA) Acquisition Enterprises B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.70.184.0/24": {
+        "origin": [
+            {
+                "asn": 29169,
+                "holder": "GANDI-AS - GANDI SAS"
+            }
+        ],
+        "related_prefixes": [
+            "217.70.176.0/20"
+        ]
+    },
+    "213.55.128.0/17": {
+        "origin": [
+            {
+                "asn": 15796,
+                "holder": "SALT-CH - Salt Mobile SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.74.145.0/24": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": [
+            "80.74.144.0/20"
+        ]
+    },
+    "185.168.120.0/22": {
+        "origin": [
+            {
+                "asn": 29430,
+                "holder": "AXCASP - Audatex (Schweiz) GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.247.0.0/19": {
+        "origin": [
+            {
+                "asn": 35396,
+                "holder": "KTGR-AS - Amt fuer Informatik des Kantons Graubuenden"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.191.132.0/23": {
+        "origin": [
+            {
+                "asn": 31424,
+                "holder": "NEXELLENT-AS - Netrics Zuerich AG, Opfikon"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.239.32.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.157.188.0/22": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.181.0.0/16": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "35.176.0.0/13"
+        ]
+    },
+    "2600:9000:21f8::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "34.248.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "104.18.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "193.218.104.0/24": {
+        "origin": [
+            {
+                "asn": 49071,
+                "holder": "SWISSTXT - Schweizerische Radio- und Fernsehgesellschaft"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.40.216.0/22": {
+        "origin": [
+            {
+                "asn": 29166,
+                "holder": "NZZ-AS - Neue Zuercher Zeitung AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "78.46.0.0/15": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.89.144.0/22": {
+        "origin": [
+            {
+                "asn": 200979,
+                "holder": "HXS - Hosting eXperts Switzerland AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:2334::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "34.65.16.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.64.0.0/12",
+            "34.64.0.0/14"
+        ]
+    },
+    "185.79.202.0/23": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:1f18::/35": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "2600:1f00::/24",
+            "2600:1f18::/33"
+        ]
+    },
+    "185.181.204.0/22": {
+        "origin": [
+            {
+                "asn": 197352,
+                "holder": "TINEXT - Tinext Cloud SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.195.188.0/23": {
+        "origin": [
+            {
+                "asn": 43828,
+                "holder": "LORO-AS - Societe de la Loterie de la Suisse Romande"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.42.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "20.48.0.0/12": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "94.126.16.0/21": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": [
+            "94.126.16.0/24"
+        ]
+    },
+    "212.74.128.0/18": {
+        "origin": [
+            {
+                "asn": 12651,
+                "holder": "IPWORLDCOM - IP worldcom SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:2240::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "185.49.220.0/22": {
+        "origin": [
+            {
+                "asn": 59905,
+                "holder": "NTH - NTH AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.214.169.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "91.214.168.0/22"
+        ]
+    },
+    "34.65.48.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.64.0.0/12",
+            "34.64.0.0/14"
+        ]
+    },
+    "91.237.218.0/24": {
+        "origin": [
+            {
+                "asn": 212882,
+                "holder": "DNXNETWORK - dnx network sarl"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.22.16.0/20": {
+        "origin": [
+            {
+                "asn": 51873,
+                "holder": "AS-ARCADE - Arcade Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a09:f00:b::/48": {
+        "origin": [
+            {
+                "asn": 206087,
+                "holder": "INTERNEZZO - internezzo ag"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.10.52.0/22": {
+        "origin": [
+            {
+                "asn": 199587,
+                "holder": "SOLIDIT - solidIT AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.196.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.85.48.0/22": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.84.0.0/14"
+        ]
+    },
+    "212.147.0.0/17": {
+        "origin": [
+            {
+                "asn": 12350,
+                "holder": "VTX-NETWORK - VTX Services SA"
+            }
+        ],
+        "related_prefixes": [
+            "212.147.79.0/24"
+        ]
+    },
+    "46.4.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "151.101.0.0/22": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "151.101.0.0/16"
+        ]
+    },
+    "2600:9000:236e::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "77.72.174.0/24": {
+        "origin": [
+            {
+                "asn": 42416,
+                "holder": "COMNET-AS - Comnet Internetional BV"
+            }
+        ],
+        "related_prefixes": [
+            "77.72.168.0/21"
+        ]
+    },
+    "104.16.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "37.35.104.0/21": {
+        "origin": [
+            {
+                "asn": 198385,
+                "holder": "ALPINEDC - AlpineDC SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.96.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.96.0/19"
+        ]
+    },
+    "193.138.29.0/24": {
+        "origin": [
+            {
+                "asn": 208378,
+                "holder": "BIGIT - BIG IT AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "199.59.243.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.249.0.0/16": {
+        "origin": [
+            {
+                "asn": 702,
+                "holder": "UUNET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.93.20.0/22": {
+        "origin": [
+            {
+                "asn": 31052,
+                "holder": "EXIGO - Exigo AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.11.208.0/20": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.208.20.0/22": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.192.0.0/11"
+        ]
+    },
+    "52.160.0.0/11": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.2.20.0/22": {
+        "origin": [
+            {
+                "asn": 199229,
+                "holder": "EXONIK-AS - Exonik Sarl"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:e980:59::/48": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "158.247.6.0/23": {
+        "origin": [
+            {
+                "asn": 14627,
+                "holder": "NOIP-VITAL"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.94.64.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.80.0.0/12",
+            "34.92.0.0/14"
+        ]
+    },
+    "142.251.36.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "142.250.0.0/15"
+        ]
+    },
+    "2a00:1450:400f::/48": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "2a00:1450::/32"
+        ]
+    },
+    "5.102.144.0/21": {
+        "origin": [
+            {
+                "asn": 59414,
+                "holder": "CLOUDSCALE - cloudscale.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.56.0.0/18": {
+        "origin": [
+            {
+                "asn": 201319,
+                "holder": "STADTZUERICH - Stadt Zuerich, Organisation und Informatik"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "99.83.176.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "99.83.128.0/17"
+        ]
+    },
+    "2606:4700:20::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:21::/48"
+        ]
+    },
+    "194.56.218.0/24": {
+        "origin": [
+            {
+                "asn": 202035,
+                "holder": "TALUS-AS - Talus Informatik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "199.58.83.0/24": {
+        "origin": [
+            {
+                "asn": 7765,
+                "holder": "KOUMBIT"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.208.130.0/24": {
+        "origin": [
+            {
+                "asn": 48350,
+                "holder": "ZENVOO-AS - Zenvoo Sagl"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.65.208.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.64.0.0/12",
+            "34.64.0.0/14"
+        ]
+    },
+    "89.236.171.0/24": {
+        "origin": [
+            {
+                "asn": 15600,
+                "holder": "QUICKLINE - Quickline AG"
+            }
+        ],
+        "related_prefixes": [
+            "89.236.128.0/18"
+        ]
+    },
+    "148.196.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "107.154.214.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.246.96.0/24": {
+        "origin": [
+            {
+                "asn": 15361,
+                "holder": "UBP - UNION BANCAIRE PRIVEE, UBP SA"
+            }
+        ],
+        "related_prefixes": [
+            "193.246.96.0/23"
+        ]
+    },
+    "194.6.188.0/24": {
+        "origin": [
+            {
+                "asn": 31141,
+                "holder": "SWISSQUOTE-AS - Swissquote Bank SA"
+            }
+        ],
+        "related_prefixes": [
+            "194.6.160.0/19"
+        ]
+    },
+    "62.128.0.0/19": {
+        "origin": [
+            {
+                "asn": 12337,
+                "holder": "NORIS-NETWORK - noris network AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.167.225.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.56.191.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:1600::/32": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": [
+            "2001:1600:ffff::/48"
+        ]
+    },
+    "3.5.9.0/24": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "3.0.0.0/10",
+            "3.5.0.0/19",
+            "3.5.0.0/20",
+            "3.5.8.0/23"
+        ]
+    },
+    "52.16.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.0.0.0/11"
+        ]
+    },
+    "185.218.50.0/23": {
+        "origin": [
+            {
+                "asn": 204824,
+                "holder": "PSIDEO-EU - PSiDEO SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "77.72.176.0/21": {
+        "origin": [
+            {
+                "asn": 48218,
+                "holder": "HIHO - HiHo AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.164.68.0/23": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.128.0.0/10"
+        ]
+    },
+    "104.22.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "159.144.0.0/16": {
+        "origin": [
+            {
+                "asn": 34578,
+                "holder": "BEDAG - Bedag Informatik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.71.176.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "35.71.128.0/17"
+        ]
+    },
+    "80.75.112.0/20": {
+        "origin": [
+            {
+                "asn": 34554,
+                "holder": "ANTANET - Antares Kommunikationstechnik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.110.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "185.26.106.0/23": {
+        "origin": [
+            {
+                "asn": 24935,
+                "holder": "ATE-AS - Eurofiber France SAS"
+            }
+        ],
+        "related_prefixes": [
+            "185.26.104.0/22"
+        ]
+    },
+    "146.159.0.0/16": {
+        "origin": [
+            {
+                "asn": 49071,
+                "holder": "SWISSTXT - Schweizerische Radio- und Fernsehgesellschaft"
+            }
+        ],
+        "related_prefixes": [
+            "146.159.1.0/24"
+        ]
+    },
+    "45.77.240.0/20": {
+        "origin": [
+            {
+                "asn": 20473,
+                "holder": "AS-VULTR"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.227.38.0/23": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.242.192.0/20": {
+        "origin": [
+            {
+                "asn": 61174,
+                "holder": "GLATTWERK - Glattwerk AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.64.154.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "130.60.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.244.63.0/24": {
+        "origin": [
+            {
+                "asn": 40193,
+                "holder": "AS-TRIT"
+            }
+        ],
+        "related_prefixes": [
+            "104.244.56.0/21"
+        ]
+    },
+    "104.18.40.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "62.65.128.0/19": {
+        "origin": [
+            {
+                "asn": 15517,
+                "holder": "NETSTREAM-CH - Netstream Holding AG"
+            }
+        ],
+        "related_prefixes": [
+            "62.65.144.0/21",
+            "62.65.154.0/23",
+            "62.65.156.0/23",
+            "62.65.137.0/24",
+            "62.65.141.0/24",
+            "62.65.142.0/24",
+            "62.65.143.0/24",
+            "62.65.153.0/24",
+            "62.65.158.0/24"
+        ]
+    },
+    "217.71.240.0/20": {
+        "origin": [
+            {
+                "asn": 8758,
+                "holder": "IWAY - Iway AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "159.100.248.0/21": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a0a:6bc0::/29": {
+        "origin": [
+            {
+                "asn": 60059,
+                "holder": "AVENIQ-AS - Aveniq AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.197.160.0/20": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": [
+            "82.197.160.0/19"
+        ]
+    },
+    "193.36.36.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:678:bd8::/48": {
+        "origin": [
+            {
+                "asn": 51895,
+                "holder": "PUBLICOMPSERVER - Ingo Klein"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.8.191.0/24": {
+        "origin": [
+            {
+                "asn": 48038,
+                "holder": "CH-COOP - Coop Genossenschaft"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.141.188.0/22": {
+        "origin": [
+            {
+                "asn": 55293,
+                "holder": "A2HOSTING"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.97.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.165.180.0/22": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "18.164.0.0/14"
+        ]
+    },
+    "2a02:e0c0:1000::/38": {
+        "origin": [
+            {
+                "asn": 9100,
+                "holder": "ASPECTRA - Aspectra AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.2.0.0/17": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "62.2.0.0/16"
+        ]
+    },
+    "69.163.128.0/17": {
+        "origin": [
+            {
+                "asn": 26347,
+                "holder": "DREAMHOST-AS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:4060::/32": {
+        "origin": [
+            {
+                "asn": 6772,
+                "holder": "IMPNET-AS - ImproWare AG"
+            }
+        ],
+        "related_prefixes": [
+            "2001:4060:4052::/48"
+        ]
+    },
+    "185.151.30.0/24": {
+        "origin": [
+            {
+                "asn": 48254,
+                "holder": "TWENTYI - 20i Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "151.101.240.0/22": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "151.101.0.0/16"
+        ]
+    },
+    "194.230.0.0/17": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "194.230.0.0/16",
+            "194.230.110.0/24"
+        ]
+    },
+    "172.64.153.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "80.92.65.0/24": {
+        "origin": [
+            {
+                "asn": 24611,
+                "holder": "DCLUX-AS - Datacenter Luxembourg S.A."
+            }
+        ],
+        "related_prefixes": [
+            "80.92.64.0/19"
+        ]
+    },
+    "81.201.192.0/20": {
+        "origin": [
+            {
+                "asn": 25353,
+                "holder": "BAR-AS - BAR Informatik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "147.88.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.192.0.0/12": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "2a06:98c1:3200::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "15.197.160.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "15.197.0.0/16"
+        ]
+    },
+    "195.50.128.0/18": {
+        "origin": [
+            {
+                "asn": 3209,
+                "holder": "VODANET - Vodafone GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.64.145.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "2a04:4e42:200::/48": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:4e42::/32"
+        ]
+    },
+    "2.19.188.0/22": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "2.16.0.0/13"
+        ]
+    },
+    "2a02:aa00::/28": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "2a02:aa00::/27"
+        ]
+    },
+    "62.240.192.0/23": {
+        "origin": [
+            {
+                "asn": 13267,
+                "holder": "Zuercher Kantonalbank"
+            }
+        ],
+        "related_prefixes": [
+            "62.240.192.0/19",
+            "62.240.192.0/22"
+        ]
+    },
+    "185.110.152.0/22": {
+        "origin": [
+            {
+                "asn": 203969,
+                "holder": "YMC-AS - YMC AG"
+            }
+        ],
+        "related_prefixes": [
+            "185.110.154.0/24",
+            "185.110.155.0/24"
+        ]
+    },
+    "2a00:d70::/32": {
+        "origin": [
+            {
+                "asn": 29097,
+                "holder": "HOSTPOINT-AS - Hostpoint AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.234.0.0/24": {
+        "origin": [
+            {
+                "asn": 20634,
+                "holder": "TELECOM-LI - Telecom Liechtenstein AG"
+            }
+        ],
+        "related_prefixes": [
+            "195.234.0.0/23"
+        ]
+    },
+    "193.73.208.0/24": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.10.25.0/24": {
+        "origin": [
+            {
+                "asn": 12703,
+                "holder": "PULSANT-AS - Pulsant (Scotland) Ltd"
+            }
+        ],
+        "related_prefixes": [
+            "5.10.24.0/23"
+        ]
+    },
+    "2001:19f0:6c00::/38": {
+        "origin": [
+            {
+                "asn": 20473,
+                "holder": "AS-VULTR"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.227.48.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "35.224.0.0/14",
+            "35.227.0.0/16"
+        ]
+    },
+    "185.136.120.0/22": {
+        "origin": [
+            {
+                "asn": 204631,
+                "holder": "VIVANET-AS - VIVANET GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:1900:4020::/44": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "2600:1900::/31"
+        ]
+    },
+    "172.217.12.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "172.217.0.0/16"
+        ]
+    },
+    "2a02:a90::/32": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "15.236.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a01:4f8::/32": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.134.0.0/16": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a04:4e42::/48": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:4e42::/32"
+        ]
+    },
+    "16.15.216.0/21": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "16.15.0.0/16",
+            "16.15.192.0/18"
+        ]
+    },
+    "160.219.0.0/16": {
+        "origin": [
+            {
+                "asn": 15661,
+                "holder": "Bank J. Safra Sarasin AG"
+            }
+        ],
+        "related_prefixes": [
+            "160.219.128.0/21",
+            "160.219.136.0/21"
+        ]
+    },
+    "2a05:d018:1000::/36": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2a05:d000::/25"
+        ]
+    },
+    "80.86.192.0/20": {
+        "origin": [
+            {
+                "asn": 1836,
+                "holder": "GREEN - green.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.46.224.0/19": {
+        "origin": [
+            {
+                "asn": 6830,
+                "holder": "LIBERTYGLOBAL - Liberty Global B.V."
+            }
+        ],
+        "related_prefixes": [
+            "213.46.0.0/16",
+            "213.46.128.0/17"
+        ]
+    },
+    "195.160.190.0/23": {
+        "origin": [
+            {
+                "asn": 35663,
+                "holder": "DNS-NET-CH - DNS-NET Services GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.116.196.0/23": {
+        "origin": [
+            {
+                "asn": 34514,
+                "holder": "FUTURECOM - INGO Zurich AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.111.139.0/24": {
+        "origin": [
+            {
+                "asn": 208305,
+                "holder": "AS_VISECA - Viseca Payment Services AG"
+            }
+        ],
+        "related_prefixes": [
+            "217.110.0.0/15"
+        ]
+    },
+    "193.222.138.0/24": {
+        "origin": [
+            {
+                "asn": 15576,
+                "holder": "NTS - NTS workspace AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.176.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.158.64.0/18": {
+        "origin": [
+            {
+                "asn": 34086,
+                "holder": "SCZN-AS - T-Systems International GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "80.128.0.0/11",
+            "80.158.104.0/21",
+            "80.158.88.0/22",
+            "80.158.76.0/23",
+            "80.158.78.0/23",
+            "80.158.67.0/24",
+            "80.158.72.0/24",
+            "80.158.73.0/24",
+            "80.158.74.0/24",
+            "80.158.75.0/24",
+            "80.158.80.0/24",
+            "80.158.81.0/24",
+            "80.158.82.0/24",
+            "80.158.83.0/24",
+            "80.158.84.0/24",
+            "80.158.85.0/24",
+            "80.158.92.0/24",
+            "80.158.93.0/24",
+            "80.158.97.0/24"
+        ]
+    },
+    "192.124.249.0/24": {
+        "origin": [
+            {
+                "asn": 30148,
+                "holder": "SUCURI-SEC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "100.24.0.0/13": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.35.32.0/19": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.34.136.0/23": {
+        "origin": [
+            {
+                "asn": 43800,
+                "holder": "GANESH-CONSULTING - Ganesh Hosting SARL"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.48.0.0/19": {
+        "origin": [
+            {
+                "asn": 8271,
+                "holder": "CH-IBS-AS8271 - Internet Business Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.161.0.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "151.101.128.0/22": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "151.101.0.0/16"
+        ]
+    },
+    "172.67.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.117.192.0/19": {
+        "origin": [
+            {
+                "asn": 13250,
+                "holder": "BACKBONE-CH - Backbone Solutions AG"
+            }
+        ],
+        "related_prefixes": [
+            "212.117.193.0/24",
+            "212.117.194.0/24",
+            "212.117.208.0/24",
+            "212.117.211.0/24"
+        ]
+    },
+    "104.20.240.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "35.207.64.0/18": {
+        "origin": [
+            {
+                "asn": 19527,
+                "holder": "GOOGLE-2"
+            },
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "35.206.0.0/15"
+        ]
+    },
+    "2a03:2040::/29": {
+        "origin": [
+            {
+                "asn": 198385,
+                "holder": "ALPINEDC - AlpineDC SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "135.181.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.112.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.96.0/19"
+        ]
+    },
+    "153.109.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "116.202.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.25.0.0/16": {
+        "origin": [
+            {
+                "asn": 5617,
+                "holder": "TPNET - Orange Polska Spolka Akcyjna"
+            }
+        ],
+        "related_prefixes": [
+            "213.25.92.0/24",
+            "213.25.166.0/24"
+        ]
+    },
+    "46.28.200.0/21": {
+        "origin": [
+            {
+                "asn": 197988,
+                "holder": "SOLARCOM - Solar Communications GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.186.32.0/19": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.17.68.0/22": {
+        "origin": [
+            {
+                "asn": 198249,
+                "holder": "OPSONE - Ops One AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a03:7520::/32": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.57.76.0/24": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "23.32.0.0/11"
+        ]
+    },
+    "80.74.148.0/24": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.162.28.0/22": {
+        "origin": [
+            {
+                "asn": 31736,
+                "holder": "SENSELAN-AS - senseLAN GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "89.145.166.0/23": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a05:d014:400::/38": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2a05:d000::/25",
+            "2a05:d014::/35",
+            "2a05:d014::/36"
+        ]
+    },
+    "31.216.40.0/21": {
+        "origin": [
+            {
+                "asn": 48461,
+                "holder": "STEPPING-STONE - stepping stone AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3037::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "93.174.184.0/21": {
+        "origin": [
+            {
+                "asn": 47506,
+                "holder": "NEXANET - Nexanet AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.19.28.0/22": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.87.158.0/23": {
+        "origin": [
+            {
+                "asn": 48596,
+                "holder": "INWX - InterNetworX Management GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.42.212.0/24": {
+        "origin": [
+            {
+                "asn": 13649,
+                "holder": "ASN-FLEXENTIAL"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.218.100.0/22": {
+        "origin": [
+            {
+                "asn": 49071,
+                "holder": "SWISSTXT - Schweizerische Radio- und Fernsehgesellschaft"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.69.92.0/24": {
+        "origin": [
+            {
+                "asn": 15623,
+                "holder": "CYBERLINK - Cyberlink AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "157.26.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.38.65.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "20.64.0.0/10": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "20.74.128.0/17"
+        ]
+    },
+    "104.19.240.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "172.67.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.41.128.0/17": {
+        "origin": [
+            {
+                "asn": 12511,
+                "holder": "CH-POSTNETZ - Die Schweizerische Post AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.64.150.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "151.101.192.0/22": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "151.101.0.0/16"
+        ]
+    },
+    "188.114.96.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "83.222.128.0/19": {
+        "origin": [
+            {
+                "asn": 31736,
+                "holder": "SENSELAN-AS - senseLAN GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3036::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "2600:1900:40c0::/44": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "2600:1900::/31"
+        ]
+    },
+    "194.33.154.0/24": {
+        "origin": [
+            {
+                "asn": 49642,
+                "holder": "TCS - Touring Club Suisse"
+            }
+        ],
+        "related_prefixes": [
+            "194.33.152.0/22"
+        ]
+    },
+    "169.61.64.0/18": {
+        "origin": [
+            {
+                "asn": 36351,
+                "holder": "SOFTLAYER"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:1417:4400::/48": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "2600:1400::/24"
+        ]
+    },
+    "185.56.24.0/22": {
+        "origin": [
+            {
+                "asn": 60129,
+                "holder": "CSTI-NET - CSTI SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.163.64.0/22": {
+        "origin": [
+            {
+                "asn": 12928,
+                "holder": "BCV - Banque Cantonale Vaudoise"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.85.108.0/22": {
+        "origin": [
+            {
+                "asn": 51395,
+                "holder": "AS-SOFTPLUS - Datasource AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:368::/32": {
+        "origin": [
+            {
+                "asn": 28859,
+                "holder": "ZUGERNET - Convotis Schweiz AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.156.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "35.152.0.0/13"
+        ]
+    },
+    "192.122.254.0/24": {
+        "origin": [
+            {
+                "asn": 210346,
+                "holder": "PHOENIX - Phoenix Systems AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.33.176.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.0.0.0/10"
+        ]
+    },
+    "2a03:b940::/32": {
+        "origin": [
+            {
+                "asn": 206484,
+                "holder": "ORIENTEDNET - oriented.net GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.47.247.0/24": {
+        "origin": [
+            {
+                "asn": 51468,
+                "holder": "ONECOM - One.com A/S"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "160.53.144.0/23": {
+        "origin": [
+            {
+                "asn": 21449,
+                "holder": "ETATGE - ETAT DE GENEVE"
+            }
+        ],
+        "related_prefixes": [
+            "160.53.0.0/16"
+        ]
+    },
+    "2600:9000:263e::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "185.184.13.0/24": {
+        "origin": [
+            {
+                "asn": 206522,
+                "holder": "ISPDC-AS - ISP Datacenter SARL"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "160.98.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.16.80.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "18.239.48.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "89.145.164.0/23": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:1901::/32": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "2600:1900::/31",
+            "2600:1901:4010::/44",
+            "2600:1901:8100::/44",
+            "2600:1901:8110::/44",
+            "2600:1901:8120::/44",
+            "2600:1901:8130::/44",
+            "2600:1901:8140::/44",
+            "2600:1901:8150::/44",
+            "2600:1901:8160::/44",
+            "2600:1901:8170::/44",
+            "2600:1901:8180::/44",
+            "2600:1901:8190::/44",
+            "2600:1901:81a0::/44",
+            "2600:1901:81b0::/44",
+            "2600:1901:81c0::/44",
+            "2600:1901:81f0::/44",
+            "2600:1901:bdd0::/44",
+            "2600:1901:c0a0::/44",
+            "2600:1901:c0b0::/44",
+            "2600:1901:c0c0::/44",
+            "2600:1901:c120::/44",
+            "2600:1901:ff80::/44",
+            "2600:1901:ffa0::/44",
+            "2600:1901:ffb0::/44",
+            "2600:1901:ffc0::/44",
+            "2600:1901:ffd0::/44",
+            "2600:1901:ffe0::/44",
+            "2600:1901:fff0::/44"
+        ]
+    },
+    "141.193.213.0/24": {
+        "origin": [
+            {
+                "asn": 209242,
+                "holder": "CLOUDFLARESPECTRUM - Cloudflare London, LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:238d::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "89.106.200.0/24": {
+        "origin": [
+            {
+                "asn": 209626,
+                "holder": "ENFLOW - Enflow B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.224.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "116.203.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.217.80.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.216.0.0/14"
+        ]
+    },
+    "185.15.228.0/22": {
+        "origin": [
+            {
+                "asn": 206484,
+                "holder": "ORIENTEDNET - oriented.net GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.169.82.0/23": {
+        "origin": [
+            {
+                "asn": 49489,
+                "holder": "CLEARMEDIA-AS - ClearMedia AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.100.64.0/20": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "95.100.0.0/15"
+        ]
+    },
+    "212.162.56.0/23": {
+        "origin": [
+            {
+                "asn": 61157,
+                "holder": "PLUSSERVER-ASN1 - PlusServer GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "212.162.0.0/18"
+        ]
+    },
+    "104.20.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "91.236.78.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "35.190.0.0/16": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "35.184.0.0/13",
+            "35.190.128.0/19",
+            "35.190.160.0/19",
+            "35.190.192.0/19",
+            "35.190.224.0/19",
+            "35.190.128.0/20",
+            "35.190.144.0/20",
+            "35.190.160.0/20",
+            "35.190.176.0/20",
+            "35.190.192.0/20",
+            "35.190.208.0/20",
+            "35.190.224.0/20",
+            "35.190.240.0/23",
+            "35.190.242.0/23",
+            "35.190.244.0/23",
+            "35.190.246.0/23"
+        ]
+    },
+    "94.231.94.0/24": {
+        "origin": [
+            {
+                "asn": 48971,
+                "holder": "DATAWIRE-AS - DATAWIRE AG"
+            }
+        ],
+        "related_prefixes": [
+            "94.231.80.0/20",
+            "94.231.88.0/21"
+        ]
+    },
+    "199.60.103.0/24": {
+        "origin": [
+            {
+                "asn": 209242,
+                "holder": "CLOUDFLARESPECTRUM - Cloudflare London, LLC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "141.249.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.178.194.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "185.178.192.0/22"
+        ]
+    },
+    "193.200.220.0/24": {
+        "origin": [
+            {
+                "asn": 34781,
+                "holder": "SIL-CITYCABLE-AS - Citycable"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.199.159.0/24": {
+        "origin": [
+            {
+                "asn": 201011,
+                "holder": "CORE-BACKBONE - Core-Backbone GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "82.199.128.0/19"
+        ]
+    },
+    "161.62.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.70.42.0/24": {
+        "origin": [
+            {
+                "asn": 62371,
+                "holder": "PROTON - Proton AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:1450:400e::/48": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "2a00:1450::/32"
+        ]
+    },
+    "52.216.185.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.216.0.0/14",
+            "52.216.160.0/19"
+        ]
+    },
+    "104.26.0.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "165.160.13.0/24": {
+        "origin": [
+            {
+                "asn": 19574,
+                "holder": "CSC"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a03:da40::/32": {
+        "origin": [
+            {
+                "asn": 58222,
+                "holder": "SERVERBASE - ServerBase AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.35.32.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "13.32.0.0/14"
+        ]
+    },
+    "185.44.210.0/23": {
+        "origin": [
+            {
+                "asn": 49808,
+                "holder": "POWERSPEED-AS - Energie AG Oberoesterreich Services und Digital Solutions GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "147.86.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a01:6a8::/32": {
+        "origin": [
+            {
+                "asn": 34554,
+                "holder": "ANTANET - Antares Kommunikationstechnik AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3030::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "87.233.128.0/18": {
+        "origin": [
+            {
+                "asn": 15703,
+                "holder": "TRUESERVER-AS - TrueFullstaq B.V."
+            }
+        ],
+        "related_prefixes": [
+            "87.233.0.0/16"
+        ]
+    },
+    "84.253.32.0/19": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "84.253.0.0/18"
+        ]
+    },
+    "31.171.241.0/24": {
+        "origin": [
+            {
+                "asn": 50837,
+                "holder": "CLOUDSIGMA-AS - CLOUDSIGMA AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.176.0.0/17": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "87.98.128.0/17": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "167.235.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "131.152.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "146.136.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "82.195.224.0/19": {
+        "origin": [
+            {
+                "asn": 1836,
+                "holder": "GREEN - green.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2610:1a0:a0::/44": {
+        "origin": [
+            {
+                "asn": 40193,
+                "holder": "AS-TRIT"
+            }
+        ],
+        "related_prefixes": [
+            "2610:1a0::/32"
+        ]
+    },
+    "213.221.128.0/19": {
+        "origin": [
+            {
+                "asn": 15547,
+                "holder": "NETPLUS - netplus.ch SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a04:500::/29": {
+        "origin": [
+            {
+                "asn": 198249,
+                "holder": "OPSONE - Ops One AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "67.199.248.0/24": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:4fe0::/32": {
+        "origin": [
+            {
+                "asn": 60129,
+                "holder": "CSTI-NET - CSTI SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "49.12.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2600:9000:2447::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "188.245.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "103.224.182.0/23": {
+        "origin": [
+            {
+                "asn": 133618,
+                "holder": "TRELLIAN-AS-AP Trellian Pty. Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.98.28.0/22": {
+        "origin": [
+            {
+                "asn": 34271,
+                "holder": "CDROM - Centre de donnees romand SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.14.64.0/20": {
+        "origin": [
+            {
+                "asn": 15623,
+                "holder": "CYBERLINK - Cyberlink AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.47.168.0/21": {
+        "origin": [
+            {
+                "asn": 44879,
+                "holder": "ZIDBL - Zentrale Informatikdienste ZID Kanton Basel-Landschaft"
+            }
+        ],
+        "related_prefixes": [
+            "193.47.169.0/24"
+        ]
+    },
+    "104.21.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.0.0/19"
+        ]
+    },
+    "213.167.224.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "89.117.48.0/20": {
+        "origin": [
+            {
+                "asn": 51167,
+                "holder": "CONTABO - Contabo GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.17.96.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "2001:678:a40::/48": {
+        "origin": [
+            {
+                "asn": 204911,
+                "holder": "SYSTEMLOS-AS - Digitale Partizipation e.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.8.106.0/23": {
+        "origin": [
+            {
+                "asn": 29641,
+                "holder": "ALLIANZ-AS - Allianz Suisse Versicherungs-Gesellschaft AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a01:9e00::/32": {
+        "origin": [
+            {
+                "asn": 41495,
+                "holder": "FAELIX - Faelix Limited"
+            }
+        ],
+        "related_prefixes": [
+            "2a01:9e00::/29",
+            "2a01:9e00:ac53::/48"
+        ]
+    },
+    "195.186.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "195.186.8.0/24",
+            "195.186.126.0/24"
+        ]
+    },
+    "2600:9000:2304::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "13.64.0.0/11": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.94.148.0/22": {
+        "origin": [
+            {
+                "asn": 197352,
+                "holder": "TINEXT - Tinext Cloud SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "93.188.72.0/22": {
+        "origin": [
+            {
+                "asn": 29655,
+                "holder": "TRENKA - Trenka Informatik AG"
+            }
+        ],
+        "related_prefixes": [
+            "93.188.72.0/21"
+        ]
+    },
+    "89.207.232.0/21": {
+        "origin": [
+            {
+                "asn": 196810,
+                "holder": "MORESICOM - Moresi.Com SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.192.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "169.50.128.0/18": {
+        "origin": [
+            {
+                "asn": 36351,
+                "holder": "SOFTLAYER"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.247.80.0/22": {
+        "origin": [
+            {
+                "asn": 206834,
+                "holder": "TEAMINTERNET-CA-AS - Team Internet AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "81.88.58.0/24": {
+        "origin": [
+            {
+                "asn": 39729,
+                "holder": "REGISTER-AS - REGISTER S.P.A."
+            }
+        ],
+        "related_prefixes": [
+            "81.88.48.0/20"
+        ]
+    },
+    "80.74.144.0/20": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": [
+            "80.74.145.0/24"
+        ]
+    },
+    "160.85.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "99.83.240.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "99.83.128.0/17"
+        ]
+    },
+    "44.192.0.0/11": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "44.192.0.0/10"
+        ]
+    },
+    "46.140.128.0/17": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "46.140.0.0/16"
+        ]
+    },
+    "178.209.32.0/19": {
+        "origin": [
+            {
+                "asn": 29691,
+                "holder": "NINE - Nine Internet Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.227.216.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.16.48.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "104.18.16.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "2a02:168::/32": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": [
+            "2a02:168::/30"
+        ]
+    },
+    "35.214.128.0/17": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            },
+            {
+                "asn": 19527,
+                "holder": "GOOGLE-2"
+            }
+        ],
+        "related_prefixes": [
+            "35.212.0.0/14"
+        ]
+    },
+    "194.126.201.0/24": {
+        "origin": [
+            {
+                "asn": 31424,
+                "holder": "NEXELLENT-AS - Netrics Zuerich AG, Opfikon"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.223.179.0/24": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:1680::/32": {
+        "origin": [
+            {
+                "asn": 9044,
+                "holder": "SOLNET - BSE Software GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "2001:1680::/29"
+        ]
+    },
+    "65.21.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "16.62.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.79.180.0/24": {
+        "origin": [
+            {
+                "asn": 201481,
+                "holder": "CDISA - CDI Conseils et Developpements Informatiques SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.249.188.0/22": {
+        "origin": [
+            {
+                "asn": 50476,
+                "holder": "GRPMUT - Groupe Mutuel Association"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.33.221.0/24": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:8a8::/32": {
+        "origin": [
+            {
+                "asn": 15623,
+                "holder": "CYBERLINK - Cyberlink AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.48.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.32.0/19"
+        ]
+    },
+    "129.194.0.0/15": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:41d0::/32": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": [
+            "2001:41d0:fc00::/38",
+            "2001:41d0:ab00::/48",
+            "2001:41d0:ab01::/48",
+            "2001:41d0:ab02::/48",
+            "2001:41d0:ab03::/48",
+            "2001:41d0:ab04::/48",
+            "2001:41d0:ab05::/48",
+            "2001:41d0:ab06::/48",
+            "2001:41d0:ab07::/48",
+            "2001:41d0:ab08::/48",
+            "2001:41d0:ab09::/48",
+            "2001:41d0:ab0a::/48",
+            "2001:41d0:ab0b::/48",
+            "2001:41d0:ab0c::/48"
+        ]
+    },
+    "91.200.144.0/24": {
+        "origin": [
+            {
+                "asn": 56798,
+                "holder": "HIDORA - HIDORA SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.223.32.0/19": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.17.208.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "217.182.0.0/16": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.53.104.0/24": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.135.64.0/20": {
+        "origin": [
+            {
+                "asn": 41913,
+                "holder": "COMPUTERLINE - Computerline GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "91.135.76.0/24"
+        ]
+    },
+    "194.126.200.0/24": {
+        "origin": [
+            {
+                "asn": 47302,
+                "holder": "CYON - cyon GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.20.192.0/20": {
+        "origin": [
+            {
+                "asn": 24951,
+                "holder": "EVERYWARE-NET - EveryWare AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.67.32.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.176.224.0/19": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.236.62.0/24": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "23.236.48.0/20"
+        ]
+    },
+    "91.202.120.0/22": {
+        "origin": [
+            {
+                "asn": 31424,
+                "holder": "NEXELLENT-AS - Netrics Zuerich AG, Opfikon"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.230.185.0/24": {
+        "origin": [
+            {
+                "asn": 205067,
+                "holder": "SWISSNS - swissns GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "195.190.140.0/24": {
+        "origin": [
+            {
+                "asn": 39392,
+                "holder": "SUPERNETWORK - SH.cz s.r.o."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:e980:57::/48": {
+        "origin": [
+            {
+                "asn": 19551,
+                "holder": "INCAPSULA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.147.160.0/22": {
+        "origin": [
+            {
+                "asn": 205393,
+                "holder": "AIG - AEROPORT INTERNATIONAL DE GENEVE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:1a88::/29": {
+        "origin": [
+            {
+                "asn": 15600,
+                "holder": "QUICKLINE - Quickline AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:1768:2000::/36": {
+        "origin": [
+            {
+                "asn": 43350,
+                "holder": "NFORCE - NForce Entertainment B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a0b:1640:1::/48": {
+        "origin": [
+            {
+                "asn": 205787,
+                "holder": "PUBLICLOUD - Public Cloud Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.243.121.0/24": {
+        "origin": [
+            {
+                "asn": 47538,
+                "holder": "ANCOMA-AS - Swisspro AG"
+            }
+        ],
+        "related_prefixes": [
+            "212.243.0.0/16"
+        ]
+    },
+    "217.150.240.0/20": {
+        "origin": [
+            {
+                "asn": 29691,
+                "holder": "NINE - Nine Internet Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.181.104.0/22": {
+        "origin": [
+            {
+                "asn": 48596,
+                "holder": "INWX - InterNetworX Management GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a09:5f80:2::/48": {
+        "origin": [
+            {
+                "asn": 48038,
+                "holder": "CH-COOP - Coop Genossenschaft"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:d08::/32": {
+        "origin": [
+            {
+                "asn": 48218,
+                "holder": "HIHO - HiHo AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.68.11.0/24": {
+        "origin": [
+            {
+                "asn": 204911,
+                "holder": "SYSTEMLOS-AS - Digitale Partizipation e.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "99.80.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.184.0.0/16": {
+        "origin": [
+            {
+                "asn": 513,
+                "holder": "CERN - CERN - European Organization for Nuclear Research"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.109.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "2a01:ab20::/32": {
+        "origin": [
+            {
+                "asn": 47302,
+                "holder": "CYON - cyon GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.175.9.0/24": {
+        "origin": [
+            {
+                "asn": 15830,
+                "holder": "EQUINIX - Equinix (EMEA) Acquisition Enterprises B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "145.239.0.0/16": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a01:488::/32": {
+        "origin": [
+            {
+                "asn": 20773,
+                "holder": "GODADDY - Host Europe GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "2a01:488:bb00::/48",
+            "2a01:488:bb01::/48",
+            "2a01:488:bb02::/48",
+            "2a01:488:bb03::/48",
+            "2a01:488:bb04::/48",
+            "2a01:488:bb06::/48",
+            "2a01:488:bb07::/48",
+            "2a01:488:bb08::/48",
+            "2a01:488:bb09::/48",
+            "2a01:488:bb0a::/48",
+            "2a01:488:bb0b::/48",
+            "2a01:488:bb0f::/48",
+            "2a01:488:bb12::/48",
+            "2a01:488:bb14::/48",
+            "2a01:488:bb15::/48",
+            "2a01:488:bb19::/48",
+            "2a01:488:bb1a::/48",
+            "2a01:488:bb1b::/48",
+            "2a01:488:bb1c::/48",
+            "2a01:488:bb1d::/48"
+        ]
+    },
+    "192.42.192.0/21": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:1::/48"
+        ]
+    },
+    "34.96.0.0/14": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.96.0.0/12",
+            "34.96.0.0/20",
+            "34.96.16.0/20",
+            "34.96.128.0/20",
+            "34.96.144.0/20",
+            "34.96.160.0/20",
+            "34.96.176.0/20",
+            "34.96.192.0/20",
+            "34.96.208.0/20",
+            "34.96.224.0/20",
+            "34.96.240.0/20",
+            "34.97.0.0/20",
+            "34.97.16.0/20",
+            "34.97.32.0/20",
+            "34.97.48.0/20",
+            "34.97.64.0/20",
+            "34.97.80.0/20",
+            "34.97.96.0/20",
+            "34.97.112.0/20",
+            "34.97.128.0/20",
+            "34.97.144.0/20",
+            "34.97.160.0/20",
+            "34.97.176.0/20",
+            "34.97.192.0/20",
+            "34.97.208.0/20",
+            "34.97.224.0/20",
+            "34.97.240.0/20",
+            "34.98.160.0/20",
+            "34.98.176.0/20",
+            "34.98.192.0/20",
+            "34.98.208.0/20",
+            "34.98.224.0/20",
+            "34.98.240.0/20",
+            "34.99.0.0/20",
+            "34.99.16.0/20",
+            "34.99.32.0/20",
+            "34.99.48.0/20",
+            "34.99.64.0/20",
+            "34.99.96.0/20",
+            "34.99.112.0/20",
+            "34.99.128.0/20",
+            "34.99.144.0/20",
+            "34.99.160.0/20",
+            "34.99.176.0/20",
+            "34.99.192.0/20",
+            "34.99.208.0/20",
+            "34.99.224.0/20",
+            "34.99.240.0/20",
+            "34.98.128.0/21",
+            "34.99.80.0/21",
+            "34.99.88.0/21",
+            "34.98.152.0/22",
+            "34.98.156.0/22"
+        ]
+    },
+    "188.92.144.0/21": {
+        "origin": [
+            {
+                "asn": 44919,
+                "holder": "EQIPE - eqipe GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.96.0.0/14": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "145.232.0.0/16": {
+        "origin": [
+            {
+                "asn": 15675,
+                "holder": "ETAT-DE-VAUD - Direction des Systemes d'Information, Etat de Vaud"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "16.182.35.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "16.182.0.0/16",
+            "16.182.32.0/20",
+            "16.182.32.0/21"
+        ]
+    },
+    "185.141.20.0/22": {
+        "origin": [
+            {
+                "asn": 200979,
+                "holder": "HXS - Hosting eXperts Switzerland AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.183.48.0/20": {
+        "origin": [
+            {
+                "asn": 197988,
+                "holder": "SOLARCOM - Solar Communications GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "95.183.58.0/24"
+        ]
+    },
+    "185.206.180.0/24": {
+        "origin": [
+            {
+                "asn": 205787,
+                "holder": "PUBLICLOUD - Public Cloud Ltd."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.37.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "156.106.128.0/17": {
+        "origin": [
+            {
+                "asn": 8414,
+                "holder": "International Telecommunication Union"
+            }
+        ],
+        "related_prefixes": [
+            "156.106.0.0/16",
+            "156.106.251.0/24"
+        ]
+    },
+    "104.16.112.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "178.32.0.0/15": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "77.75.112.0/21": {
+        "origin": [
+            {
+                "asn": 42917,
+                "holder": "STAEMPFLI - Staempfli AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "204.79.197.0/24": {
+        "origin": [
+            {
+                "asn": 8068,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "34.89.80.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.80.0.0/12",
+            "34.88.0.0/14"
+        ]
+    },
+    "172.232.192.0/19": {
+        "origin": [
+            {
+                "asn": 63949,
+                "holder": "AKAMAI-LINODE-AP Akamai Connected Cloud"
+            }
+        ],
+        "related_prefixes": [
+            "172.224.0.0/12",
+            "172.232.0.0/13"
+        ]
+    },
+    "172.67.128.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.135.58.0/24": {
+        "origin": [
+            {
+                "asn": 207143,
+                "holder": "HOSTTECH-AS - hosttech GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3033::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "172.67.160.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "149.126.0.0/21": {
+        "origin": [
+            {
+                "asn": 47302,
+                "holder": "CYON - cyon GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "67.225.128.0/17": {
+        "origin": [
+            {
+                "asn": 32244,
+                "holder": "LIQUIDWEB"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a14:6640::/29": {
+        "origin": [
+            {
+                "asn": 51395,
+                "holder": "AS-SOFTPLUS - Datasource AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "128.178.0.0/15": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.227.224.0/21": {
+        "origin": [
+            {
+                "asn": 42760,
+                "holder": "ABACUS - Abacus Research AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "18.245.216.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:19f0:4400::/38": {
+        "origin": [
+            {
+                "asn": 20473,
+                "holder": "AS-VULTR"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "65.9.42.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "65.8.0.0/14"
+        ]
+    },
+    "18.194.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.191.0.0/16": {
+        "origin": [
+            {
+                "asn": 1836,
+                "holder": "GREEN - green.ch AG"
+            }
+        ],
+        "related_prefixes": [
+            "194.191.112.0/22",
+            "194.191.17.0/24"
+        ]
+    },
+    "40.80.0.0/12": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "40.95.86.0/23",
+            "40.95.238.0/23",
+            "40.80.71.0/24"
+        ]
+    },
+    "62.2.128.0/17": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "62.2.0.0/16"
+        ]
+    },
+    "20.192.0.0/10": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": [
+            "20.203.0.0/17",
+            "20.196.0.0/18"
+        ]
+    },
+    "2a07:7800::/48": {
+        "origin": [
+            {
+                "asn": 48254,
+                "holder": "TWENTYI - 20i Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "5.57.204.0/22": {
+        "origin": [
+            {
+                "asn": 212865,
+                "holder": "NETCONNECT - netconnect AG"
+            }
+        ],
+        "related_prefixes": [
+            "5.57.200.0/21"
+        ]
+    },
+    "157.161.0.0/16": {
+        "origin": [
+            {
+                "asn": 6772,
+                "holder": "IMPNET-AS - ImproWare AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.48.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.32.0.0/11"
+        ]
+    },
+    "2a04:c44::/32": {
+        "origin": [
+            {
+                "asn": 61098,
+                "holder": "EXOSCALE - Akenes SA"
+            }
+        ],
+        "related_prefixes": [
+            "2a04:c44:f11::/48",
+            "2a04:c44:f12::/48"
+        ]
+    },
+    "141.101.90.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "148.187.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "45.178.7.0/24": {
+        "origin": [
+            {
+                "asn": 64122,
+                "holder": "SWISS GLOBAL SERVICES S.A.S"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "65.8.160.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "65.8.0.0/14"
+        ]
+    },
+    "75.2.64.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "75.2.0.0/17"
+        ]
+    },
+    "193.108.136.0/23": {
+        "origin": [
+            {
+                "asn": 42346,
+                "holder": "AS-TINEO - NorthC Schweiz AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.227.200.0/21": {
+        "origin": [
+            {
+                "asn": 41495,
+                "holder": "FAELIX - Faelix Limited"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.190.244.0/22": {
+        "origin": [
+            {
+                "asn": 206261,
+                "holder": "DYNANET-AS - DynaNet GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "75.2.60.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "75.2.0.0/17",
+            "75.2.48.0/20"
+        ]
+    },
+    "35.246.192.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "35.244.0.0/14"
+        ]
+    },
+    "104.17.160.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "152.88.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "3.64.0.0/12": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.64.0.0/10"
+        ]
+    },
+    "51.103.0.0/16": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "80.74.128.0/20": {
+        "origin": [
+            {
+                "asn": 21069,
+                "holder": "ASN-METANET - METANET AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "54.192.48.0/22": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "54.192.0.0/12"
+        ]
+    },
+    "89.58.60.0/22": {
+        "origin": [
+            {
+                "asn": 197540,
+                "holder": "NETCUP-AS - netcup GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "213.160.32.0/19": {
+        "origin": [
+            {
+                "asn": 21232,
+                "holder": "GGAMAUR - Genossenschaft GGA Maur"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "159.69.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.101.74.0/24": {
+        "origin": [
+            {
+                "asn": 20940,
+                "holder": "AKAMAI-ASN1 - Akamai International B.V."
+            }
+        ],
+        "related_prefixes": [
+            "95.100.0.0/15"
+        ]
+    },
+    "23.200.188.0/22": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.192.0.0/11"
+        ]
+    },
+    "52.216.38.0/24": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.216.0.0/14",
+            "52.216.32.0/20"
+        ]
+    },
+    "2a06:98c1:3121::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.243.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "212.243.12.0/24",
+            "212.243.33.0/24",
+            "212.243.39.0/24",
+            "212.243.60.0/24",
+            "212.243.66.0/24",
+            "212.243.115.0/24",
+            "212.243.120.0/24",
+            "212.243.121.0/24",
+            "212.243.123.0/24",
+            "212.243.124.0/24",
+            "212.243.125.0/24",
+            "212.243.126.0/24",
+            "212.243.127.0/24",
+            "212.243.129.0/24",
+            "212.243.178.0/24"
+        ]
+    },
+    "185.27.185.0/24": {
+        "origin": [
+            {
+                "asn": 9100,
+                "holder": "ASPECTRA - Aspectra AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "93.191.88.0/21": {
+        "origin": [
+            {
+                "asn": 51760,
+                "holder": "MEDELA-AS - Medela AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "79.141.80.0/20": {
+        "origin": [
+            {
+                "asn": 44166,
+                "holder": "NTD-AS - NTD SA"
+            }
+        ],
+        "related_prefixes": [
+            "79.141.92.0/24"
+        ]
+    },
+    "2a03:380::/32": {
+        "origin": [
+            {
+                "asn": 13250,
+                "holder": "BACKBONE-CH - Backbone Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.29.0.0/16": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.0.0.0/11"
+        ]
+    },
+    "185.199.111.0/24": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.108.0/22"
+        ]
+    },
+    "46.232.176.0/21": {
+        "origin": [
+            {
+                "asn": 35206,
+                "holder": "NOVATREND-AS - NovaTrend Services GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "52.28.0.0/16": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "52.0.0.0/11"
+        ]
+    },
+    "81.23.64.0/20": {
+        "origin": [
+            {
+                "asn": 12350,
+                "holder": "VTX-NETWORK - VTX Services SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "64.190.62.0/23": {
+        "origin": [
+            {
+                "asn": 47846,
+                "holder": "SEDO-AS - SEDO GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:10::/44": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700::/36",
+            "2606:4700:11::/48"
+        ]
+    },
+    "194.150.248.0/23": {
+        "origin": [
+            {
+                "asn": 35206,
+                "holder": "NOVATREND-AS - NovaTrend Services GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:4860::/32": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "2001:4860:1025::/48",
+            "2001:4860:1040::/48",
+            "2001:4860:4805::/48",
+            "2001:4860:480c::/48",
+            "2001:4860:4820::/48",
+            "2001:4860:4821::/48",
+            "2001:4860:4822::/48",
+            "2001:4860:4823::/48",
+            "2001:4860:4824::/48",
+            "2001:4860:4825::/48",
+            "2001:4860:4826::/48",
+            "2001:4860:4827::/48",
+            "2001:4860:4828::/48",
+            "2001:4860:4829::/48",
+            "2001:4860:482a::/48",
+            "2001:4860:482b::/48",
+            "2001:4860:482c::/48",
+            "2001:4860:482d::/48",
+            "2001:4860:482e::/48",
+            "2001:4860:482f::/48",
+            "2001:4860:4830::/48",
+            "2001:4860:4831::/48",
+            "2001:4860:4832::/48",
+            "2001:4860:4833::/48",
+            "2001:4860:4864::/48"
+        ]
+    },
+    "46.105.0.0/16": {
+        "origin": [
+            {
+                "asn": 16276,
+                "holder": "OVH - OVH SAS"
+            }
+        ],
+        "related_prefixes": [
+            "46.105.198.0/24",
+            "46.105.199.0/24",
+            "46.105.200.0/24",
+            "46.105.201.0/24",
+            "46.105.202.0/24",
+            "46.105.203.0/24",
+            "46.105.204.0/24",
+            "46.105.206.0/24",
+            "46.105.207.0/24"
+        ]
+    },
+    "176.10.96.0/19": {
+        "origin": [
+            {
+                "asn": 51395,
+                "holder": "AS-SOFTPLUS - Datasource AG"
+            }
+        ],
+        "related_prefixes": [
+            "176.10.111.0/24",
+            "176.10.119.0/24"
+        ]
+    },
+    "147.87.0.0/16": {
+        "origin": [
+            {
+                "asn": 200233,
+                "holder": "BFH - Berner Fachhochschule"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.17.112.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "194.153.188.0/23": {
+        "origin": [
+            {
+                "asn": 31736,
+                "holder": "SENSELAN-AS - senseLAN GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "16.15.176.0/21": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "16.15.0.0/16",
+            "16.15.176.0/20"
+        ]
+    },
+    "185.16.172.0/22": {
+        "origin": [
+            {
+                "asn": 58222,
+                "holder": "SERVERBASE - ServerBase AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "148.251.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "88.208.192.0/18": {
+        "origin": [
+            {
+                "asn": 8560,
+                "holder": "IONOS-AS - IONOS SE"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.94.192.0/19": {
+        "origin": [
+            {
+                "asn": 12637,
+                "holder": "SEEWEB - SEEWEB s.r.l."
+            }
+        ],
+        "related_prefixes": [
+            "85.94.208.0/20"
+        ]
+    },
+    "88.213.128.0/18": {
+        "origin": [
+            {
+                "asn": 35518,
+                "holder": "SASAG - sasag Kabelkommunikation AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.223.16.0/20": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a02:c206::/32": {
+        "origin": [
+            {
+                "asn": 51167,
+                "holder": "CONTABO - Contabo GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.18.32.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "2a06:98c1:3120::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.4.64.0/19": {
+        "origin": [
+            {
+                "asn": 8821,
+                "holder": "TELEZUG - WWZ Telekom AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2a00:41c0::/32": {
+        "origin": [
+            {
+                "asn": 48971,
+                "holder": "DATAWIRE-AS - DATAWIRE AG"
+            }
+        ],
+        "related_prefixes": [
+            "2a00:41c0::/29",
+            "2a00:41c0:a8::/47",
+            "2a00:41c0:7::/48",
+            "2a00:41c0:8::/48",
+            "2a00:41c0:9::/48",
+            "2a00:41c0:10::/48",
+            "2a00:41c0:11::/48",
+            "2a00:41c0:14::/48",
+            "2a00:41c0:16::/48",
+            "2a00:41c0:19::/48",
+            "2a00:41c0:20::/48",
+            "2a00:41c0:21::/48",
+            "2a00:41c0:81::/48",
+            "2a00:41c0:185::/48",
+            "2a00:41c0:194::/48",
+            "2a00:41c0:a11::/48",
+            "2a00:41c0:a21::/48",
+            "2a00:41c0:a94::/48",
+            "2a00:41c0:b94::/48",
+            "2a00:41c0:e94::/48",
+            "2a00:41c0:1185::/48",
+            "2a00:41c0:a121::/48",
+            "2a00:41c0:a123::/48",
+            "2a00:41c0:a185::/48",
+            "2a00:41c0:a186::/48",
+            "2a00:41c0:d185::/48",
+            "2a00:41c0:f185::/48",
+            "2a00:41c0:f231::/48"
+        ]
+    },
+    "3.248.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "3.192.0.0/10"
+        ]
+    },
+    "216.239.32.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "2a00:17c9::/32": {
+        "origin": [
+            {
+                "asn": 12511,
+                "holder": "CH-POSTNETZ - Die Schweizerische Post AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "62.12.128.0/17": {
+        "origin": [
+            {
+                "asn": 15623,
+                "holder": "CYBERLINK - Cyberlink AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "206.189.48.0/20": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.199.220.0/22": {
+        "origin": [
+            {
+                "asn": 12488,
+                "holder": "KRYSTAL - Krystal Hosting Ltd"
+            }
+        ],
+        "related_prefixes": [
+            "185.199.222.0/24"
+        ]
+    },
+    "194.121.11.0/24": {
+        "origin": [
+            {
+                "asn": 21161,
+                "holder": "ASN-BECHTLE - Bechtle AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "75.2.16.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "75.2.0.0/17"
+        ]
+    },
+    "79.125.0.0/17": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "79.125.0.0/18"
+        ]
+    },
+    "172.67.208.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "188.114.98.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "104.21.64.0/20": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.21.64.0/19"
+        ]
+    },
+    "216.239.34.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "2600:9000:274d::/48": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "2600:9000::/28"
+        ]
+    },
+    "104.18.33.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12",
+            "104.18.32.0/19",
+            "104.18.32.0/20"
+        ]
+    },
+    "18.65.32.0/21": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.212.196.0/24": {
+        "origin": [
+            {
+                "asn": 49983,
+                "holder": "MIRONET-AS - MiroNet AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "192.42.180.0/22": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.124.0.0/15": {
+        "origin": [
+            {
+                "asn": 8412,
+                "holder": "TMA - T-Mobile Austria GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "85.124.0.0/14"
+        ]
+    },
+    "212.51.144.0/20": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": [
+            "212.51.128.0/19"
+        ]
+    },
+    "76.223.16.0/20": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "76.223.0.0/17"
+        ]
+    },
+    "2a00:d80::/29": {
+        "origin": [
+            {
+                "asn": 35518,
+                "holder": "SASAG - sasag Kabelkommunikation AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.21.176.0/20": {
+        "origin": [
+            {
+                "asn": 34762,
+                "holder": "COMBELL-AS - Combell NV"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "51.107.0.0/16": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "91.184.48.0/20": {
+        "origin": [
+            {
+                "asn": 60781,
+                "holder": "LEASEWEB-NL-AMS-01 - LeaseWeb Netherlands B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.140.0.0/17": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "46.140.0.0/16"
+        ]
+    },
+    "2604:a880:800::/48": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.0.224.0/24": {
+        "origin": [
+            {
+                "asn": 31052,
+                "holder": "EXIGO - Exigo AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "128.65.192.0/21": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "13.32.120.0/23": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "13.32.0.0/14"
+        ]
+    },
+    "2001:67c:1128::/48": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.201.122.0/23": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:4400::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "77.109.128.0/19": {
+        "origin": [
+            {
+                "asn": 13030,
+                "holder": "INIT7 - Init7 (Switzerland) Ltd."
+            }
+        ],
+        "related_prefixes": [
+            "77.109.128.0/18"
+        ]
+    },
+    "94.231.80.0/21": {
+        "origin": [
+            {
+                "asn": 48971,
+                "holder": "DATAWIRE-AS - DATAWIRE AG"
+            }
+        ],
+        "related_prefixes": [
+            "94.231.80.0/20",
+            "94.231.80.0/24"
+        ]
+    },
+    "18.184.0.0/15": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.33.128.0/23": {
+        "origin": [
+            {
+                "asn": 35206,
+                "holder": "NOVATREND-AS - NovaTrend Services GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "46.166.184.0/24": {
+        "origin": [
+            {
+                "asn": 43350,
+                "holder": "NFORCE - NForce Entertainment B.V."
+            }
+        ],
+        "related_prefixes": []
+    },
+    "151.101.64.0/22": {
+        "origin": [
+            {
+                "asn": 54113,
+                "holder": "FASTLY"
+            }
+        ],
+        "related_prefixes": [
+            "151.101.0.0/16"
+        ]
+    },
+    "92.107.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "92.104.0.0/14",
+            "92.106.0.0/15"
+        ]
+    },
+    "212.94.32.0/20": {
+        "origin": [
+            {
+                "asn": 28859,
+                "holder": "ZUGERNET - Convotis Schweiz AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.218.0.0/17": {
+        "origin": [
+            {
+                "asn": 34781,
+                "holder": "SIL-CITYCABLE-AS - Citycable"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.237.208.0/22": {
+        "origin": [
+            {
+                "asn": 58222,
+                "holder": "SERVERBASE - ServerBase AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.43.93.0/24": {
+        "origin": [
+            {
+                "asn": 34290,
+                "holder": "EBU - Union Europeenne de Radio-Television"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.48.220.0/22": {
+        "origin": [
+            {
+                "asn": 30742,
+                "holder": "BRITELINE-AS - Bremen Briteline GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "178.238.160.0/22": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "178.238.160.0/20"
+        ]
+    },
+    "49.13.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "212.25.0.0/19": {
+        "origin": [
+            {
+                "asn": 8758,
+                "holder": "IWAY - Iway AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.125.24.0/22": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "144.200.0.0/16": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.246.176.0/20": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "85.219.128.0/17": {
+        "origin": [
+            {
+                "asn": 12912,
+                "holder": "TMPL - T-Mobile Polska S.A."
+            }
+        ],
+        "related_prefixes": [
+            "85.219.244.0/22",
+            "85.219.208.0/23",
+            "85.219.142.0/24",
+            "85.219.148.0/24",
+            "85.219.173.0/24",
+            "85.219.192.0/24",
+            "85.219.213.0/24",
+            "85.219.229.0/24",
+            "85.219.247.0/24"
+        ]
+    },
+    "3.224.0.0/12": {
+        "origin": [
+            {
+                "asn": 14618,
+                "holder": "AMAZON-AES"
+            }
+        ],
+        "related_prefixes": [
+            "3.192.0.0/10"
+        ]
+    },
+    "207.154.192.0/20": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "144.202.0.0/20": {
+        "origin": [
+            {
+                "asn": 20473,
+                "holder": "AS-VULTR"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "172.64.147.0/24": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "172.64.0.0/16"
+        ]
+    },
+    "216.239.38.0/24": {
+        "origin": [
+            {
+                "asn": 15169,
+                "holder": "GOOGLE"
+            }
+        ],
+        "related_prefixes": [
+            "216.239.32.0/19"
+        ]
+    },
+    "34.240.0.0/13": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": [
+            "34.192.0.0/10"
+        ]
+    },
+    "93.189.64.0/21": {
+        "origin": [
+            {
+                "asn": 12347,
+                "holder": "VIRTUALTEC - Virtualtec Solutions AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.209.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": [
+            "194.209.192.0/23",
+            "194.209.3.0/24",
+            "194.209.4.0/24",
+            "194.209.6.0/24",
+            "194.209.12.0/24",
+            "194.209.23.0/24",
+            "194.209.28.0/24",
+            "194.209.31.0/24",
+            "194.209.39.0/24",
+            "194.209.40.0/24",
+            "194.209.54.0/24",
+            "194.209.55.0/24",
+            "194.209.69.0/24",
+            "194.209.74.0/24",
+            "194.209.78.0/24",
+            "194.209.80.0/24",
+            "194.209.113.0/24",
+            "194.209.121.0/24",
+            "194.209.145.0/24",
+            "194.209.192.0/24",
+            "194.209.193.0/24",
+            "194.209.198.0/24",
+            "194.209.199.0/24",
+            "194.209.202.0/24",
+            "194.209.214.0/24",
+            "194.209.237.0/24",
+            "194.209.241.0/24",
+            "194.209.244.0/24"
+        ]
+    },
+    "2a12:5240::/48": {
+        "origin": [
+            {
+                "asn": 209626,
+                "holder": "ENFLOW - Enflow B.V."
+            }
+        ],
+        "related_prefixes": [
+            "2a12:5240::/47"
+        ]
+    },
+    "194.11.207.0/24": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "87.237.216.0/23": {
+        "origin": [
+            {
+                "asn": 12337,
+                "holder": "NORIS-NETWORK - noris network AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "138.190.0.0/16": {
+        "origin": [
+            {
+                "asn": 3303,
+                "holder": "SWISSCOM - Swisscom (Schweiz) AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "157.230.76.0/22": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "23.38.128.0/20": {
+        "origin": [
+            {
+                "asn": 16625,
+                "holder": "AKAMAI-AS"
+            }
+        ],
+        "related_prefixes": [
+            "23.32.0.0/11"
+        ]
+    },
+    "104.31.16.0/23": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "104.16.0.0/12"
+        ]
+    },
+    "5.9.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.14.109.0/24": {
+        "origin": [
+            {
+                "asn": 212882,
+                "holder": "DNXNETWORK - dnx network sarl"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "217.26.48.0/20": {
+        "origin": [
+            {
+                "asn": 29097,
+                "holder": "HOSTPOINT-AS - Hostpoint AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3032::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "136.243.0.0/16": {
+        "origin": [
+            {
+                "asn": 24940,
+                "holder": "HETZNER-AS - Hetzner Online GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.134.64.0/20": {
+        "origin": [
+            {
+                "asn": 48857,
+                "holder": "BASLER-AS - Baloise Versicherung AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.134.216.0/21": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "185.177.60.0/22": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "194.150.160.0/23": {
+        "origin": [
+            {
+                "asn": 1836,
+                "holder": "GREEN - green.ch AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "79.99.82.0/24": {
+        "origin": [
+            {
+                "asn": 44225,
+                "holder": "METAWAYS - Metaways Infosystems GmbH"
+            }
+        ],
+        "related_prefixes": [
+            "79.99.80.0/21"
+        ]
+    },
+    "13.36.0.0/14": {
+        "origin": [
+            {
+                "asn": 16509,
+                "holder": "AMAZON-02"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3034::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "2a02:cd8::/32": {
+        "origin": [
+            {
+                "asn": 42760,
+                "holder": "ABACUS - Abacus Research AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "51.104.0.0/15": {
+        "origin": [
+            {
+                "asn": 8075,
+                "holder": "MICROSOFT-CORP-MSN-AS-BLOCK"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2001:8e0::/32": {
+        "origin": [
+            {
+                "asn": 8758,
+                "holder": "IWAY - Iway AG"
+            }
+        ],
+        "related_prefixes": [
+            "2001:8e0::/29"
+        ]
+    },
+    "2a0a:4cc0::/43": {
+        "origin": [
+            {
+                "asn": 197540,
+                "holder": "NETCUP-AS - netcup GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "95.85.0.0/18": {
+        "origin": [
+            {
+                "asn": 14061,
+                "holder": "DIGITALOCEAN-ASN"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "2606:4700:3031::/48": {
+        "origin": [
+            {
+                "asn": 13335,
+                "holder": "CLOUDFLARENET"
+            }
+        ],
+        "related_prefixes": [
+            "2606:4700:3030::/44"
+        ]
+    },
+    "2a00:4bc0::/32": {
+        "origin": [
+            {
+                "asn": 31004,
+                "holder": "SBB-CFF-FFS - Schweizerische Bundesbahnen SBB"
+            }
+        ],
+        "related_prefixes": [
+            "2a00:4bc0:600::/40",
+            "2a00:4bc0:2400::/40",
+            "2a00:4bc0:2300::/41",
+            "2a00:4bc0:2380::/41",
+            "2a00:4bc0:2102::/48",
+            "2a00:4bc0:2103::/48",
+            "2a00:4bc0:2104::/48",
+            "2a00:4bc0:2105::/48",
+            "2a00:4bc0:2106::/48",
+            "2a00:4bc0:2107::/48",
+            "2a00:4bc0:2108::/48",
+            "2a00:4bc0:210a::/48",
+            "2a00:4bc0:210b::/48",
+            "2a00:4bc0:210c::/48",
+            "2a00:4bc0:2110::/48",
+            "2a00:4bc0:2111::/48",
+            "2a00:4bc0:2112::/48",
+            "2a00:4bc0:2113::/48",
+            "2a00:4bc0:2117::/48",
+            "2a00:4bc0:2118::/48",
+            "2a00:4bc0:2119::/48",
+            "2a00:4bc0:211b::/48",
+            "2a00:4bc0:211c::/48",
+            "2a00:4bc0:211d::/48",
+            "2a00:4bc0:211e::/48",
+            "2a00:4bc0:211f::/48",
+            "2a00:4bc0:2120::/48",
+            "2a00:4bc0:2122::/48",
+            "2a00:4bc0:2123::/48",
+            "2a00:4bc0:2124::/48",
+            "2a00:4bc0:2125::/48",
+            "2a00:4bc0:2126::/48",
+            "2a00:4bc0:2127::/48",
+            "2a00:4bc0:2128::/48",
+            "2a00:4bc0:212a::/48",
+            "2a00:4bc0:212b::/48",
+            "2a00:4bc0:212c::/48",
+            "2a00:4bc0:212d::/48",
+            "2a00:4bc0:212e::/48",
+            "2a00:4bc0:2130::/48",
+            "2a00:4bc0:2131::/48",
+            "2a00:4bc0:2132::/48",
+            "2a00:4bc0:2133::/48",
+            "2a00:4bc0:2134::/48",
+            "2a00:4bc0:2135::/48",
+            "2a00:4bc0:2136::/48",
+            "2a00:4bc0:2137::/48",
+            "2a00:4bc0:2139::/48",
+            "2a00:4bc0:213a::/48",
+            "2a00:4bc0:213b::/48",
+            "2a00:4bc0:213c::/48",
+            "2a00:4bc0:213d::/48",
+            "2a00:4bc0:213e::/48",
+            "2a00:4bc0:213f::/48",
+            "2a00:4bc0:2140::/48",
+            "2a00:4bc0:2141::/48",
+            "2a00:4bc0:2142::/48",
+            "2a00:4bc0:2143::/48",
+            "2a00:4bc0:2144::/48",
+            "2a00:4bc0:2145::/48",
+            "2a00:4bc0:2146::/48",
+            "2a00:4bc0:2147::/48",
+            "2a00:4bc0:2148::/48",
+            "2a00:4bc0:2149::/48",
+            "2a00:4bc0:214a::/48",
+            "2a00:4bc0:214b::/48",
+            "2a00:4bc0:214c::/48",
+            "2a00:4bc0:214d::/48",
+            "2a00:4bc0:214e::/48",
+            "2a00:4bc0:214f::/48",
+            "2a00:4bc0:2151::/48",
+            "2a00:4bc0:2156::/48",
+            "2a00:4bc0:2157::/48",
+            "2a00:4bc0:2158::/48",
+            "2a00:4bc0:2159::/48",
+            "2a00:4bc0:215a::/48",
+            "2a00:4bc0:215b::/48",
+            "2a00:4bc0:215f::/48",
+            "2a00:4bc0:2160::/48"
+        ]
+    },
+    "34.91.208.0/20": {
+        "origin": [
+            {
+                "asn": 396982,
+                "holder": "GOOGLE-CLOUD-PLATFORM"
+            }
+        ],
+        "related_prefixes": [
+            "34.64.0.0/11",
+            "34.80.0.0/12",
+            "34.88.0.0/14"
+        ]
+    },
+    "85.158.232.0/21": {
+        "origin": [
+            {
+                "asn": 6730,
+                "holder": "SUNRISE - Sunrise GmbH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.247.248.0/23": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "84.16.64.0/19": {
+        "origin": [
+            {
+                "asn": 29222,
+                "holder": "INFOMANIAK-AS - Infomaniak Network SA"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.134.200.0/21": {
+        "origin": [
+            {
+                "asn": 559,
+                "holder": "SWITCH"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "93.187.192.0/22": {
+        "origin": [
+            {
+                "asn": 48027,
+                "holder": "SITROX - Sitrox AG"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "193.8.88.0/24": {
+        "origin": [
+            {
+                "asn": 210500,
+                "holder": "STADT-WITHUR - Stadt Winterthur"
+            }
+        ],
+        "related_prefixes": []
+    },
+    "162.214.72.0/21": {
+        "origin": [
+            {
+                "asn": 46606,
+                "holder": "UNIFIEDLAYER-AS-1"
+            }
+        ],
+        "related_prefixes": [
+            "162.214.0.0/15"
+        ]
+    }
+}

@@ -1,0 +1,4319 @@
+{
+    "data-test.ggi.druten.nl": [
+        "159.46.66.114"
+    ],
+    "dkdservice-test.meppel.nl": [
+        "159.46.72.56"
+    ],
+    "brandportal.gorinchem.nl": [
+        "64:ff9b::b967:13c5"
+    ],
+    "dkd.noordoostpolder.nl": [
+        "194.104.46.240"
+    ],
+    "cloud.beverwijk.nl": [
+        "188.95.138.152"
+    ],
+    "buitendienst-app.krimpenerwaard.nl": [
+        "64:ff9b::cebd:21a"
+    ],
+    "remote.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a94c"
+    ],
+    "iis-vold21.gemeente-oldambt.nl": [
+        "64:ff9b::c20d:4218"
+    ],
+    "data.ggi.beuningen.nl": [
+        "159.46.66.147"
+    ],
+    "dkd.oude-ijsselstreek.nl": [
+        "194.104.50.139"
+    ],
+    "webmail.renkum.nl": [
+        "2a07:3503:1033:64::57d5:a954"
+    ],
+    "beeldenbuiten.hengelo.nl": [
+        "64:ff9b::57f9:7def"
+    ],
+    "dkdn.epe.nl": [
+        "95.152.133.242"
+    ],
+    "mail.gw.rotterdam.nl": [
+        "141.176.31.129"
+    ],
+    "digikoppeling-test.diginet.ede.nl": [
+        "95.152.128.196"
+    ],
+    "digigateway.haarlem.nl": [
+        "95.152.133.99"
+    ],
+    "remote.renkum.nl": [
+        "2a07:3503:1033:64::5969:c8d2"
+    ],
+    "afspraakmaken.rheden.nl": [
+        "2a07:3503:1033:64::2e90:4255"
+    ],
+    "gw-bastion.gw.rotterdam.nl": [
+        "141.176.31.5"
+    ],
+    "amo.apeldoorn.nl": [
+        "95.152.129.151"
+    ],
+    "mo.apeldoorn.nl": [
+        "95.152.129.150"
+    ],
+    "data.ggi.heumen.nl": [
+        "159.46.66.107"
+    ],
+    "vpn.overbetuwe.nl": [
+        "2a07:3500:1a48:11::51"
+    ],
+    "smtp.raadoverbetuwe.nl": [
+        "5.153.21.245"
+    ],
+    "dkde-vold21.gemeente-oldambt.nl": [
+        "159.46.75.83"
+    ],
+    "geo.renkum.nl": [
+        "2a07:3503:1033:64::5969:c8d5"
+    ],
+    "agbi.apeldoorn.nl": [
+        "64:ff9b::5071:a9bc"
+    ],
+    "tim.terschelling.nl": [
+        "145.87.4.137"
+    ],
+    "digikoppeling-test.gemnet.ede.nl": [
+        "194.104.42.14"
+    ],
+    "autodiscover.renkum.nl": [
+        "2a07:3503:1033:64::57d5:a954"
+    ],
+    "data-test.ggi.bergendal.nl": [
+        "159.46.66.122"
+    ],
+    "digid.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a962"
+    ],
+    "2secureggiacc.breda.nl": [
+        "159.46.74.34"
+    ],
+    "gemnet-dkd.schagen.nl": [
+        "159.46.67.244"
+    ],
+    "stan.stadskanaal.nl": [
+        "64:ff9b::b9b5:8c97"
+    ],
+    "kentekencheck.denhaag.nl": [
+        "91.142.251.131"
+    ],
+    "berichtenverkeer.smallingerland.nl": [
+        "194.104.39.112"
+    ],
+    "gn2connect.apeldoorn.nl": [
+        "95.152.129.155"
+    ],
+    "dag01.smallingerland.nl": [
+        "194.104.39.213"
+    ],
+    "werkplek.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a953"
+    ],
+    "mail-bastion.port.rotterdam.nl": [
+        "141.176.31.5"
+    ],
+    "srv-app52.smallingerland.nl": [
+        "194.104.39.212"
+    ],
+    "dkd.veldhoven.nl": [
+        "95.152.139.158"
+    ],
+    "jf.doemee.heemstede.nl": [
+        "64:ff9b::57e9:89d3"
+    ],
+    "dkd.renkum.nl": [
+        "159.46.73.0"
+    ],
+    "gn2connect-acc.apeldoorn.nl": [
+        "95.152.129.154"
+    ],
+    "dkd.steenwijkerland.nl": [
+        "194.104.40.240"
+    ],
+    "api-ggi.enschede.nl": [
+        "159.46.68.54"
+    ],
+    "digikoppeling.gemeentestein.nl": [
+        "95.152.184.4"
+    ],
+    "mobiel.peelenmaas.nl": [
+        "64:ff9b::bccc:ce86"
+    ],
+    "nieuwsbrief.arnhem.nl": [
+        "2a07:3503:1033:64::57e9:d886"
+    ],
+    "beeldbank.gemeentewestland.nl": [
+        "162.210.51.117"
+    ],
+    "haalallesuitjeafval.nl": [
+        "64:ff9b::a29f:872a"
+    ],
+    "kavelwinkel.peelenmaas.nl": [
+        "64:ff9b::2522:38ef"
+    ],
+    "pki.pijnacker-nootdorp.nl": [
+        "64:ff9b::4d3c:4185"
+    ],
+    "testdigid.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a963"
+    ],
+    "remote.noord-beveland.nl": [
+        "82.176.67.201"
+    ],
+    "mks.assen.nl": [
+        "159.46.71.228"
+    ],
+    "vdi.delft.nl": [
+        "64:ff9b::9120:5e8c"
+    ],
+    "wdvggm.waddinxveen.nl": [
+        "95.152.184.10"
+    ],
+    "api-ggi.losser.nl": [
+        "159.46.68.86"
+    ],
+    "servicedesk.leeuwarden.nl": [
+        "145.87.4.241"
+    ],
+    "denkmee.t-diel.nl": [
+        "2600:9000:2079:3a00:6:e671:53c0:93a1",
+        "2600:9000:2079:fc00:6:e671:53c0:93a1",
+        "2600:9000:2079:9e00:6:e671:53c0:93a1",
+        "2600:9000:2079:ae00:6:e671:53c0:93a1",
+        "2600:9000:2079:9000:6:e671:53c0:93a1",
+        "2600:9000:2079:2a00:6:e671:53c0:93a1",
+        "2600:9000:2079:8c00:6:e671:53c0:93a1",
+        "2600:9000:2079:c800:6:e671:53c0:93a1"
+    ],
+    "dkd.leeuwarden.nl": [
+        "159.46.73.211"
+    ],
+    "heuvelrugdoetmeer.nl": [
+        "2a00:1bd0:0:397:1::302"
+    ],
+    "pdc-acc.vng.nl": [
+        "fe80::20d:3aff:fe2e:966b"
+    ],
+    "adfs1.smallingerland.nl": [
+        "194.104.39.210"
+    ],
+    "data.gemnet.beuningen.nl": [
+        "145.11.20.69"
+    ],
+    "nieuwsbrief.utrecht.nl": [
+        "2001:67c:1870:1:80::d787",
+        "195.137.215.135"
+    ],
+    "rondleidingspoorzone.zwolle.nl": [
+        "37.153.99.240"
+    ],
+    "dkd.heerlen.nl": [
+        "159.46.69.178"
+    ],
+    "data.ggi.wijchen.nl": [
+        "159.46.66.187"
+    ],
+    "dkd.noardeast-fryslan.nl": [
+        "159.46.73.233"
+    ],
+    "e-learning.capelleaandenijssel.nl": [
+        "89.18.176.90"
+    ],
+    "dkd.aalten.nl": [
+        "194.104.50.137"
+    ],
+    "data-test.gemnet.beuningen.nl": [
+        "145.11.20.169"
+    ],
+    "makelaar-d.gooisemeren.nl": [
+        "95.152.132.194"
+    ],
+    "port-bastion.port.rotterdam.nl": [
+        "141.176.31.1"
+    ],
+    "dkd.almelo.nl": [
+        "159.46.68.17"
+    ],
+    "webmail.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a954"
+    ],
+    "key2datadistributie.voerendaal.nl": [
+        "159.46.69.210"
+    ],
+    "data.ggi.druten.nl": [
+        "159.46.66.115"
+    ],
+    "ggi.barneveld.nl": [
+        "159.46.76.20"
+    ],
+    "evenemententest.voorst.nl": [
+        "64:ff9b::5071:60f3"
+    ],
+    "iconnect-pkio.belcombinatie.nl": [
+        "95.152.184.7"
+    ],
+    "mail.hellendoorn.nl": [
+        "85.158.136.3"
+    ],
+    "dkd-test.purmerend.nl": [
+        "159.46.77.83"
+    ],
+    "gw-server.gw.rotterdam.nl": [
+        "141.176.31.130"
+    ],
+    "vsnwutg.velsen.nl": [
+        "95.152.139.163"
+    ],
+    "data-test.ggi.nijmegen.nl": [
+        "159.46.66.162"
+    ],
+    "pdc.vng.nl": [
+        "e80::20d:3aff:fe23:af78"
+    ],
+    "www.gebouwdin.amsterdam.nl": [
+        "64:ff9b::559e:cc06"
+    ],
+    "www.afvalaanbieden.nl": [
+        "2a00:ae80:0:c::33:10"
+    ],
+    "dkd.gemeentehw.nl": [
+        "159.46.77.99"
+    ],
+    "geoprdb.stadstoezicht.amsterdam.nl": [
+        "64:ff9b::91de:e64"
+    ],
+    "zoek.gilzerijen.nl": [
+        "64:ff9b::d522:4482"
+    ],
+    "dkd.arnhem.nl": [
+        "159.46.72.240"
+    ],
+    "werk.arnhem.nl": [
+        "2a07:3503:1033:64::c356:3b19"
+    ],
+    "youpp.noardeast-fryslan.nl": [
+        "145.87.5.2"
+    ],
+    "zaken.h-i-ambacht.nl": [
+        "80.113.28.112"
+    ],
+    "webmail.raad.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a952"
+    ],
+    "www.werelderfgoed.amsterdam.nl": [
+        "64:ff9b::3e70:ea0c"
+    ],
+    "nieuwsbrief.amsterdam.nl": [
+        "2001:67c:1870:1:80::d787",
+        "195.137.215.135"
+    ],
+    "afvalaanbieden.nl": [
+        "2a00:ae80:0:c::33:10"
+    ],
+    "dkd.middendelfland.nl": [
+        "159.46.73.130"
+    ],
+    "algoritmeregister.amsterdam.nl": [
+        "64:ff9b::37d:573a"
+    ],
+    "dkde-vwes11.westerwolde.nl": [
+        "159.46.75.75"
+    ],
+    "acc-nieuwsbrief.amsterdam.nl": [
+        "195.137.215.134",
+        "2001:67c:1870:1:80::d786"
+    ],
+    "prefill-prod.waalre.nl": [
+        "217.149.128.153"
+    ],
+    "gemnet.digikoppeling.test.veenendaal.nl": [
+        "159.46.70.51"
+    ],
+    "citycontrol-test.utrecht.nl": [
+        "64:ff9b::2e1d:f014"
+    ],
+    "noorderpark.amsterdam.nl": [
+        "91.142.249.18"
+    ],
+    "fp.nijmegen.nl": [
+        "194.235.214.20"
+    ],
+    "api-test-ggi.enschede.nl": [
+        "159.46.68.53"
+    ],
+    "vlstmks.velsen.nl": [
+        "95.152.138.35"
+    ],
+    "data.ggi.mookenmiddelaar.nl": [
+        "159.46.66.155"
+    ],
+    "dkd.amsterdam.nl": [
+        "145.45.191.245"
+    ],
+    "dkd.purmerend.nl": [
+        "159.46.77.84"
+    ],
+    "www.noorderpark.amsterdam.nl": [
+        "91.142.249.18"
+    ],
+    "acc-nieuwsbrief.utrecht.nl": [
+        "195.137.215.134",
+        "2001:67c:1870:1:80::d786"
+    ],
+    "data-test.ggi.wijchen.nl": [
+        "159.46.66.186"
+    ],
+    "sensorenregister.amsterdam.nl": [
+        "64:ff9b::6c8e:534b"
+    ],
+    "dns1.arnhem.nl": [
+        "145.65.95.40"
+    ],
+    "digikoppeling.diginet.ede.nl": [
+        "95.152.128.197"
+    ],
+    "ad1.smallingerland.nl": [
+        "194.104.39.25"
+    ],
+    "cloudadapter-test.steenwijkerland.nl": [
+        "81.173.53.163"
+    ],
+    "ftpspriv.egb-kps.belastingdienst.nl": [
+        "145.21.135.114"
+    ],
+    "b2b-osb.belastingdienst.nl": [
+        "145.21.135.23"
+    ],
+    "trstest.afm.nl": [
+        "81.18.5.80"
+    ],
+    "e-learning.nijkerk.eu": [
+        "89.18.176.90"
+    ],
+    "dfp.domeinenrz.nl": [
+        "145.21.226.4"
+    ],
+    "trsacc.afm.nl": [
+        "81.18.5.11"
+    ],
+    "trs.afm.nl": [
+        "81.18.5.82"
+    ],
+    "ftpsconfpriv.egb-kps.belastingdienst.nl": [
+        "145.21.135.113"
+    ],
+    "toetsingonline.ccmo.nl": [
+        "64:ff9b::d5f9:5dfa"
+    ],
+    "wus-osb.belastingdienst.nl": [
+        "145.21.135.33"
+    ],
+    "stp.amsterdam.nl": [
+        "64:ff9b::a123:f6b5"
+    ],
+    "smtp31.belastingdienst.nl": [
+        "64:ff9b::559f:650b"
+    ],
+    "data.gemnet.bergendal.nl": [
+        "145.11.20.103"
+    ],
+    "www.stp.amsterdam.nl": [
+        "64:ff9b::a123:f6b5"
+    ],
+    "bltvn.kb.nl": [
+        "64:ff9b::145d:fbf5"
+    ],
+    "toestemming-tst.belastingdienst.nl": [
+        "64:ff9b::559f:637c"
+    ],
+    "data.ggi.bergendal.nl": [
+        "159.46.66.123"
+    ],
+    "kb-client-223.kb.nl": [
+        "64:ff9b::c2ab:b8df"
+    ],
+    "belastingdienst-cn.nl": [
+        "178.22.85.149"
+    ],
+    "facturatie-acc.coa.nl": [
+        "145.21.184.3"
+    ],
+    "uitwisseling.drimmelen.nl": [
+        "83.80.25.249"
+    ],
+    "amersfoort.notubiz.nl": [
+        "195.20.144.24"
+    ],
+    "www.onlinebibliotheek.nl": [
+        "20.23.2.223"
+    ],
+    "mom.groningen.nl": [
+        "194.26.51.27"
+    ],
+    "test.digikoppeling.gennep.nl": [
+        "80.113.130.7"
+    ],
+    "kb-client-222.kb.nl": [
+        "194.171.184.222"
+    ],
+    "kb-client-021.kb.nl": [
+        "194.171.184.21"
+    ],
+    "www.literatuurgeschiedenis.org": [
+        "83.96.212.251"
+    ],
+    "rvo3.odc.pleio.nl": [
+        "147.181.6.149",
+        "147.181.6.247",
+        "2a04:9a00:1002:400d:f816:3eff:fe1d:d812",
+        "2a04:9a00:1002:400d:f816:3eff:fe83:9a2f"
+    ],
+    "data-test.ggi.mookenmiddelaar.nl": [
+        "159.46.66.154"
+    ],
+    "b2btest-osb.toeslagen.nl": [
+        "145.21.135.17"
+    ],
+    "test.odc.pleio.nl": [
+        "147.181.6.247",
+        "2a04:9a00:1002:400d:f816:3eff:fe1d:d812",
+        "147.181.6.149",
+        "2a04:9a00:1002:400d:f816:3eff:fe83:9a2f"
+    ],
+    "wwwold.rijksacademie.nl": [
+        "139.162.208.61"
+    ],
+    "transfer.denhelder.nl": [
+        "91.213.53.44"
+    ],
+    "apim-portal-wpi-o.amsterdam.nl": [
+        "20.103.203.205"
+    ],
+    "www.memesa.appingedam.nl": [
+        "91.241.6.38"
+    ],
+    "service30.diginetwerk.kadaster.nl": [
+        "145.21.197.104"
+    ],
+    "digikoppeling.gemnet.ede.nl": [
+        "194.104.42.15"
+    ],
+    "b2btest-osb.belastingdienst.nl": [
+        "145.21.135.24"
+    ],
+    "mijnzaak-acc.raadvanstate.nl": [
+        "64:ff9b::3390:8709"
+    ],
+    "siteworks.coevorden.nl": [
+        "64:ff9b::c379:9da"
+    ],
+    "jetelefoondebaas.nl": [
+        "13.32.43.39",
+        "13.32.43.89",
+        "13.32.43.112",
+        "13.32.43.60"
+    ],
+    "werkenbijelburg.nl": [
+        "64:ff9b::343a:f2a9",
+        "64:ff9b::239d:39d2"
+    ],
+    "service30.ontwikkeling.diginetwerk.kadaster.nl": [
+        "145.21.197.10"
+    ],
+    "epmm.autoriteitpersoonsgegevens.nl": [
+        "64:ff9b::9f2e:cd0c"
+    ],
+    "bri.belastingdienst.nl": [
+        "145.21.151.27"
+    ],
+    "service30.acceptatie.diginetwerk.kadaster.nl": [
+        "145.21.197.4"
+    ],
+    "wus2test-osb.belastingdienst.nl": [
+        "145.21.135.69"
+    ],
+    "itams-controle.ciz.nl": [
+        "64:ff9b::c231:532a"
+    ],
+    "mail.gennep.nl": [
+        "64:ff9b::5071:820b"
+    ],
+    "service30.test.diginetwerk.kadaster.nl": [
+        "145.21.197.12"
+    ],
+    "loket-acc.leidschendam-voorburg.nl": [
+        "2a07:3503:1033:64::d977:e542"
+    ],
+    "meent.alkmaar.nl": [
+        "64:ff9b::5d5d:7865"
+    ],
+    "rego.kb.nl": [
+        "64:ff9b::c057:1f84"
+    ],
+    "nieuwsbrieven.coa.nl": [
+        "195.137.215.60",
+        "2001:67c:1870:1:80::d73c"
+    ],
+    "acp.osb.kvk.nl": [
+        "95.152.160.5"
+    ],
+    "b2btest-osb.douane.nl": [
+        "145.21.135.21"
+    ],
+    "dktstdn.epe.nl": [
+        "95.152.133.243"
+    ],
+    "prd-mijn.kadaster.nl": [
+        "64:ff9b::914d:67b7"
+    ],
+    "webservices.preprod.osb.kvk.nl": [
+        "95.152.160.152"
+    ],
+    "av.test.kb.nl": [
+        "64:ff9b::c38f:1b86"
+    ],
+    "bdx.domeinenrz.nl": [
+        "145.21.169.5"
+    ],
+    "dkdservice.meppel.nl": [
+        "159.46.72.55"
+    ],
+    "docs.kvk.nl": [
+        "64:ff9b::12b8:bcfd"
+    ],
+    "osbk.kvk.nl": [
+        "95.152.160.27"
+    ],
+    "dkd.doesburg.nl": [
+        "194.104.50.138"
+    ],
+    "hrs-slave.osb.kvk.nl": [
+        "95.152.160.28"
+    ],
+    "tst.osb.kvk.nl": [
+        "95.152.160.5"
+    ],
+    "ebms2.kvk.nl": [
+        "95.152.160.132"
+    ],
+    "osb.kvk.nl": [
+        "95.152.160.5"
+    ],
+    "openzaakbrug-zgw.denhaag.nl": [
+        "64:ff9b::d944:36a5"
+    ],
+    "b2b-osb.toeslagen.nl": [
+        "145.21.135.16"
+    ],
+    "testserver.osb.kvk.nl": [
+        "95.152.160.27"
+    ],
+    "webscada.doetinchem.nl": [
+        "212.79.224.194"
+    ],
+    "nple.belastingdienst.nl": [
+        "145.21.135.32"
+    ],
+    "test.beeldenvanderaad.nl": [
+        "145.131.10.226"
+    ],
+    "webservices5.acp.osb.kvk.nl": [
+        "95.152.160.10"
+    ],
+    "ebms.acp.kvk.nl": [
+        "95.152.160.25"
+    ],
+    "toeganguwvomgeving.suwinet.uwv.nl": [
+        "145.21.178.229"
+    ],
+    "testserver.osbk.kvk.nl": [
+        "95.152.160.27"
+    ],
+    "facturatie.coa.nl": [
+        "145.21.184.4"
+    ],
+    "cba-i-qas.uwv.nl": [
+        "64:ff9b::525e:ab69"
+    ],
+    "kbs-acceptatie.suwinet.uwv.nl": [
+        "194.104.14.200"
+    ],
+    "www.toetsingonline.nl": [
+        "64:ff9b::50f7:a799"
+    ],
+    "webservices.osb.kvk.nl": [
+        "95.152.160.153"
+    ],
+    "digikoppeling-acceptatie.suwinet.uwv.nl": [
+        "145.21.179.33"
+    ],
+    "lync2.kvk.nl": [
+        "145.128.24.11"
+    ],
+    "toeganguwvomgeving-accept.suwinet.uwv.nl": [
+        "145.21.179.229"
+    ],
+    "verpakkingen.belastingdienst.nl": [
+        "195.95.245.50"
+    ],
+    "notubiz.enkhuizen.nl": [
+        "195.242.96.74"
+    ],
+    "dossier-inkijk-productie.uwv.nl": [
+        "145.21.178.67"
+    ],
+    "hrs-slave.acp.osb.kvk.nl": [
+        "95.152.160.28"
+    ],
+    "ebms.kvk.nl": [
+        "95.152.160.131"
+    ],
+    "wis-prod.uwv.nl": [
+        "145.21.178.66"
+    ],
+    "uwv-digikoppeling.suwinet.uwv.nl": [
+        "145.21.178.236"
+    ],
+    "dossier-inkijk-integratietest.uwv.nl": [
+        "145.21.179.68"
+    ],
+    "ebms2.acp.kvk.nl": [
+        "95.152.160.26"
+    ],
+    "services-sip-acc.suwinet.uwv.nl": [
+        "145.21.179.228"
+    ],
+    "services-sip-prod.suwinet.uwv.nl": [
+        "145.21.178.228"
+    ],
+    "wis-accept.uwv.nl": [
+        "145.21.179.67"
+    ],
+    "kbs-productie.suwinet.uwv.nl": [
+        "145.21.178.227"
+    ],
+    "wps-productie.suwinet.uwv.nl": [
+        "145.21.178.65"
+    ],
+    "webservices11.preprod.osb.kvk.nl": [
+        "95.152.160.17"
+    ],
+    "opvang.nidos.nl": [
+        "64:ff9b::1f95:d193"
+    ],
+    "lync1.kvk.nl": [
+        "145.128.24.9"
+    ],
+    "extranet.beesel.nl": [
+        "64:ff9b::c323:a0cc"
+    ],
+    "jong040.nl": [
+        "2001:4018:8800:3::59"
+    ],
+    "search.acp.kvk.nl": [
+        "64:ff9b::52c9:27bb"
+    ],
+    "diginet-sip.suwinet.uwv.nl": [
+        "145.21.178.232"
+    ],
+    "digikoppeling-productie.suwinet.uwv.nl": [
+        "145.21.178.35"
+    ],
+    "ebms-digimeldingen-test.diginet.uwv.nl": [
+        "145.21.179.34"
+    ],
+    "wps-productie2.suwinet.uwv.nl": [
+        "145.21.178.65"
+    ],
+    "uwv-acc-digikoppeling.suwinet.uwv.nl": [
+        "145.21.179.236"
+    ],
+    "nple-test.belastingdienst.nl": [
+        "145.21.135.67"
+    ],
+    "werkenbijdesvb.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "api.digid.demo.novum.nu": [
+        "64:ff9b::34a9:54d2"
+    ],
+    "kbs-integratietest.suwinet.uwv.nl": [
+        "145.21.179.227"
+    ],
+    "werkenbij.staatsbosbeheer.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "meet.uwv.nl": [
+        "145.128.1.66"
+    ],
+    "dkd.beverwijk.nl": [
+        "159.46.76.153"
+    ],
+    "gb-app05.gemeenteberkelland.nl": [
+        "159.46.71.30"
+    ],
+    "webservices6.acp.osb.kvk.nl": [
+        "95.152.160.11"
+    ],
+    "www.werkenbijdesvb.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "c-wdw-001-hsrp-v700.tno.nl": [
+        "64:ff9b::8b3f:3c01"
+    ],
+    "rwp-netpage.tno.nl": [
+        "134.203.130.119"
+    ],
+    "esetproxy.sscdesom.nl": [
+        "52.157.196.53"
+    ],
+    "technologiezoektondernemer.tno.nl": [
+        "2a02:720:9:8::132"
+    ],
+    "city2.tno.nl": [
+        "134.221.44.39"
+    ],
+    "loonopzand.nl": [
+        "2a02:120:380:1::1:116",
+        "90.145.213.16"
+    ],
+    "a-dhy-kastb.tno.nl": [
+        "139.63.231.25"
+    ],
+    "a-dha-002.tno.nl": [
+        "139.63.226.12"
+    ],
+    "a-sb-e001.tno.nl": [
+        "139.63.224.129"
+    ],
+    "auth.nwo.nl": [
+        "192.87.72.60"
+    ],
+    "library.tno.nl": [
+        "134.221.44.31"
+    ],
+    "csr.rvr.org": [
+        "194.134.52.243"
+    ],
+    "app-msgdoc03.hex.tno.nl": [
+        "64:ff9b::86dd:2c75"
+    ],
+    "d-dhw-hsrp-v550.tno.nl": [
+        "64:ff9b::86dd:5a41"
+    ],
+    "www.cvtemand.nl": [
+        "64:ff9b::b9ac:5b58"
+    ],
+    "wustest-osb.belastingdienst.nl": [
+        "145.21.135.68"
+    ],
+    "cip-overheid.nl": [
+        "2a05:d018:63d:9b02:6483:80d1:f487:90a1"
+    ],
+    "data-test.ggi.beuningen.nl": [
+        "159.46.66.146"
+    ],
+    "wus-digimeldingen-test.diginet.uwv.nl": [
+        "145.21.179.35"
+    ],
+    "werkenbijstaatsbosbeheer.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "bronkopie.ct.kvk.nl": [
+        "95.152.160.29"
+    ],
+    "ftp.gima.diginetwerk.kadaster.nl": [
+        "145.21.197.67"
+    ],
+    "digibg.hetcak.nl": [
+        "145.21.240.114"
+    ],
+    "webmail.acm.nl": [
+        "82.215.18.20"
+    ],
+    "d-wan1-01-lo11.tno.nl": [
+        "64:ff9b::8b3f:bfd8"
+    ],
+    "k3cr-productie.suwinet.uwv.nl": [
+        "194.104.14.169"
+    ],
+    "ipv4.acm.nl": [
+        "82.215.18.20"
+    ],
+    "dkd.dronten.nl": [
+        "95.152.132.74"
+    ],
+    "office365.knaw.nl": [
+        "64:ff9b::c2ab:776d"
+    ],
+    "extranet.venvn.nl": [
+        "70.34.40.104"
+    ],
+    "digibg-tst.hetcak.nl": [
+        "145.21.240.112"
+    ],
+    "ont.loket.anvs.nl": [
+        "145.21.169.13"
+    ],
+    "bip.ifv.nl": [
+        "84.54.41.26"
+    ],
+    "markt-overheid.acm.nl": [
+        "82.215.18.29"
+    ],
+    "kb-client-075.kb.nl": [
+        "64:ff9b::c2ab:b84b"
+    ],
+    "app-datalab01.tsn.tno.nl": [
+        "64:ff9b::8b3f:50a9"
+    ],
+    "staging.meertens.knaw.nl": [
+        "64:ff9b::c3a9:581f"
+    ],
+    "d-dhy-p001-v701.tno.nl": [
+        "139.63.1.210"
+    ],
+    "webscada-rps.doetinchem.nl": [
+        "212.79.224.195"
+    ],
+    "ltlab.tno.nl": [
+        "64:ff9b::86dd:2c34"
+    ],
+    "185-31-146-0.computest.nl": [
+        "64:ff9b::b91f:9200"
+    ],
+    "a-dhw-001.tno.nl": [
+        "64:ff9b::8b3f:e33a"
+    ],
+    "bereikbaarheid.maastricht.nl": [
+        "212.125.138.8"
+    ],
+    "185-31-145-178.computest.nl": [
+        "64:ff9b::b91f:91b2"
+    ],
+    "acceptatie.acm.nl": [
+        "82.215.18.22"
+    ],
+    "185-31-146-98.computest.nl": [
+        "64:ff9b::b91f:9262"
+    ],
+    "data-test.ggi.heumen.nl": [
+        "159.46.66.106"
+    ],
+    "cpcontacts.influencerregels.com": [
+        "104.21.21.196"
+    ],
+    "digibgtest.hetcak.nl": [
+        "145.21.240.113"
+    ],
+    "nnn.meertens.knaw.nl": [
+        "64:ff9b::c3a9:58ae"
+    ],
+    "onepsphq.kpn.com": [
+        "145.128.27.21"
+    ],
+    "salesforce-oauth.eu.orangecyberdefense.com": [
+        "185.136.208.37"
+    ],
+    "monitoring.talos.kpn.com": [
+        "145.128.72.115"
+    ],
+    "digitaldutch.kpn.com": [
+        "145.128.71.235",
+        "145.128.71.234",
+        "145.128.71.236"
+    ],
+    "portal.nl.orangecyberdefense.com": [
+        "64:ff9b::b92e:b74f"
+    ],
+    "ipv4.mail.kpn": [
+        "145.128.33.9"
+    ],
+    "tst.loket.anvs.nl": [
+        "145.21.169.13"
+    ],
+    "cloudcontrol.kpn.com": [
+        "145.128.78.87"
+    ],
+    "dp-stg.kpn.com": [
+        "145.128.81.70"
+    ],
+    "dkd.denhelder.nl": [
+        "159.46.67.90"
+    ],
+    "transfer-datalab.kpn.com": [
+        "145.128.71.216",
+        "145.128.71.215"
+    ],
+    "api-prd.nonprod.kpn.com": [
+        "145.128.81.82"
+    ],
+    "api-tst.kpn.com": [
+        "145.128.81.119"
+    ],
+    "185-31-144-167.computest.nl": [
+        "64:ff9b::b91f:90a7"
+    ],
+    "cdn.acc.kpn.com": [
+        "145.128.71.205",
+        "145.128.71.209"
+    ],
+    "payment-acc.kpn.com": [
+        "145.128.15.229"
+    ],
+    "mgmt-gui-dev.kpn.com": [
+        "145.128.81.74"
+    ],
+    "developer.nonprod.kpn.com": [
+        "145.128.81.82"
+    ],
+    "reports.prd.tv.kpn.com": [
+        "145.128.80.135"
+    ],
+    "mgmt-gui-stg.kpn.com": [
+        "145.128.81.73"
+    ],
+    "docs.dtact.com": [
+        "13.35.185.62",
+        "13.35.185.97",
+        "13.35.185.30",
+        "13.35.185.91"
+    ],
+    "webconf.kpn.com": [
+        "145.128.14.181",
+        "145.128.14.184"
+    ],
+    "api-dev.kpn.com": [
+        "145.128.81.71"
+    ],
+    "api-stg.nonprod.kpn.com": [
+        "145.128.81.84"
+    ],
+    "shopmobiel.kpn.com": [
+        "145.128.71.200"
+    ],
+    "developer.stg.nonprod.kpn.com": [
+        "145.128.81.84"
+    ],
+    "cdn.tst.kpn.com": [
+        "145.128.71.202"
+    ],
+    "webmail.mail.kpn": [
+        "145.128.33.9"
+    ],
+    "relay.detron.nl": [
+        "185.185.164.221"
+    ],
+    "www.portal.hubdev.arcgis.com": [
+        "64:ff9b::22c5:bc2b",
+        "64:ff9b::1717:2968"
+    ],
+    "mail.mail.kpn": [
+        "145.128.33.9"
+    ],
+    "api.cloudcontrol.kpn.com": [
+        "145.128.78.87"
+    ],
+    "mgmt-api-stg.kpn.com": [
+        "145.128.81.75"
+    ],
+    "s-pro.kpn.com": [
+        "212.84.7.38"
+    ],
+    "annualreport2023.kpn": [
+        "13.33.187.25",
+        "13.33.187.3",
+        "13.33.187.31",
+        "13.33.187.73"
+    ],
+    "av.kpn.com": [
+        "145.128.14.185",
+        "145.128.14.182"
+    ],
+    "developer.dev.nonprod.kpn.com": [
+        "145.128.81.85"
+    ],
+    "eye.security": [
+        "141.101.90.98"
+    ],
+    "www.kunst.kpn": [
+        "3.167.212.39",
+        "3.167.212.5"
+    ],
+    "www.compumatica.com": [
+        "37.17.211.58"
+    ],
+    "mx1.telindus.nl": [
+        "2620:101:2011:300::f9",
+        "207.54.67.112"
+    ],
+    "www.kpn.nl": [
+        "99.83.136.155",
+        "75.2.72.204",
+        "2600:9000:a400:dede:1a1c:a23f:9ae6:7bbc"
+    ],
+    "185-31-146-78.computest.nl": [
+        "185.31.146.78"
+    ],
+    "poblano.diavola.hackdefense.com": [
+        "95.211.214.17"
+    ],
+    "acceptatie.soap.osiris.rivm.nl": [
+        "131.224.250.9"
+    ],
+    "b2b-v5.eai.np.aws.kpn.com": [
+        "54.228.111.255",
+        "54.75.203.87"
+    ],
+    "bvowb.nl": [
+        "20.56.66.61"
+    ],
+    "a-dhy-004.tno.nl": [
+        "139.63.231.13"
+    ],
+    "185-31-147-119.computest.nl": [
+        "185.31.147.119"
+    ],
+    "epbdwebservices.rvo.nl": [
+        "145.12.218.52",
+        "2a04:9a00:1021:201f:145:12:218:52"
+    ],
+    "xmas.brightsight.com": [
+        "95.128.91.56"
+    ],
+    "hubstatusdev.arcgis.com": [
+        "3.168.236.23",
+        "3.168.236.86",
+        "3.168.236.20",
+        "3.168.236.13"
+    ],
+    "data.tst.tv.kpn.com": [
+        "145.128.80.135"
+    ],
+    "airwave.securelink.nl": [
+        "64:ff9b::5292:7ccd"
+    ],
+    "a-siam.agentschapnl.nl": [
+        "91.142.251.110"
+    ],
+    "player.tv.kpn.com": [
+        "145.128.80.135"
+    ],
+    "mgmt-api-dev.kpn.com": [
+        "145.128.81.76"
+    ],
+    "pegashop-acc.kpn.com": [
+        "145.128.71.231",
+        "145.128.71.232",
+        "145.128.71.233"
+    ],
+    "preproductie.mijn.rijksvaccinaties.nl": [
+        "81.18.2.76"
+    ],
+    "prod.radar.rdi.nl": [
+        "93.92.103.70"
+    ],
+    "munin.b3p.nl": [
+        "64:ff9b::5054:e265"
+    ],
+    "api-mgmt.nonprod.kpn.com": [
+        "145.128.81.82"
+    ],
+    "rijksweb.digikoppeling.diginetwerk.dictu.nl": [
+        "145.21.146.13"
+    ],
+    "a-gebruikerregistratie.agentschapnl.nl": [
+        "91.142.251.93"
+    ],
+    "api-dev.nonprod.kpn.com": [
+        "145.128.81.85"
+    ],
+    "gebruikerwijziging.agentschapnl.nl": [
+        "91.142.251.114"
+    ],
+    "a-inloggen.agentschapnl.nl": [
+        "91.142.251.79"
+    ],
+    "webservice-at-prd.diginetwerk.dictu.nl": [
+        "145.21.142.7"
+    ],
+    "holmes-downloads.nfi.nl": [
+        "87.213.73.238"
+    ],
+    "test.forensischinstituut.nl": [
+        "159.46.3.9"
+    ],
+    "webservice-at-tst.diginetwerk.dictu.nl": [
+        "145.21.142.132"
+    ],
+    "ssccampus.nl": [
+        "64:ff9b::83e0:f45c"
+    ],
+    "g2b.api.rivm.nl": [
+        "91.123.240.1"
+    ],
+    "inloggen.agentschapnl.nl": [
+        "91.142.251.112"
+    ],
+    "osb.kps.acceptatie.mijnoverheid.nl": [
+        "145.21.245.250"
+    ],
+    "test-bd.procesinfrastructuur.nl": [
+        "145.21.245.196"
+    ],
+    "api.acc4.machtigen.digid.nl": [
+        "145.21.245.138"
+    ],
+    "agileoverheid.nl": [
+        "87.119.194.135"
+    ],
+    "download.dongit.nl": [
+        "64:ff9b::8e5d:ed08"
+    ],
+    "inrichtingsrabbijn.nl": [
+        "93.175.178.230"
+    ],
+    "dp-dev.kpn.com": [
+        "145.128.81.72"
+    ],
+    "dv.machtigen.digid.nl": [
+        "145.21.245.146"
+    ],
+    "osb.acceptatie.kps.mijnoverheid.nl": [
+        "145.21.245.250"
+    ],
+    "siam.agentschapnl.nl": [
+        "91.142.251.15"
+    ],
+    "justitie-rabbijn.nl": [
+        "93.175.178.230"
+    ],
+    "balie-preprod1.digid.nl": [
+        "145.21.253.112"
+    ],
+    "acpt-ebms.procesinfrastructuur.nl": [
+        "145.21.245.170"
+    ],
+    "rijksvastgoedbedrijf.nl": [
+        "2a00:d00:3:8::80"
+    ],
+    "preprod-wus.procesinfrastructuur.nl": [
+        "145.21.178.118"
+    ],
+    "osb.kps.mijnoverheid.nl": [
+        "145.21.247.10"
+    ],
+    "mail.gevangenisdominee.nl": [
+        "93.175.178.106"
+    ],
+    "185-31-145-80.computest.nl": [
+        "64:ff9b::b91f:9150"
+    ],
+    "globe-rest-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.138"
+    ],
+    "test-ebms.procesinfrastructuur.nl": [
+        "145.21.245.194"
+    ],
+    "test-wus.procesinfrastructuur.nl": [
+        "145.21.245.195"
+    ],
+    "ob.machtigen.digid.nl": [
+        "145.21.245.147"
+    ],
+    "mail.kpn": [
+        "145.128.33.9"
+    ],
+    "api.acc3.machtigen.digid.nl": [
+        "145.21.245.221"
+    ],
+    "globe-ebms-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.136"
+    ],
+    "api-acc.kpn.com": [
+        "145.128.81.120"
+    ],
+    "preprod-globe-ebms-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.128"
+    ],
+    "bd.procesinfrastructuur.nl": [
+        "145.21.178.107"
+    ],
+    "gebruikerregistratie.agentschapnl.nl": [
+        "91.142.251.113"
+    ],
+    "msc.digid.nl": [
+        "145.21.253.131"
+    ],
+    "payment.kpn.com": [
+        "145.128.27.27"
+    ],
+    "acpt-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.245.169"
+    ],
+    "preprod-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.178.114"
+    ],
+    "diginetwerk.digilevering.nl": [
+        "145.21.255.25"
+    ],
+    "msc-preprod2.digid.nl": [
+        "145.21.253.123"
+    ],
+    "preprod-wus2.procesinfrastructuur.nl": [
+        "145.21.178.119"
+    ],
+    "mail.gevangenishindoegeestelijke.nl": [
+        "93.175.178.106"
+    ],
+    "preprod-diginetwerk.digilevering.nl": [
+        "145.21.255.33"
+    ],
+    "ob.acceptatie.machtigen.digid.nl": [
+        "145.21.245.142"
+    ],
+    "dv.acceptatie.machtigen.digid.nl": [
+        "145.21.245.142"
+    ],
+    "static.aladdin.p-direkt.nl": [
+        "64:ff9b::93b5:d6a"
+    ],
+    "msc-a4.digid.nl": [
+        "145.21.253.107"
+    ],
+    "a-gebruikerwijziging.agentschapnl.nl": [
+        "91.142.251.97"
+    ],
+    "mail.jodenindegevangenis.nl": [
+        "93.175.178.106"
+    ],
+    "docs.api.cso20.net": [
+        "64:ff9b::93b5:a87"
+    ],
+    "pop.inrichtingsrabbijn.nl": [
+        "93.175.178.106"
+    ],
+    "files.cloudcontrol.kpn.com": [
+        "145.128.78.87"
+    ],
+    "balie-preprod2.digid.nl": [
+        "145.21.253.120"
+    ],
+    "test-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.245.193"
+    ],
+    "wus.procesinfrastructuur.nl": [
+        "145.21.178.102"
+    ],
+    "seculieregeestelijkeverzorging.nl": [
+        "93.175.178.230"
+    ],
+    "tbsrabbijn.nl": [
+        "93.175.178.230"
+    ],
+    "preprod-globe-wus-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.129"
+    ],
+    "humanedetentie.nl": [
+        "93.175.178.230"
+    ],
+    "drukwerk.ggzfriesland.nl": [
+        "185.138.80.57"
+    ],
+    "webservice-at-acc.diginetwerk.dictu.nl": [
+        "145.21.142.133"
+    ],
+    "ws.kpn.com": [
+        "145.128.1.42"
+    ],
+    "msc-a3.digid.nl": [
+        "145.21.253.99"
+    ],
+    "acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl": [
+        "145.21.146.12"
+    ],
+    "islamitischgeestelijkeverzorging.nl": [
+        "93.175.178.230"
+    ],
+    "wachtrijbooster.nl": [
+        "104.21.50.223",
+        "188.114.97.0",
+        "172.67.167.163",
+        "188.114.96.0",
+        "2a06:98c1:3120::2",
+        "2a06:98c1:3121::2"
+    ],
+    "netauth.rivm.nl": [
+        "131.224.244.143"
+    ],
+    "monitoring.machtigen.digid.nl": [
+        "144.43.241.105"
+    ],
+    "api.acc5.machtigen.digid.nl": [
+        "145.21.245.114"
+    ],
+    "ebms2.procesinfrastructuur.nl": [
+        "145.21.178.104"
+    ],
+    "mail.cal-net.nl": [
+        "64:ff9b::1fa1:ed1"
+    ],
+    "mail.kerkindegevangenis.nl": [
+        "93.175.178.106"
+    ],
+    "diginetwerk.procesinfrastructuur.nl": [
+        "145.21.178.106"
+    ],
+    "oe-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.246.99"
+    ],
+    "digidbeheer.digid.nl": [
+        "145.21.253.129"
+    ],
+    "www.inrichtingsrabbijn.nl": [
+        "93.175.178.230"
+    ],
+    "justitierabbijn.nl": [
+        "93.175.178.230"
+    ],
+    "acc-diginetwerk.digilevering.nl": [
+        "145.21.254.169"
+    ],
+    "acsc.nl": [
+        "159.46.3.134"
+    ],
+    "hubcdn.arcgis.com": [
+        "13.32.110.101",
+        "13.32.110.29",
+        "13.32.110.74",
+        "13.32.110.94"
+    ],
+    "jewsinprison.nl": [
+        "93.175.178.230"
+    ],
+    "osb.dn.preprod.mijnoverheid.nl": [
+        "145.21.247.2"
+    ],
+    "jitsi.apps.warpnet.nl": [
+        "64:ff9b::6c8f:2364"
+    ],
+    "acpt-wus.procesinfrastructuur.nl": [
+        "145.21.245.171"
+    ],
+    "lap.rvp.reis.npr.idm.rvig.nl": [
+        "2a04:9a00:2000:12:a::104"
+    ],
+    "ftp.nifpnet.nl": [
+        "159.46.4.20"
+    ],
+    "webservice-at-ont.diginetwerk.dictu.nl": [
+        "145.21.142.131"
+    ],
+    "preprod-bd.procesinfrastructuur.nl": [
+        "145.21.178.116"
+    ],
+    "pop.gevangenishindoegeestelijke.nl": [
+        "93.175.178.106"
+    ],
+    "intranet.innova-ggz.nl": [
+        "fe80::4064:d5ff:fed8:57a1"
+    ],
+    "panditsbijjustitie.nl": [
+        "93.175.178.230"
+    ],
+    "login.sitagre.nl": [
+        "64:ff9b::54f1:8a2c"
+    ],
+    "tellenenmeten.nl": [
+        "64:ff9b::83e0:f45c"
+    ],
+    "preprod-ebms2.procesinfrastructuur.nl": [
+        "145.21.178.115"
+    ],
+    "innova-ggz.nl": [
+        "fe80::4064:d5ff:fed8:57a1"
+    ],
+    "globe-wus-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.137"
+    ],
+    "ebms.procesinfrastructuur.nl": [
+        "145.21.178.101"
+    ],
+    "pop.kerkindegevangenis.nl": [
+        "93.175.178.106"
+    ],
+    "preprod-globe-rest-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.130"
+    ],
+    "eleos.nl": [
+        "45.152.250.2"
+    ],
+    "acpt-globe-ebms-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.254.120"
+    ],
+    "lerenvoorveiligheid.nl": [
+        "131.224.244.52",
+        "2001:610:430:ffff::16:49"
+    ],
+    "mail.neurocaregroup.nl": [
+        "43.250.140.6"
+    ],
+    "sralic.comsenso.com": [
+        "77.87.165.10"
+    ],
+    "mam.rivm.nl": [
+        "131.224.244.221"
+    ],
+    "prod-dictu.eherkenning.nl": [
+        "93.92.103.99",
+        "2001:4c10:1018:4096::22"
+    ],
+    "forlight-ggz.nl": [
+        "91.184.0.8"
+    ],
+    "terugblik2019.ggz-delfland.nl": [
+        "149.210.205.251"
+    ],
+    "preprod-ebms.procesinfrastructuur.nl": [
+        "145.21.178.117"
+    ],
+    "pop.gevangenisdominee.nl": [
+        "93.175.178.106"
+    ],
+    "msc-a2.digid.nl": [
+        "145.21.253.91"
+    ],
+    "ind-acc.pucoverheid.nl": [
+        "145.21.184.93"
+    ],
+    "digidbeheer-preprod2.digid.nl": [
+        "145.21.253.121",
+        "64:ff9b::9115:fd79"
+    ],
+    "pop.jodenindegevangenis.nl": [
+        "93.175.178.106"
+    ],
+    "msc-preprod1.digid.nl": [
+        "145.21.253.115"
+    ],
+    "digikoppeling.diginetwerk.dictu.nl": [
+        "145.21.133.109"
+    ],
+    "msc-t2.digid.nl": [
+        "145.21.253.51",
+        "64:ff9b::9115:fd33"
+    ],
+    "balie.digid.nl": [
+        "145.21.253.128"
+    ],
+    "bop.machtigen.digid.nl": [
+        "145.21.245.150"
+    ],
+    "msc-a1.digid.nl": [
+        "145.21.253.11"
+    ],
+    "mail.moskeeindegevangenis.nl": [
+        "93.175.178.106",
+        "64:ff9b::5daf:b26a"
+    ],
+    "acceptatie.digikoppeling.diginetwerk.dictu.nl": [
+        "145.21.133.108"
+    ],
+    "api.acc2.machtigen.digid.nl": [
+        "145.21.245.138"
+    ],
+    "acc-nieuwsbrieven.rivm.nl": [
+        "195.137.215.134"
+    ],
+    "msc-t1.digid.nl": [
+        "145.21.253.43"
+    ],
+    "kenniscentrumbiociden.org": [
+        "131.224.244.92"
+    ],
+    "ftp.idris.nl": [
+        "64:ff9b::8890:cf12"
+    ],
+    "justitieimam.nl": [
+        "93.175.178.230"
+    ],
+    "site2018.emnnetherlands.nl": [
+        "2a01:3a8:200:2::13"
+    ],
+    "oranjeborg.mijnmeningapp.nl": [
+        "64:ff9b::b95c:3d0c",
+        "64:ff9b::b95c:3d0b"
+    ],
+    "test.dji.nl": [
+        "159.46.3.9"
+    ],
+    "mijn.rijksvaccinaties.nl": [
+        "81.18.2.76"
+    ],
+    "ind-zoek.pucoverheid.nl": [
+        "145.21.196.24"
+    ],
+    "api.acc6.machtigen.digid.nl": [
+        "145.45.148.103"
+    ],
+    "prisonfellowship.nl": [
+        "93.175.178.230"
+    ],
+    "ind.pucoverheid.nl": [
+        "145.21.196.25"
+    ],
+    "pop.gevangenispastor.nl": [
+        "93.175.178.106"
+    ],
+    "jewsprisonchaplain.nl": [
+        "93.175.178.230"
+    ],
+    "fixedincome2.connect.db.com": [
+        "209.191.253.37"
+    ],
+    "traveler.emergis.nl": [
+        "64:ff9b::bc42:10d6"
+    ],
+    "captiveportal.noorderpoort.nl": [
+        "10.13.15.254"
+    ],
+    "ind-redactie.pucoverheid.nl": [
+        "145.21.196.26"
+    ],
+    "werkenbij.aventus.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "msc-a5.digid.nl": [
+        "145.21.254.67"
+    ],
+    "pkio1.schuldenwijzer.nl": [
+        "145.21.202.20"
+    ],
+    "mail.inrichtingsrabbijn.nl": [
+        "93.175.178.106"
+    ],
+    "keuzedelen.mboutrecht.nl": [
+        "64:ff9b::b992:157d"
+    ],
+    "oe-ebms.procesinfrastructuur.nl": [
+        "145.21.246.97"
+    ],
+    "autismekenniscentrum.nl": [
+        "64:ff9b::23cc:d8d8"
+    ],
+    "digikoppeling-acc.knb.nl": [
+        "145.21.202.182"
+    ],
+    "szw-cn.nl": [
+        "64:ff9b::be7b:12e2"
+    ],
+    "digidbeheer-preprod1.digid.nl": [
+        "145.21.253.113"
+    ],
+    "dev.sts.idaas.db.com": [
+        "160.82.41.77"
+    ],
+    "api.acc1.machtigen.digid.nl": [
+        "145.21.245.138"
+    ],
+    "acpt-bd.procesinfrastructuur.nl": [
+        "145.21.245.172"
+    ],
+    "emededelen-ebms.procesinfrastructuur.nl": [
+        "145.21.246.129"
+    ],
+    "extra-et.abnamro.nl": [
+        "193.201.104.51"
+    ],
+    "wise.com": [
+        "104.18.39.116"
+    ],
+    "emachtigen-diginetwerk.procesinfrastructuur.nl": [
+        "145.21.246.132"
+    ],
+    "mail.acc.bngbank.nl": [
+        "64:ff9b::57d5:73ad"
+    ],
+    "wus2.procesinfrastructuur.nl": [
+        "145.21.178.105"
+    ],
+    "secureenvelopes.commbank.com.au": [
+        "202.4.162.16"
+    ],
+    "google-assistant.apps.pcf-prd.rabobank.nl": [
+        "145.72.24.52"
+    ],
+    "se-gatekeeper.commbank.com.au": [
+        "202.4.162.12"
+    ],
+    "archernfr.rabobank.nl": [
+        "145.72.24.12"
+    ],
+    "confluence.dev.rabobank.nl": [
+        "145.72.24.149"
+    ],
+    "boeddhistischegeestelijkeverzorging.nl": [
+        "93.175.178.230"
+    ],
+    "archernfr-acc.rabobank.nl": [
+        "145.72.24.9"
+    ],
+    "sts.veiligthuis-ken.nl": [
+        "185.82.188.115"
+    ],
+    "reportsvc.aexeo.citco.com": [
+        "209.87.108.130"
+    ],
+    "se-template.commbank.com.au": [
+        "202.4.162.14"
+    ],
+    "se-authentication.commbank.com.au": [
+        "202.4.162.13"
+    ],
+    "seal-service.apps.pcf-prd.rabobank.nl": [
+        "145.72.24.52"
+    ],
+    "cafe.rabobank.nl": [
+        "145.72.24.22"
+    ],
+    "digikoppeling.knb.nl": [
+        "95.152.161.164"
+    ],
+    "g2b.acc-api.rivm.nl": [
+        "91.123.240.0"
+    ],
+    "se-manager.commbank.com.au": [
+        "202.4.162.15"
+    ],
+    "usc1lxsm02.citco.com": [
+        "209.87.98.14"
+    ],
+    "logon.natwest.com": [
+        "0.0.0.0"
+    ],
+    "formulieren.ing.nl": [
+        "81.18.5.68"
+    ],
+    "gitlab.bunq.com": [
+        "18.184.194.167"
+    ],
+    "ccsd.intern.rabobank.nl": [
+        "145.72.24.146"
+    ],
+    "ria.rabobank.nl": [
+        "81.18.5.50"
+    ],
+    "apin-sandbox-src.rabobank.nl": [
+        "64:ff9b::9148:6c2f"
+    ],
+    "www-et.statusboard.abnamro.nl": [
+        "185.72.180.12"
+    ],
+    "distributie.services.rabobank.nl": [
+        "145.72.24.6"
+    ],
+    "aexeo.citco.com": [
+        "209.87.108.100"
+    ],
+    "hlab-app-stg.commbank.com.au": [
+        "64:ff9b::8ca8:537f"
+    ],
+    "acp-alfred.abnamro.nl": [
+        "185.173.240.154"
+    ],
+    "api.kebhana.com": [
+        "211.53.25.115"
+    ],
+    "adfs.knb.nl": [
+        "83.80.17.149"
+    ],
+    "ucaccess02.nn-group.com": [
+        "212.159.216.47"
+    ],
+    "werkenbijdenlarbeidsinspectie.nl": [
+        "147.181.98.150",
+        "2a04:9a03:1011:1001::8"
+    ],
+    "portal.citco.com": [
+        "77.246.128.77"
+    ],
+    "models.pps.wur.nl": [
+        "137.224.205.102"
+    ],
+    "mail3.crediteurope.nl": [
+        "80.152.10.24"
+    ],
+    "triton-exo-et.abnamro.nl": [
+        "167.202.220.112"
+    ],
+    "reportverification.wbvr.wur.nl": [
+        "64:ff9b::89e0:81e"
+    ],
+    "werkenbij.rocmn.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "acc-mailings.gildeopleidingen.nl": [
+        "195.137.215.134",
+        "2001:67c:1870:1:80::d786"
+    ],
+    "mailings.gildeopleidingen.nl": [
+        "195.137.215.135",
+        "2001:67c:1870:1:80::d787"
+    ],
+    "dev2.subsites.wur.nl": [
+        "64:ff9b::89e0:933"
+    ],
+    "api.upload.bunq.com": [
+        "64:ff9b::37f:a5b8",
+        "64:ff9b::129f:4446",
+        "64:ff9b::12b9:eb2e"
+    ],
+    "diy2428.icscards.nl": [
+        "20.31.123.18"
+    ],
+    "rabocertexample.apps.pcf-prd.rabobank.nl": [
+        "145.72.24.52"
+    ],
+    "rabo-assistant.apps.pcf-prd.rabobank.nl": [
+        "145.72.24.52"
+    ],
+    "xperthisp.umcg.nl": [
+        "153.89.110.111",
+        "153.89.110.112"
+    ],
+    "xperthisa.umcg.nl": [
+        "153.89.126.135"
+    ],
+    "subsites.wur.nl": [
+        "64:ff9b::89e0:91e"
+    ],
+    "bbdl.wur.nl": [
+        "46.183.240.148"
+    ],
+    "ftp.eurofawc.com": [
+        "64:ff9b::c122:a749"
+    ],
+    "mailings.wur.nl": [
+        "195.137.215.135"
+    ],
+    "mailing.wur.nl": [
+        "195.137.215.119"
+    ],
+    "leerplein.rijnland.nl": [
+        "81.18.8.36"
+    ],
+    "usc1lxsm01.citco.com": [
+        "209.87.98.12"
+    ],
+    "zorgconnect.ghz.nl": [
+        "91.123.242.125"
+    ],
+    "smof.amsterdamumc.nl": [
+        "64:ff9b::9175:d565"
+    ],
+    "gw230.nki.nl": [
+        "64:ff9b::c3a9:47e6"
+    ],
+    "physiomics.eu": [
+        "131.174.154.47"
+    ],
+    "strfrnt.asz.nl": [
+        "145.22.18.43"
+    ],
+    "sts-ixus.veiligthuis-ken.nl": [
+        "185.82.188.115"
+    ],
+    "acc-mailings.wur.nl": [
+        "195.137.215.134"
+    ],
+    "brein.acceptatie.rabobank.nl": [
+        "145.219.76.21"
+    ],
+    "pcb97.nki.nl": [
+        "64:ff9b::c057:6161"
+    ],
+    "piwik.instantmagazine.com": [
+        "64:ff9b::2295:a263"
+    ],
+    "emm.erasmusmc.nl": [
+        "64:ff9b::9c53:3004"
+    ],
+    "mobiel.etz.nl": [
+        "64:ff9b::c235:5955"
+    ],
+    "preacc-mijn-intranet.adrz.nl": [
+        "64:ff9b::1456:da6e"
+    ],
+    "mail.prrt.nl": [
+        "64:ff9b::564:e242"
+    ],
+    "tabakuithetzicht.nl": [
+        "64:ff9b::95d2:ef7d"
+    ],
+    "kiosk-centraal.adrz.nl": [
+        "64:ff9b::1456:da6e"
+    ],
+    "pcb143.nki.nl": [
+        "64:ff9b::c057:618f"
+    ],
+    "pijnboom.op.umcutrecht.nl": [
+        "64:ff9b::8f79:decf"
+    ],
+    "www.diabetes-kinderpoli.nl": [
+        "93.119.12.58"
+    ],
+    "www.werkenbijikazia.nl": [
+        "31.7.0.102",
+        "2a03:9700:8000::102"
+    ],
+    "msttest.crediteurope.nl": [
+        "52.232.38.238"
+    ],
+    "public-api.sandbox.bunq.com": [
+        "18.198.250.80",
+        "18.198.69.3",
+        "52.59.132.76"
+    ],
+    "aanmelden.jbz.nl": [
+        "194.26.240.51"
+    ],
+    "dipadiagnostiek.mumc.nl": [
+        "145.29.221.186"
+    ],
+    "login.ziekenhuisrivierenland.nl": [
+        "80.113.156.26"
+    ],
+    "pop.moskeeindegevangenis.nl": [
+        "93.175.178.106"
+    ],
+    "citrix.langeland.nl": [
+        "91.123.244.178"
+    ],
+    "zorgdomeinacc.gelreziekenhuizen.nl": [
+        "64:ff9b::c20d:a4bb"
+    ],
+    "mdl.mumc.nl": [
+        "64:ff9b::1f07:423"
+    ],
+    "proxy3.elisabeth.nl": [
+        "194.53.92.100"
+    ],
+    "sharefile.amphia.nl": [
+        "64:ff9b::c268:7c2a"
+    ],
+    "mail.slingeland.nl": [
+        "212.79.241.241"
+    ],
+    "hemobase.mcl.nl": [
+        "194.79.224.60"
+    ],
+    "couveuse.mcl.nl": [
+        "64:ff9b::917f:8265"
+    ],
+    "zorgconnect-csg.viecuri.nl": [
+        "91.123.245.69"
+    ],
+    "j00st.ysl.nl": [
+        "64:ff9b::3e3a:4d14"
+    ],
+    "mijnteam-opleiding.viecuri.nl": [
+        "31.149.38.84"
+    ],
+    "vaatcentrum-amsterdam.nl": [
+        "13.95.197.25"
+    ],
+    "endocrinologie.mumc.nl": [
+        "31.7.4.35"
+    ],
+    "mijngelre.gelreziekenhuizen.nl": [
+        "194.13.164.188"
+    ],
+    "onboarding.zha.nl": [
+        "85.90.80.235"
+    ],
+    "tacrm.fontys.nl": [
+        "145.85.2.248"
+    ],
+    "helpmijkiezen.sites.nhlstenden.com": [
+        "141.252.72.65"
+    ],
+    "pca21.nki.nl": [
+        "192.42.114.21"
+    ],
+    "clipper.amc.nl": [
+        "145.117.214.121"
+    ],
+    "mailings.han.nl": [
+        "195.137.215.135"
+    ],
+    "leerplein.atriummc.nl": [
+        "81.18.7.162"
+    ],
+    "mobile.interconnect.etz.nl": [
+        "64:ff9b::c235:5968"
+    ],
+    "hixservices-acc.rijnstate.nl": [
+        "194.13.88.35"
+    ],
+    "orbishuishoudelijkehulp.nl": [
+        "::1"
+    ],
+    "fw2.elisabeth.nl": [
+        "194.53.92.2"
+    ],
+    "acc-mailings.han.nl": [
+        "195.137.215.134"
+    ],
+    "mail2.zha.nl": [
+        "64:ff9b::555a:50e0"
+    ],
+    "myzuyd.nl": [
+        "64:ff9b::915b:a0a"
+    ],
+    "portal.tjongerschans.nl": [
+        "194.79.230.23"
+    ],
+    "acc-mijn.cwz.nl": [
+        "64:ff9b::1456:da6e"
+    ],
+    "www.maartenskliniek.nl": [
+        "172.67.36.36"
+    ],
+    "mx1.bernhoven.nl": [
+        "64:ff9b::5071:c288"
+    ],
+    "cms.defensie.nl": [
+        "145.21.156.152"
+    ],
+    "smtp.saxion.nl": [
+        "64:ff9b::914c:24a",
+        "64:ff9b::914c:254"
+    ],
+    "digikoppeling.mindef.nl": [
+        "145.21.135.221"
+    ],
+    "zorgverleners-hap.mijnnijsmellinghe.nl": [
+        "194.79.230.219"
+    ],
+    "avdcmsadmin.avans.nl": [
+        "145.41.48.163"
+    ],
+    "dpx-patientinformatie.umcutrecht.nl": [
+        "64:ff9b::8f79:f529"
+    ],
+    "msw-t.mindef.nl": [
+        "145.21.135.217"
+    ],
+    "academie.maasstadziekenhuis.nl": [
+        "81.18.7.244"
+    ],
+    "t05i0014ri234-a.idd.mindef.nl": [
+        "145.21.144.81"
+    ],
+    "slingeland.nl": [
+        "2a02:2770:12:0:21a:4aff:fe0f:9093"
+    ],
+    "www.registratieoud.mdtmissie.nl": [
+        "2600:9000:2825:4000:7:69d3:f6c0:93a1",
+        "2600:9000:2825:be00:7:69d3:f6c0:93a1",
+        "2600:9000:2825:600:7:69d3:f6c0:93a1",
+        "2600:9000:2825:9000:7:69d3:f6c0:93a1",
+        "2600:9000:2825:b200:7:69d3:f6c0:93a1",
+        "2600:9000:2825:6000:7:69d3:f6c0:93a1",
+        "2600:9000:2825:8000:7:69d3:f6c0:93a1",
+        "2600:9000:2825:4200:7:69d3:f6c0:93a1"
+    ],
+    "pechora.fontys.nl": [
+        "64:ff9b::9155:2d7"
+    ],
+    "wzj.tongerlo.nl": [
+        "64:ff9b::5db4:4789"
+    ],
+    "msw.mindef.nl": [
+        "145.21.135.217"
+    ],
+    "www.visiblestories.mdtmissie.nl": [
+        "13.35.185.106",
+        "13.35.185.26",
+        "13.35.185.54",
+        "13.35.185.20"
+    ],
+    "gcms-gkd-t.mindef.nl": [
+        "145.21.144.250"
+    ],
+    "t05i0014ri234.idd.mindef.nl": [
+        "145.21.144.80"
+    ],
+    "pcb55.nki.nl": [
+        "64:ff9b::c057:6137"
+    ],
+    "print.lingecollege.nl": [
+        "64:ff9b::25eb:77d8"
+    ],
+    "t05i0014ri083.idd.mindef.nl": [
+        "145.21.144.72"
+    ],
+    "t05i0014ri234-t.idd.mindef.nl": [
+        "145.21.144.82"
+    ],
+    "hl.huygenslyceum.nl": [
+        "64:ff9b::b212:80c8"
+    ],
+    "ouder.hetbaarnschlyceum.nl": [
+        "64:ff9b::2561:82fb"
+    ],
+    "gcms-gkd-a.mindef.nl": [
+        "145.21.144.250"
+    ],
+    "vhl.nl": [
+        "141.138.168.128"
+    ],
+    "website.fioretti.nl": [
+        "94.237.125.89"
+    ],
+    "werkmanvmbo.nl": [
+        "159.8.192.48"
+    ],
+    "rsgterapel.nl": [
+        "185.58.56.210",
+        "2a01:310:8312:1046:185:58:56:210"
+    ],
+    "nuborghcollege.nl": [
+        "31.7.6.85"
+    ],
+    "rooster.hvc.nl": [
+        "213.249.70.41"
+    ],
+    "webdisk.prohardenberg.nl": [
+        "2a00:f10:305:0:1c00:d0ff:fe00:4c5",
+        "185.87.187.141"
+    ],
+    "api.han.nl": [
+        "145.74.103.19"
+    ],
+    "adfs.nicolaas.nl": [
+        "145.102.243.219"
+    ],
+    "gw216.nki.nl": [
+        "195.169.71.216"
+    ],
+    "v8.roncallimavo.nl": [
+        "161.51.76.251"
+    ],
+    "portaal.driestar-educatief.nl": [
+        "192.87.181.21"
+    ],
+    "intranet.arentheem.nl": [
+        "194.171.186.108"
+    ],
+    "authentication.kempel.nl": [
+        "192.87.7.203"
+    ],
+    "legacy.spon.nu": [
+        "85.119.104.212"
+    ],
+    "www.samenwerkingsverbandvo.nl": [
+        "185.85.17.182"
+    ],
+    "gp-edu-gw.inholland.nl": [
+        "194.171.195.83"
+    ],
+    "heesweg.thorbecke-zwolle.nl": [
+        "185.223.163.6"
+    ],
+    "alfabouwt.sites.nhlstenden.com": [
+        "141.252.72.65"
+    ],
+    "gcms-gkd.mindef.nl": [
+        "145.21.144.250"
+    ],
+    "portal.nictiz.nl": [
+        "168.128.68.106"
+    ],
+    "msw-a.mindef.nl": [
+        "145.21.135.217"
+    ],
+    "mailings.nlsportraad.nl": [
+        "195.137.215.135"
+    ],
+    "t05i0014ri083-t.idd.mindef.nl": [
+        "145.21.144.70"
+    ],
+    "t05i0014ri083-a.idd.mindef.nl": [
+        "145.21.144.71"
+    ],
+    "webdisk.rml.nl": [
+        "64:ff9b::6d47:3616"
+    ],
+    "webmail.edu.stc-r.nl": [
+        "64:ff9b::c3a9:fb20"
+    ],
+    "bb10.trimbos.nl": [
+        "64:ff9b::c2ab:5804"
+    ],
+    "kkcitf01.keizerkarelcollege.nl": [
+        "64:ff9b::23cc:b0d"
+    ],
+    "smetweb.info": [
+        "64:ff9b::83e0:f45c"
+    ],
+    "mail.gymnasiumleiden.nl": [
+        "212.79.242.245"
+    ],
+    "selfservice.nictiz.nl": [
+        "168.128.68.107"
+    ],
+    "samenvoornederland.nl": [
+        "195.177.214.57"
+    ],
+    "www.gemertbakel.afdeling.pvda.nl": [
+        "104.26.0.60"
+    ],
+    "old.nictiz.nl": [
+        "194.9.84.141"
+    ],
+    "hethogeland.pvda.nl": [
+        "104.26.1.60"
+    ],
+    "reimerswaal.afdeling.pvda.nl": [
+        "2606:4700:20::ac43:4599",
+        "2606:4700:20::681a:3c",
+        "2606:4700:20::681a:13c"
+    ],
+    "geertruidenberg.pvda.nl": [
+        "172.67.69.153",
+        "104.26.0.60",
+        "104.26.1.60",
+        "2606:4700:20::681a:13c",
+        "2606:4700:20::681a:3c",
+        "2606:4700:20::ac43:4599"
+    ],
+    "mail.academietien.nl": [
+        "82.150.137.14"
+    ],
+    "gooisemeren.afdeling.pvda.nl": [
+        "2a06:98c1:3123:e000::5",
+        "104.26.0.60",
+        "2a06:98c1:3122:e000::5"
+    ],
+    "intranet.gerritkomrijcollege.nl": [
+        "84.241.158.89"
+    ],
+    "inschrijfformulier.vo-raad.nl": [
+        "35.246.184.45"
+    ],
+    "www.actieleernetwerk.nl": [
+        "93.119.2.101",
+        "2a01:7c8:bb0a:740:5054:ff:fe7c:a732"
+    ],
+    "geertruidenberg.afdeling.pvda.nl": [
+        "104.26.1.60",
+        "104.26.0.60"
+    ],
+    "webmail.floris.bijlsma.sites.nhlstenden.com": [
+        "64:ff9b::8dfc:4841"
+    ],
+    "www.geldermalsen.pvda.nl": [
+        "2606:4700:20::681a:3c"
+    ],
+    "www.tommy.qinas.nl": [
+        "2a01:7c8:bb0a:575:5054:ff:fe9c:635e"
+    ],
+    "schagen.christenunie.nl": [
+        "64:ff9b::57e9:be03"
+    ],
+    "leusden.christenunie.nl": [
+        "64:ff9b::57e9:be03"
+    ],
+    "www.voorst.afdeling.pvda.nl": [
+        "172.67.69.153"
+    ],
+    "www.mijn.sgp.nl": [
+        "64:ff9b::d5c1:f720"
+    ],
+    "two-02.labs.vu.nl": [
+        "192.35.183.228"
+    ],
+    "sts.nictiz.nl": [
+        "168.128.68.103"
+    ],
+    "debilt.pvda.nl": [
+        "2606:4700:20::ac43:4599"
+    ],
+    "weesp.afdeling.pvda.nl": [
+        "104.26.0.60"
+    ],
+    "brielle.afdeling.pvda.nl": [
+        "2606:4700:20::681a:13c"
+    ],
+    "nuenen.vvd.nl": [
+        "216.239.36.21",
+        "216.239.32.21"
+    ],
+    "www.zuid-holland.bvnl.nl": [
+        "217.160.201.48"
+    ],
+    "sws.cs.ru.nl": [
+        "131.174.9.174"
+    ],
+    "www.altena.afdeling.pvda.nl": [
+        "172.67.69.153",
+        "104.26.0.60",
+        "104.26.1.60",
+        "2606:4700:20::ac43:4599"
+    ],
+    "two-01.labs.vu.nl": [
+        "192.35.183.227"
+    ],
+    "files.stress.utwente.nl": [
+        "64:ff9b::8259:368a"
+    ],
+    "krimpenerwaard.christenunie.nl": [
+        "87.233.190.3"
+    ],
+    "www.mathijs.afdeling.pvda.nl": [
+        "2606:4700:20::681a:13c"
+    ],
+    "cio14.phys.rug.nl": [
+        "129.125.103.58"
+    ],
+    "docprof.mumc-acc.maastrichtuniversity.nl": [
+        "137.120.31.85"
+    ],
+    "gmw-aseba1.serverspace.rug.nl": [
+        "129.125.49.32"
+    ],
+    "breda.vvd.nl": [
+        "104.199.35.91"
+    ],
+    "www.london.pvda.nl": [
+        "104.26.1.60",
+        "104.26.0.60",
+        "172.67.69.153",
+        "2606:4700:20::681a:3c"
+    ],
+    "projector.labs.vu.nl": [
+        "192.35.183.13"
+    ],
+    "vmcore0.labs.vu.nl": [
+        "192.35.183.238"
+    ],
+    "soliscom.uu.nl": [
+        "10.170.1.5",
+        "10.170.1.4"
+    ],
+    "nextcloud.brainpoint.nl": [
+        "64:ff9b::b9d3:fa23"
+    ],
+    "stov1.cscglobal.com": [
+        "165.160.40.7"
+    ],
+    "shop-test.ese.eur.nl": [
+        "130.115.101.74"
+    ],
+    "internal-api.dev-sandbox.bizcuit.nl": [
+        "54.229.117.80"
+    ],
+    "two-00.labs.vu.nl": [
+        "192.35.183.226"
+    ],
+    "b2bsso.verifone.com": [
+        "192.30.122.167"
+    ],
+    "sas-srm.fisglobal.com": [
+        "156.55.115.97"
+    ],
+    "wr-mobile.readiness.fisglobal.com": [
+        "205.141.250.150"
+    ],
+    "sas-ila-sf.fisglobal.com": [
+        "156.55.115.93"
+    ],
+    "ih-rdy1-int.fisglobal.com": [
+        "205.141.255.121"
+    ],
+    "ibm07.fisglobal.com": [
+        "168.162.190.24"
+    ],
+    "icwd1.fisglobal.com": [
+        "208.75.7.178"
+    ],
+    "bpa-cla.fisglobal.com": [
+        "170.132.238.91"
+    ],
+    "ercvpn.fisglobal.com": [
+        "170.88.144.141"
+    ],
+    "aexp-api-uat.fisglobal.com": [
+        "156.55.115.228"
+    ],
+    "uat.cscglobal.com": [
+        "165.160.21.141"
+    ],
+    "sas-wqm.fisglobal.com": [
+        "156.55.115.92"
+    ],
+    "insight-readiness.fisglobal.com": [
+        "156.55.119.49"
+    ],
+    "sas-rlp-rdy.fisglobal.com": [
+        "156.55.119.32"
+    ],
+    "ibscustmgmt-adminui.fisglobal.com": [
+        "156.55.115.231"
+    ],
+    "sas-do-dr.fisglobal.com": [
+        "156.55.119.38"
+    ],
+    "adminisource-cardpro.staging.fisglobal.com": [
+        "205.141.250.232"
+    ],
+    "supportzone-energy.fisglobal.com": [
+        "209.243.102.56"
+    ],
+    "ibshomepage-dr.fisglobal.com": [
+        "156.55.119.54"
+    ],
+    "1168ba-uat.fisglobal.com": [
+        "156.55.119.234"
+    ],
+    "ibssalesmgmt-rdy.fisglobal.com": [
+        "156.55.115.24"
+    ],
+    "ibssalesmgmtrpt-rdy.fisglobal.com": [
+        "156.55.115.25"
+    ],
+    "sas-rlp-dr.fisglobal.com": [
+        "156.55.119.34"
+    ],
+    "asp-tsla.fisglobal.com": [
+        "204.130.41.21"
+    ],
+    "mediacenter.cscglobal.com": [
+        "165.160.9.78"
+    ],
+    "bpadr-hts.fisglobal.com": [
+        "170.132.113.241"
+    ],
+    "api-uat.cscglobal.com": [
+        "165.160.21.170"
+    ],
+    "ibscustmgmt-restapp.fisglobal.com": [
+        "156.55.115.232"
+    ],
+    "webs16.fisglobal.com": [
+        "63.141.176.38"
+    ],
+    "owapool01.cscglobal.com": [
+        "165.160.9.117"
+    ],
+    "cpims.readiness.fisglobal.com": [
+        "205.141.242.156"
+    ],
+    "webmail.2checkout.com": [
+        "91.220.121.109"
+    ],
+    "projectruimte.noord-holland.nl": [
+        "2a07:3503:1033:64::b915:3854"
+    ],
+    "webui-bbd.fisglobal.com": [
+        "156.55.116.79"
+    ],
+    "emfe.campus.tue.nl": [
+        "fd2e:339b:a150:629:4c41:88ae:5e8:458e"
+    ],
+    "devprox-energy.fisglobal.com": [
+        "209.243.102.13"
+    ],
+    "web-test.shell.nl": [
+        "163.164.228.18"
+    ],
+    "ibsexceptions-readiness.fisglobal.com": [
+        "156.55.119.47"
+    ],
+    "ibscustmgmt-servicingui-rdy.fisglobal.com": [
+        "156.55.119.214"
+    ],
+    "vacatures.noord-holland.nl": [
+        "2a07:3503:1033:64::5ce:d72e"
+    ],
+    "sas-ila-adm.fisglobal.com": [
+        "156.55.115.100"
+    ],
+    "securemail.verifone.com": [
+        "192.30.113.169"
+    ],
+    "mlstimeserver.fisglobal.com": [
+        "205.141.250.247"
+    ],
+    "ibm55tst.fisglobal.com": [
+        "168.162.189.138"
+    ],
+    "ceready-pod01.fisglobal.com": [
+        "205.141.242.89"
+    ],
+    "sas-ila.fisglobal.com": [
+        "156.55.115.124"
+    ],
+    "sas-srm-rdy.fisglobal.com": [
+        "156.55.119.45"
+    ],
+    "vf2citrix.verifone.com": [
+        "192.30.122.23"
+    ],
+    "sas-cc-dr.fisglobal.com": [
+        "156.55.119.33"
+    ],
+    "ibm28.fisglobal.com": [
+        "168.162.190.17"
+    ],
+    "insight-bc-db-readiness.fisglobal.com": [
+        "156.55.119.51"
+    ],
+    "1098dt1.fisglobal.com": [
+        "156.55.119.141"
+    ],
+    "lyncweb01-ext.cscglobal.com": [
+        "165.160.9.117"
+    ],
+    "1edidev.verifone.com": [
+        "192.30.122.155"
+    ],
+    "jupyter.science.uu.nl": [
+        "64:ff9b::83d3:1ee8"
+    ],
+    "developers-uat.cscglobal.com": [
+        "165.160.22.205"
+    ],
+    "p1batch-prod.fisglobal.com": [
+        "156.55.49.139"
+    ],
+    "ibscustmgmt-servicingui.fisglobal.com": [
+        "156.55.115.230"
+    ],
+    "serviceplein.accept.vu.nl": [
+        "130.37.54.159"
+    ],
+    "ctcvpn.fisglobal.com": [
+        "156.55.31.6"
+    ],
+    "citrix-catr.fisglobal.com": [
+        "209.243.102.30"
+    ],
+    "dutchworkscouncil.takeaway.com": [
+        "157.245.68.104"
+    ],
+    "dta.leerplein.pzh.nl": [
+        "2600:9000:2804:8600:c:124e:b640:93a1",
+        "2600:9000:2804:1a00:c:124e:b640:93a1",
+        "2600:9000:2804:200:c:124e:b640:93a1",
+        "2600:9000:2804:7600:c:124e:b640:93a1",
+        "2600:9000:2804:3600:c:124e:b640:93a1",
+        "2600:9000:2804:9400:c:124e:b640:93a1"
+    ],
+    "jerwebmail.vistra.com": [
+        "212.9.5.55"
+    ],
+    "personeelvereniging.drenthe.nl": [
+        "185.38.232.181",
+        "2a02:720:9:8::181"
+    ],
+    "netimagelr7int.fisglobal.com": [
+        "156.55.116.200"
+    ],
+    "fed.cscglobal.com": [
+        "165.160.9.81"
+    ],
+    "ibssalesmgmtadmrpt.fisglobal.com": [
+        "156.55.115.30"
+    ],
+    "webui-amp.fisglobal.com": [
+        "156.55.116.174"
+    ],
+    "ibssalesmgmt-dr.fisglobal.com": [
+        "156.55.118.246"
+    ],
+    "sas-srm-adm.fisglobal.com": [
+        "156.55.115.102"
+    ],
+    "reporting-amp.fisglobal.com": [
+        "156.55.116.156"
+    ],
+    "ibssalesmgmtadmrpt-rdy.fisglobal.com": [
+        "156.55.115.23"
+    ],
+    "aumfp.fisglobal.com": [
+        "216.189.247.2"
+    ],
+    "train-energy.fisglobal.com": [
+        "209.243.102.122"
+    ],
+    "iclr7.fisglobal.com": [
+        "156.55.116.180"
+    ],
+    "fisprotects-fsvbd1.fisglobal.com": [
+        "156.55.115.33"
+    ],
+    "rtp-app-com-prod.fisglobal.com": [
+        "156.55.115.56"
+    ],
+    "cargill-uat-fiscd.fisglobal.com": [
+        "156.55.119.178"
+    ],
+    "aumft.fisglobal.com": [
+        "216.189.247.1"
+    ],
+    "ih-excust.readiness.fisglobal.com": [
+        "156.55.118.63"
+    ],
+    "clx01.lending.fisglobal.com": [
+        "69.36.17.164"
+    ],
+    "cmdr01.lending.fisglobal.com": [
+        "156.55.197.11"
+    ],
+    "sas-do-sf-dr.fisglobal.com": [
+        "156.55.119.39"
+    ],
+    "lpl-uat-clo.fisglobal.com": [
+        "156.55.49.146"
+    ],
+    "ifed.readiness.fisglobal.com": [
+        "156.55.118.65"
+    ],
+    "ibssalesmgmtadm.fisglobal.com": [
+        "156.55.115.26"
+    ],
+    "rtp-comtest.fisglobal.com": [
+        "156.55.115.115"
+    ],
+    "efdplex.fisglobal.com": [
+        "156.55.159.130"
+    ],
+    "sas-wqm-adm.fisglobal.com": [
+        "156.55.115.103"
+    ],
+    "asp-test.fisglobal.com": [
+        "204.130.41.11"
+    ],
+    "ondot-dr-mgtwy.fisglobal.com": [
+        "156.55.116.96"
+    ],
+    "ibshomepage-readiness.fisglobal.com": [
+        "156.55.119.48"
+    ],
+    "gbasweb02.fisglobal.com": [
+        "209.243.97.245"
+    ],
+    "ibsexceptions.fisglobal.com": [
+        "156.55.115.50"
+    ],
+    "p1batch-dr.fisglobal.com": [
+        "156.55.119.208"
+    ],
+    "bicmessaging-readiness.fisglobal.com": [
+        "156.55.118.172"
+    ],
+    "ibsexceptions-dr.fisglobal.com": [
+        "156.55.119.53"
+    ],
+    "aligne-energy.fisglobal.com": [
+        "209.243.102.48"
+    ],
+    "efpplex.fisglobal.com": [
+        "156.55.159.129"
+    ],
+    "niceqm.fisglobal.com": [
+        "204.130.49.147"
+    ],
+    "bpadev4.fisglobal.com": [
+        "170.132.238.39"
+    ],
+    "lrkfisdmz-dre.fisglobal.com": [
+        "156.55.119.92"
+    ],
+    "1152ba-uat.fisglobal.com": [
+        "156.55.119.230"
+    ],
+    "sgw-alpw.fisglobal.com": [
+        "170.132.113.11"
+    ],
+    "dfa-fis.fisglobal.com": [
+        "204.130.41.15"
+    ],
+    "oaas-prod-1.fisglobal.com": [
+        "170.132.149.129"
+    ],
+    "sas-do-adm.fisglobal.com": [
+        "156.55.115.99"
+    ],
+    "vcontent-oriental-dr.fisglobal.com": [
+        "156.55.118.212"
+    ],
+    "bambuticketing.fisglobal.com": [
+        "156.55.49.125"
+    ],
+    "insight-bc-readiness.fisglobal.com": [
+        "156.55.119.50"
+    ],
+    "sas-ila-rdy.fisglobal.com": [
+        "156.55.115.74"
+    ],
+    "lpl-dr-clo.fisglobal.com": [
+        "156.55.84.77"
+    ],
+    "iccomerica.fisglobal.com": [
+        "156.55.117.69"
+    ],
+    "citizenbank-nice.fisglobal.com": [
+        "156.55.117.146"
+    ],
+    "lendingsolutionsqc.fisglobal.com": [
+        "205.141.250.173"
+    ],
+    "ibssalesmgmt.fisglobal.com": [
+        "156.55.115.46"
+    ],
+    "ih2-excust.readiness.fisglobal.com": [
+        "156.55.118.64"
+    ],
+    "ssoservice.readiness.fisglobal.com": [
+        "205.141.241.158"
+    ],
+    "visionarchive1-readiness.fisglobal.com": [
+        "156.55.114.206"
+    ],
+    "auwebp.fisglobal.com": [
+        "216.189.247.19"
+    ],
+    "xpress-prod2.fisglobal.com": [
+        "156.55.49.123"
+    ],
+    "1099bi.fisglobal.com": [
+        "156.55.118.144"
+    ],
+    "sas-cc.fisglobal.com": [
+        "156.55.115.90"
+    ],
+    "ibscustmgmt-restapp-rdy.fisglobal.com": [
+        "156.55.119.216"
+    ],
+    "cargill-prod-fiscd.fisglobal.com": [
+        "156.55.119.177"
+    ],
+    "auwebt.fisglobal.com": [
+        "216.189.247.18"
+    ],
+    "oa-demo1.fisglobal.com": [
+        "205.141.241.29"
+    ],
+    "asp.fisglobal.com": [
+        "204.130.41.25"
+    ],
+    "fundsacct.fisglobal.com": [
+        "168.162.196.140"
+    ],
+    "uat-ambitoptimist.fisglobal.com": [
+        "147.249.153.42"
+    ],
+    "aepp.au.fisglobal.com": [
+        "216.189.247.4"
+    ],
+    "rtp-app-td-prod.fisglobal.com": [
+        "156.55.115.183"
+    ],
+    "mqm.verifone.com": [
+        "192.30.113.174"
+    ],
+    "colo5vpn.fisglobal.com": [
+        "170.88.144.140"
+    ],
+    "insight-bc-dr.fisglobal.com": [
+        "156.55.119.56"
+    ],
+    "sas-do-sf.fisglobal.com": [
+        "156.55.115.96"
+    ],
+    "fcna-fis.fisglobal.com": [
+        "204.130.41.105"
+    ],
+    "migratie.gelderland.nl": [
+        "194.134.33.80"
+    ],
+    "insight-dr.fisglobal.com": [
+        "156.55.119.58"
+    ],
+    "visionarchive1-dr.fisglobal.com": [
+        "156.55.115.66"
+    ],
+    "ibm48.fisglobal.com": [
+        "168.162.190.0"
+    ],
+    "lpl-uat-optimist.fisglobal.com": [
+        "156.55.49.144"
+    ],
+    "vf2lxsecmail1.verifone.com": [
+        "192.30.113.167"
+    ],
+    "visionarchive3-dr.fisglobal.com": [
+        "156.55.115.178"
+    ],
+    "fisprotects-fsvlr1.fisglobal.com": [
+        "156.55.117.166"
+    ],
+    "sas-wqm-dr.fisglobal.com": [
+        "156.55.119.35"
+    ],
+    "aw2.fisglobal.com": [
+        "156.55.124.186"
+    ],
+    "ais.svanderhaven.floryn.com": [
+        "64:ff9b::239d:3281",
+        "64:ff9b::345:e160",
+        "64:ff9b::37b:8fe3"
+    ],
+    "sas-wqm-rdy.fisglobal.com": [
+        "156.55.119.46"
+    ],
+    "site-156.55.50.121.fisglobal.com": [
+        "156.55.50.121"
+    ],
+    "sas-ila-sf-dr.fisglobal.com": [
+        "156.55.119.36"
+    ],
+    "sas-do-sf-rdy.fisglobal.com": [
+        "156.55.119.43"
+    ],
+    "bpauat-m07.fisglobal.com": [
+        "170.132.238.62"
+    ],
+    "ih2-rdy1-int.fisglobal.com": [
+        "205.141.255.122"
+    ],
+    "securid-admin.fisglobal.com": [
+        "156.55.116.173"
+    ],
+    "betalingen.fvd.nl": [
+        "104.22.31.204"
+    ],
+    "ambitoptimist.fisglobal.com": [
+        "147.249.153.41"
+    ],
+    "ondot-cert-mgtwy.fisglobal.com": [
+        "216.189.224.84"
+    ],
+    "fisprotects-fsvlruat1.fisglobal.com": [
+        "156.55.116.133"
+    ],
+    "bpa-hts.fisglobal.com": [
+        "170.132.238.66"
+    ],
+    "ibscustmgmt-adminui-rdy.fisglobal.com": [
+        "156.55.119.215"
+    ],
+    "f1challenge.shell.nl": [
+        "20.160.101.198"
+    ],
+    "escluster.icepay.com": [
+        "52.233.142.45"
+    ],
+    "eshcc.eur.nl": [
+        "145.5.15.68"
+    ],
+    "mail.regiodealnf.nl": [
+        "46.182.180.184"
+    ],
+    "mail.demaaslijn.nl": [
+        "185.104.29.30",
+        "2a06:2ec0:1::91"
+    ],
+    "vhq.logs.verifone.com": [
+        "199.71.107.180"
+    ],
+    "nnn.flevoland.nl": [
+        "2a01:7c8:fff9:135::1",
+        "136.144.131.9"
+    ],
+    "blackbox.fisglobal.com": [
+        "156.55.126.96"
+    ],
+    "digikoppeling1.duo.nl": [
+        "145.21.133.17"
+    ],
+    "sas-do-rdy.fisglobal.com": [
+        "156.55.119.42"
+    ],
+    "bbio-web.fisglobal.com": [
+        "204.130.44.221"
+    ],
+    "cf-uat-ambitoptimist.fisglobal.com": [
+        "156.55.49.104"
+    ],
+    "rtp-mttest.fisglobal.com": [
+        "156.55.115.128"
+    ],
+    "ih-prd1-int.fisglobal.com": [
+        "205.141.255.123"
+    ],
+    "demo-energy.fisglobal.com": [
+        "209.243.102.16"
+    ],
+    "xe-wt1-92.fisglobal.com": [
+        "170.132.52.74"
+    ],
+    "emails.gelderland.nl": [
+        "195.137.215.135"
+    ],
+    "rmpoint4a.readiness.fisglobal.com": [
+        "205.141.250.21"
+    ],
+    "visionarchive2.fisglobal.com": [
+        "208.75.7.180"
+    ],
+    "sas-ila-sf-rdy.fisglobal.com": [
+        "156.55.119.44"
+    ],
+    "ibshomepage.fisglobal.com": [
+        "156.55.115.51"
+    ],
+    "1edi.verifone.com": [
+        "192.30.122.158"
+    ],
+    "sas-admin-dr.fisglobal.com": [
+        "156.55.119.30"
+    ],
+    "sgw-htsw.fisglobal.com": [
+        "170.132.113.61"
+    ],
+    "bbiprod-web.fisglobal.com": [
+        "204.130.44.231"
+    ],
+    "1137ba-uat.fisglobal.com": [
+        "156.55.119.227"
+    ],
+    "sas-cc-rdy.fisglobal.com": [
+        "64:ff9b::9c37:7729",
+        "156.55.119.41"
+    ],
+    "bambuticketing-test.fisglobal.com": [
+        "156.55.49.117"
+    ],
+    "qabeb.fisglobal.com": [
+        "205.141.250.133"
+    ],
+    "mdm2.fisglobal.com": [
+        "156.55.124.187"
+    ],
+    "ibssalesmgmtrpt-dr.fisglobal.com": [
+        "156.55.118.248"
+    ],
+    "ibm25.fisglobal.com": [
+        "168.162.189.244"
+    ],
+    "xrpwsi.readiness.fisglobal.com": [
+        "205.141.250.25"
+    ],
+    "sas-do.fisglobal.com": [
+        "156.55.115.95"
+    ],
+    "bunge-uat-fiscd.fisglobal.com": [
+        "156.55.51.244"
+    ],
+    "webs15.fisglobal.com": [
+        "63.141.176.39"
+    ],
+    "1024ba-uat.fisglobal.com": [
+        "156.55.119.222"
+    ],
+    "sas-mbo.fisglobal.com": [
+        "156.55.115.94"
+    ],
+    "sas-mbo-rdy.fisglobal.com": [
+        "156.55.119.31"
+    ],
+    "softwarerepository-catr.fisglobal.com": [
+        "209.243.102.58"
+    ],
+    "sas-admin.fisglobal.com": [
+        "156.55.115.104"
+    ],
+    "cmd01.lending.fisglobal.com": [
+        "156.55.196.11"
+    ],
+    "citrix-energy.fisglobal.com": [
+        "209.243.102.20"
+    ],
+    "teamaccess-eu.2checkout.com": [
+        "91.220.121.111"
+    ],
+    "cf-dr-ambitoptimist.fisglobal.com": [
+        "156.55.115.213"
+    ],
+    "rtp-tdtest.fisglobal.com": [
+        "156.55.115.181"
+    ],
+    "insight-db-dr.fisglobal.com": [
+        "156.55.119.57"
+    ],
+    "aeqt.au.fisglobal.com": [
+        "216.189.247.3"
+    ],
+    "sas-rlp.fisglobal.com": [
+        "156.55.115.91"
+    ],
+    "vcontent-oriental.fisglobal.com": [
+        "156.55.115.81"
+    ],
+    "webs11.fisglobal.com": [
+        "63.141.176.35"
+    ],
+    "eoriginal.lending.fisglobal.com": [
+        "156.55.196.13"
+    ],
+    "sas-mbo-adm.fisglobal.com": [
+        "156.55.115.101"
+    ],
+    "dr-clx01.lending.fisglobal.com": [
+        "69.36.31.114"
+    ],
+    "cargill-dr-fiscd.fisglobal.com": [
+        "156.55.49.109"
+    ],
+    "vf2lvebiz5.verifone.com": [
+        "192.30.122.253"
+    ],
+    "alertconsole.readiness.fisglobal.com": [
+        "205.141.250.115"
+    ],
+    "mx2.fisglobal.com": [
+        "156.55.124.190"
+    ],
+    "1098dt.fisglobal.com": [
+        "156.55.119.69"
+    ],
+    "as2dev.verifone.com": [
+        "192.30.122.156"
+    ],
+    "sas-srm-dr.fisglobal.com": [
+        "156.55.119.40"
+    ],
+    "www.bambu-prod.fisglobal.com": [
+        "156.55.117.252"
+    ],
+    "dr-uat-ambitoptimist.fisglobal.com": [
+        "147.249.154.42"
+    ],
+    "esb-ontw.brabant.nl": [
+        "64:ff9b::c1ad:6f69"
+    ],
+    "insight-bc-db.fisglobal.com": [
+        "156.55.115.54"
+    ],
+    "insight-bc-db-dr.fisglobal.com": [
+        "156.55.119.55"
+    ],
+    "funds-portal.fisglobal.com": [
+        "168.162.196.138"
+    ],
+    "ceready-pod02.fisglobal.com": [
+        "205.141.242.90"
+    ],
+    "sas-mbo-dr.fisglobal.com": [
+        "156.55.119.37"
+    ],
+    "reports-amp.fisglobal.com": [
+        "156.55.116.175"
+    ],
+    "sas-cc-adm.fisglobal.com": [
+        "156.55.115.98"
+    ],
+    "lrkfisdmz.fisglobal.com": [
+        "156.55.117.244"
+    ],
+    "cax-reporting.fisglobal.com": [
+        "156.55.116.229"
+    ],
+    "vmcore1.labs.vu.nl": [
+        "192.35.183.239"
+    ],
+    "lpl-optimist.fisglobal.com": [
+        "156.55.49.143"
+    ],
+    "kbase-energy.fisglobal.com": [
+        "209.243.102.15"
+    ],
+    "rtprdy-mt2-web.fisglobal.com": [
+        "156.55.115.227"
+    ],
+    "visionarchive1.fisglobal.com": [
+        "156.55.114.205"
+    ],
+    "plaid.com": [
+        "13.32.110.9",
+        "13.32.110.2",
+        "13.32.110.129",
+        "13.32.110.4"
+    ],
+    "lpl-clo.fisglobal.com": [
+        "156.55.49.145"
+    ],
+    "bpauat-m48.fisglobal.com": [
+        "170.132.238.90"
+    ],
+    "dlmlr8int.fisglobal.com": [
+        "156.55.117.36"
+    ],
+    "visionarchive3.fisglobal.com": [
+        "156.55.116.13"
+    ],
+    "www4.minocw.nl": [
+        "231.244.160.67"
+    ],
+    "visionarchive3-readiness.fisglobal.com": [
+        "156.55.116.14"
+    ],
+    "cardpro.readiness.fisglobal.com": [
+        "205.141.242.153"
+    ],
+    "transerv1.read.fisglobal.com": [
+        "205.141.241.180"
+    ],
+    "webmail.zuid-holland.nl": [
+        "82.215.19.69"
+    ],
+    "ippdemo.fisglobal.com": [
+        "205.141.242.163"
+    ],
+    "dlmlr7int.fisglobal.com": [
+        "156.55.116.202"
+    ],
+    "1098dts.fisglobal.com": [
+        "156.55.119.140"
+    ],
+    "lpl-dr-optimist.fisglobal.com": [
+        "156.55.84.76"
+    ],
+    "rtprdy-mt2-api.fisglobal.com": [
+        "156.55.115.226"
+    ],
+    "rmpoint.readiness.fisglobal.com": [
+        "205.141.250.72"
+    ],
+    "cf-ambitoptimist.fisglobal.com": [
+        "156.55.49.103"
+    ],
+    "vcontent-oriental.readiness.fisglobal.com": [
+        "156.55.118.209"
+    ],
+    "ih2-prd1-int.fisglobal.com": [
+        "205.141.255.124"
+    ],
+    "clientpoint.readiness.fisglobal.com": [
+        "205.141.250.184"
+    ],
+    "ibssalesmgmtadm-rdy.fisglobal.com": [
+        "156.55.115.22"
+    ],
+    "rw-iene-acc.topdesk.odc-noord.nl": [
+        "145.21.169.243"
+    ],
+    "lla01.lending.fisglobal.com": [
+        "69.36.17.198"
+    ],
+    "rw-iene-prd.topdesk.odc-noord.nl": [
+        "145.21.169.243"
+    ],
+    "insight.fisglobal.com": [
+        "156.55.115.52"
+    ],
+    "1099ba.fisglobal.com": [
+        "156.55.118.130"
+    ],
+    "netimagelr8int.fisglobal.com": [
+        "156.55.117.35"
+    ],
+    "acceptatie.tws-esb.rijkswaterstaat.nl": [
+        "64:ff9b::912d:af"
+    ],
+    "proza-acc-proces.minocw.nl": [
+        "145.21.226.10"
+    ],
+    "vt-digikoppeling1.duo.nl": [
+        "145.21.133.19"
+    ],
+    "ibssalesmgmtadm-dr.fisglobal.com": [
+        "156.55.118.174"
+    ],
+    "eutruckplatooning.com": [
+        "64:ff9b::321:82be",
+        "64:ff9b::fc5:9421"
+    ],
+    "vhqtest.verifone.com": [
+        "192.30.122.153"
+    ],
+    "eoriginal-uat.lending.fisglobal.com": [
+        "156.55.196.12"
+    ],
+    "1098dt1-uat.fisglobal.com": [
+        "156.55.119.235"
+    ],
+    "objects.gn2.rijkscloud.nl": [
+        "147.181.4.76"
+    ],
+    "markermeerijmeer.nl": [
+        "2a07:3503:1033:64::516:f87a"
+    ],
+    "proza-proces.minocw.nl": [
+        "145.21.226.13"
+    ],
+    "nieuwsbrieven.gelderland.nl": [
+        "0.0.0.0"
+    ],
+    "scanserver-a.minocw.nl": [
+        "145.21.150.39"
+    ],
+    "1102ba-uat.fisglobal.com": [
+        "156.55.119.225"
+    ],
+    "1099ba-uat.fisglobal.com": [
+        "156.55.119.224"
+    ],
+    "rproxy-acpt.dwr-archief.nl": [
+        "145.21.161.72"
+    ],
+    "rtp-app-mt-prod.fisglobal.com": [
+        "156.55.115.73"
+    ],
+    "bbiuate-web.fisglobal.com": [
+        "204.130.44.232"
+    ],
+    "ibssalesmgmtadmrpt-dr.fisglobal.com": [
+        "156.55.118.207"
+    ],
+    "fbadmin-eopg.aivd.nl": [
+        "145.45.132.117"
+    ],
+    "registry.gitlab.docdirekt.rijkscloud.nl": [
+        "64:ff9b::93b5:d1e"
+    ],
+    "acbsaspapps300.fisglobal.com": [
+        "156.55.149.230"
+    ],
+    "insight-db-readiness.fisglobal.com": [
+        "156.55.119.52"
+    ],
+    "rproxy-prod.dwr-archief.nl": [
+        "145.21.161.71"
+    ],
+    "pmz-rws.nl": [
+        "193.219.116.194"
+    ],
+    "as2.verifone.com": [
+        "192.30.122.159"
+    ],
+    "www.mwnb.nl": [
+        "64:ff9b::bcd0:24c1"
+    ],
+    "e-depot.ted.dwr-archief.nl": [
+        "145.21.161.71"
+    ],
+    "fbadmin-eopg-acc.aivd.nl": [
+        "145.45.132.115"
+    ],
+    "proza-ontw-proces.minocw.nl": [
+        "145.21.226.11"
+    ],
+    "meridian.rws.nl": [
+        "64:ff9b::83ed:4ebf"
+    ],
+    "insight-bc.fisglobal.com": [
+        "156.55.115.53"
+    ],
+    "acceptatie.basisinformatie-overstromingen.nl": [
+        "159.8.8.187"
+    ],
+    "gbasweb01.fisglobal.com": [
+        "209.243.97.244"
+    ],
+    "scanserver.minocw.nl": [
+        "145.21.150.38"
+    ],
+    "over.n33midden.nl": [
+        "185.67.201.132"
+    ],
+    "acceptatie.rijkswaterstaat.nl": [
+        "10.95.22.153",
+        "10.95.20.157",
+        "10.95.20.152"
+    ],
+    "exchange-uw.intern.reclassering.nl": [
+        "159.46.29.105"
+    ],
+    "airwatch.minvenj.nl": [
+        "64:ff9b::9f2e:c62d"
+    ],
+    "test.minocw.nl": [
+        "80.95.167.116"
+    ],
+    "cic-garage.com": [
+        "159.8.23.90"
+    ],
+    "eas.acc.cloud-wp.nl": [
+        "64:ff9b::910c:66b8"
+    ],
+    "xenapp.intern.reclassering.nl": [
+        "159.46.29.99"
+    ],
+    "insight-db.fisglobal.com": [
+        "156.55.115.55"
+    ],
+    "service10.ontwikkeling.diginetwerk.kadaster.nl": [
+        "145.21.197.5"
+    ],
+    "robin.intern.reclassering.nl": [
+        "159.46.29.102"
+    ],
+    "webdav-acceptatie.sawa-vth.nl": [
+        "64:ff9b::83ed:4e8a"
+    ],
+    "servicedesk-uw.intern.reclassering.nl": [
+        "159.46.29.107"
+    ],
+    "iris.intern.reclassering.nl": [
+        "159.46.29.100"
+    ],
+    "iris-uw.intern.reclassering.nl": [
+        "159.46.29.101"
+    ],
+    "rin.minaz.nl": [
+        "145.21.135.166"
+    ],
+    "proza-test-proces.minocw.nl": [
+        "145.21.226.12"
+    ],
+    "acc.jubes.minjenv.nl": [
+        "145.21.184.69"
+    ],
+    "robin-uw.intern.reclassering.nl": [
+        "159.46.29.103"
+    ],
+    "accrin.minaz.nl": [
+        "145.21.135.167"
+    ],
+    "bayplanviewer2.bics.nl": [
+        "131.237.78.145"
+    ],
+    "ondermijningapp.nl": [
+        "2a01:7c8:f0:10c1::f1f7:8302"
+    ],
+    "ms.myk.test.kadaster.nl": [
+        "145.77.109.8",
+        "2001:67c:2f04:f500::109:8"
+    ],
+    "mijnrn.reclassering.nl": [
+        "185.46.183.41"
+    ],
+    "docwijs.gelderland.nl": [
+        "20.93.196.62",
+        "2603:1020:201:f::dd"
+    ],
+    "owa.omnibuzz.nl": [
+        "212.178.133.92"
+    ],
+    "pvb.flexopdrachtenbzk.nl": [
+        "95.168.220.210",
+        "2a01:28:ca07:1::f0"
+    ],
+    "ibssalesmgmtrpt.fisglobal.com": [
+        "156.55.115.47"
+    ],
+    "veiligegemeenten.nl": [
+        "185.55.53.228"
+    ],
+    "servicedesk.intern.reclassering.nl": [
+        "159.46.29.106"
+    ],
+    "portal.ovbureau.nl": [
+        "91.208.110.70"
+    ],
+    "exchange.intern.reclassering.nl": [
+        "159.46.29.104"
+    ],
+    "xenapp-uw.intern.reclassering.nl": [
+        "159.46.29.97"
+    ],
+    "dienstverlening.bar-organisatie.nl": [
+        "2a07:3503:1033:64::6d6d:760d"
+    ],
+    "loket.bsr.nl": [
+        "193.84.176.47"
+    ],
+    "test.digitaltrustcenter.nl": [
+        "188.66.19.69"
+    ],
+    "ms.kir.test.kadaster.nl": [
+        "145.77.105.207",
+        "2001:67c:2f04:f500::207"
+    ],
+    "portal.kempengemeenten.nl": [
+        "80.113.173.155"
+    ],
+    "atgb.nl": [
+        "185.94.230.102",
+        "2a00:f10:13f:0:1c00:6eff:fe00:153"
+    ],
+    "ews-external.acpt.dji.minjus.nl": [
+        "159.46.198.63"
+    ],
+    "beheer.regiotwente.nl": [
+        "51.144.43.72"
+    ],
+    "decos.ovbureau.nl": [
+        "91.208.110.72"
+    ],
+    "sad-acc.bronhouderportaal-bro.nl": [
+        "147.181.13.75"
+    ],
+    "werkplek.werkpleinhartvanwest-brabant.nl": [
+        "213.34.182.171"
+    ],
+    "tanium.eminjenv.nl": [
+        "145.21.149.211"
+    ],
+    "sip001.rvdk.nl": [
+        "159.46.200.230"
+    ],
+    "owa.minbzk.nl": [
+        "193.177.183.12"
+    ],
+    "em-3ro.intern.reclassering.nl": [
+        "159.46.29.108"
+    ],
+    "dkd.delft.nl": [
+        "95.152.131.142"
+    ],
+    "ptw.minbzk.nl": [
+        "193.177.183.17"
+    ],
+    "remote.ovbureau.nl": [
+        "91.208.110.70"
+    ],
+    "kmppki.isd-kompas.nl": [
+        "159.46.69.221"
+    ],
+    "test.verlofadviescollege.nl": [
+        "159.46.3.9"
+    ],
+    "mail.ovbureau.nl": [
+        "91.208.110.71"
+    ],
+    "dkd.orioniswalcheren.nl": [
+        "159.46.67.144"
+    ],
+    "ombudsmanmetropool.nl": [
+        "64:ff9b::17ec:3e93"
+    ],
+    "www.maatschappelijkestabiliteit.nl": [
+        "108.139.119.61",
+        "108.139.119.82",
+        "108.139.119.103",
+        "108.139.119.79"
+    ],
+    "dkd.isdbollenstreek.nl": [
+        "95.152.138.20"
+    ],
+    "dkd.isd-kompas.nl": [
+        "159.46.69.221"
+    ],
+    "tribuut.nl": [
+        "2a07:3503:1033:64::550a:ac9d"
+    ],
+    "www.gemeentelijkeombudsman.nl": [
+        "64:ff9b::d5ef:db1b"
+    ],
+    "www.quickinform.nl": [
+        "64:ff9b::bc5e:b9e5"
+    ],
+    "intranet.bsr.nl": [
+        "193.84.176.92"
+    ],
+    "bonairegov.nl": [
+        "64:ff9b::c847:f8a1"
+    ],
+    "vpn.zeeuwsemuziekschool.nl": [
+        "82.176.95.117"
+    ],
+    "joodsgv.nl": [
+        "93.175.178.230"
+    ],
+    "ftp.ggi.irvn.nl": [
+        "159.46.66.165"
+    ],
+    "grapp107.grdebevelanden.nl": [
+        "145.21.201.73"
+    ],
+    "dkd.isdbol.nl": [
+        "159.46.69.227"
+    ],
+    "test.services.diginetwerk.meerinzicht.nl": [
+        "95.152.135.145"
+    ],
+    "portal.bsgr.nl": [
+        "145.21.209.156"
+    ],
+    "diginetwerkkoppel.connectie.nl": [
+        "159.46.72.233"
+    ],
+    "wozinventarisatie.noordelijkbelastingkantoor.nl": [
+        "64:ff9b::b9f1:b8ca"
+    ],
+    "dkd.sozawe-nw-fryslan.nl": [
+        "159.46.74.25"
+    ],
+    "securetransfer.connectie.nl": [
+        "2a07:3503:1033:64::57d5:a972"
+    ],
+    "werkenbijdrechtsteden.nl": [
+        "2a06:a004:d0ae::2"
+    ],
+    "dms.odachterhoek.nl": [
+        "64:ff9b::c1f2:61d0"
+    ],
+    "diensten.diginet.bvowb.nl": [
+        "95.152.136.25"
+    ],
+    "synergy.empatec.nl": [
+        "213.136.5.207"
+    ],
+    "www.tribuut.nl": [
+        "2a07:3503:1033:64::550a:ac9d"
+    ],
+    "diginetwerkkoppel-acc.connectie.nl": [
+        "159.46.72.234"
+    ],
+    "dkd.werkzaakrivierenland.nl": [
+        "145.21.250.6"
+    ],
+    "gateway-acc.minienw.nl": [
+        "145.21.234.242"
+    ],
+    "subscribe.platformrijksoverheid.nl": [
+        "195.137.215.152",
+        "2001:67c:1870:1:80::d798"
+    ],
+    "rwbxiq.saphttp.minienm.nl": [
+        "145.21.147.64"
+    ],
+    "sasbi-acc.ilent.nl": [
+        "145.21.146.103"
+    ],
+    "itp-acc.ilent.nl": [
+        "145.21.146.110"
+    ],
+    "itp.ilent.nl": [
+        "145.21.146.111"
+    ],
+    "dnwxip.saphttp.minienm.nl": [
+        "145.21.135.245"
+    ],
+    "services.diginetwerk.meerinzicht.nl": [
+        "95.152.135.146"
+    ],
+    "cms.platformrijksoverheid.nl": [
+        "145.21.156.150"
+    ],
+    "gateway.minienm.nl": [
+        "145.21.234.244"
+    ],
+    "b2b.digi.ilent.nl": [
+        "145.21.133.148"
+    ],
+    "mijnoverheid.munitax.nl": [
+        "95.152.130.179"
+    ],
+    "data-test.gemnet.irvn.nl": [
+        "145.11.20.34"
+    ],
+    "dkd.laborijn.nl": [
+        "194.104.50.136"
+    ],
+    "data.gemnet.irvn.nl": [
+        "145.11.20.35"
+    ],
+    "rdmaasland.nl": [
+        "64:ff9b::8890:c76c"
+    ],
+    "webmail.minvrom.nl": [
+        "147.181.248.133"
+    ],
+    "gateway.ilent.nl": [
+        "145.21.133.97"
+    ],
+    "test.nctv.nl": [
+        "159.46.3.9"
+    ],
+    "jeptest.justitie.nl": [
+        "159.46.3.205"
+    ],
+    "dkd.fermwerk.nl": [
+        "159.46.76.193"
+    ],
+    "api.dn.acc.mijn.overheid.nl": [
+        "145.21.245.251"
+    ],
+    "handleiding.rijksoverheid.nl": [
+        "145.21.156.151"
+    ],
+    "services-hprm-acc.minienm.nl": [
+        "145.21.228.11"
+    ],
+    "odrn.nl": [
+        "87.233.83.35"
+    ],
+    "services-hprm-acc.minienw.nl": [
+        "145.21.228.11"
+    ],
+    "gateway-acc.minienm.nl": [
+        "145.21.234.242"
+    ],
+    "autodiscover.minvrom.nl": [
+        "147.181.248.133"
+    ],
+    "dkd.werkpleinhartvanwest-brabant.nl": [
+        "195.244.8.13"
+    ],
+    "jubes.justitie.nl": [
+        "159.46.3.100"
+    ],
+    "services-hprm.minienw.nl": [
+        "145.21.228.12"
+    ],
+    "digikoppeling-test.bar-organisatie.nl": [
+        "109.109.118.32"
+    ],
+    "sasbi.ilent.nl": [
+        "145.21.146.102"
+    ],
+    "somrijk.nl": [
+        "91.142.249.213"
+    ],
+    "www.acc.auth.wegvervoer.inspectieview.nl": [
+        "81.18.2.151"
+    ],
+    "boetebase.om.nl": [
+        "159.46.193.25",
+        "2a04:9a04:18af:8a02:0:58:2:0"
+    ],
+    "acc0.mijn.overheid.nl": [
+        "144.43.244.225"
+    ],
+    "gs-acc.ext.politie": [
+        "145.119.244.140"
+    ],
+    "git.rijksoverheid.nl": [
+        "94.228.134.135"
+    ],
+    "www.amsterdam.brandweer.nl": [
+        "217.166.68.116"
+    ],
+    "skb-staging-a.minfin.nl": [
+        "144.43.248.68"
+    ],
+    "platformrijksoverheid.nl": [
+        "94.228.134.122"
+    ],
+    "services-hprm.minienm.nl": [
+        "145.21.228.12"
+    ],
+    "acc.b2b.digi.ilent.nl": [
+        "145.21.133.147"
+    ],
+    "a-subscribe.platformrijksoverheid.nl": [
+        "195.137.215.152",
+        "2001:67c:1870:1:80::d798"
+    ],
+    "demo-acc.ubrijk.nl": [
+        "147.181.13.75"
+    ],
+    "jep1.justitie.nl": [
+        "159.46.3.198"
+    ],
+    "dnwxiq.saphttp.minienm.nl": [
+        "145.21.135.250"
+    ],
+    "idm.politie.nl": [
+        "145.21.134.200"
+    ],
+    "sharpcloud.ubrijk.nl": [
+        "145.21.169.202"
+    ],
+    "rwbxip.saphttp.minienm.nl": [
+        "145.21.147.63"
+    ],
+    "crowd.hetutrechtsarchief.nl": [
+        "64:ff9b::54f7:f28"
+    ],
+    "bvi-test.politie.nl": [
+        "145.21.134.205"
+    ],
+    "bvi.politie.nl": [
+        "145.21.134.204"
+    ],
+    "cpw.bvi.politie.nl": [
+        "145.21.134.140"
+    ],
+    "adfs.historischcentrumoverijssel.nl": [
+        "89.30.241.54"
+    ],
+    "alta-acc-res2.astron.nl": [
+        "64:ff9b::c057:193"
+    ],
+    "145-119-165-114.politie.nl": [
+        "145.119.165.114"
+    ],
+    "adviescollegeicttoetsing.nl": [
+        "178.22.85.149",
+        "178.22.85.146",
+        "2a00:d00:3:8::92",
+        "2a00:d00:3:8::91",
+        "2a00:d00:3:8::80",
+        "2a00:d00:3:8::90"
+    ],
+    "mail.hogeraad.nl": [
+        "159.46.198.77"
+    ],
+    "www.waterstromen.stowa.nl": [
+        "87.236.103.103",
+        "2a02:cc8::103:103"
+    ],
+    "wiki.enexis.nl": [
+        "80.248.34.80"
+    ],
+    "testjep.justitie.nl": [
+        "159.46.3.215"
+    ],
+    "idm-test.politie.nl": [
+        "145.21.134.201"
+    ],
+    "www.acc.auth.binnenvaart.inspectieview.nl": [
+        "81.18.2.150"
+    ],
+    "handboekgc.tweedekamer.nl": [
+        "147.181.96.90"
+    ],
+    "cms.rijksoverheid.nl": [
+        "145.21.156.153"
+    ],
+    "intranet.comcamenergy.com": [
+        "82.176.95.202"
+    ],
+    "businessportal.eneco.nl": [
+        "64:ff9b::3e91:246e"
+    ],
+    "acc.holland.com": [
+        "81.173.120.221"
+    ],
+    "ci-pax-hbnj.pax1-tst.aws.alliander.com": [
+        "64:ff9b::378:3863",
+        "64:ff9b::239c:654a",
+        "64:ff9b::37a:578d"
+    ],
+    "zakelijk-acc.nationaalcoordinatorgroningen.nl": [
+        "64:ff9b::93b5:736"
+    ],
+    "api.rovl.nl": [
+        "64:ff9b::b95c:3d0c",
+        "64:ff9b::b95c:3d0b"
+    ],
+    "cbd.politie.nl": [
+        "145.21.134.247"
+    ],
+    "autodiscover.deltaenergie.nl": [
+        "194.13.254.15"
+    ],
+    "stemwijzer.nl": [
+        "fe80::8473:2cff:fe7a:4d6d"
+    ],
+    "dkd.kempenplus.com": [
+        "95.152.135.133"
+    ],
+    "wachtnietopwater.nl": [
+        "172.66.0.136"
+    ],
+    "suwinet-inkijk-productie.suwinet.nl": [
+        "194.104.15.185"
+    ],
+    "jenkins-master.enexis.nl": [
+        "134.168.39.21"
+    ],
+    "myapps-otp.ssl.uniper.energy": [
+        "217.67.37.167"
+    ],
+    "secure.nummerherkenning.advocatenorde.nl": [
+        "195.177.243.228"
+    ],
+    "tst.essent.nl": [
+        "13.35.185.54",
+        "13.35.185.129",
+        "13.35.185.122",
+        "13.35.185.57"
+    ],
+    "storybook.awesems.com": [
+        "3.168.236.28",
+        "3.168.236.64",
+        "3.168.236.61",
+        "3.168.236.71"
+    ],
+    "jep.justitie.nl": [
+        "159.46.3.209"
+    ],
+    "dkd.haltewerk.nl": [
+        "145.21.202.85"
+    ],
+    "intranet.epz.nl": [
+        "64:ff9b::b9b5:8c70"
+    ],
+    "filetransfer.minvrom.nl": [
+        "147.181.248.14"
+    ],
+    "webmail.den.nl": [
+        "64:ff9b::525f:9250"
+    ],
+    "grafana.playground-master-41-a.dev.radix.equinor.com": [
+        "64:ff9b::14df:2895"
+    ],
+    "esb-prod.uniper.energy": [
+        "217.67.32.239"
+    ],
+    "huisscan.eneco.nl": [
+        "64:ff9b::3e91:2450"
+    ],
+    "www.tst.essent.nl": [
+        "13.35.185.57",
+        "13.35.185.122",
+        "13.35.185.129",
+        "13.35.185.54"
+    ],
+    "uat-ecm.uniper.energy": [
+        "217.67.32.225"
+    ],
+    "virtualmin.twence.nl": [
+        "64:ff9b::3999:c949"
+    ],
+    "sappoz.gasunie.nl": [
+        "64:ff9b::5be5:9884"
+    ],
+    "mgmt.dev.integration.pzem.nl": [
+        "20.103.132.233"
+    ],
+    "intranet.essent.nl": [
+        "145.46.76.155"
+    ],
+    "extern.twence.nl": [
+        "64:ff9b::5041:7d5e"
+    ],
+    "api-tst.energiedirect.nl": [
+        "127.0.0.1"
+    ],
+    "www.pas.bij12.nl": [
+        "46.23.77.20"
+    ],
+    "probid.uniper.energy": [
+        "217.67.39.168"
+    ],
+    "api.dev.stedin.net": [
+        "64:ff9b::4b4:f46c"
+    ],
+    "esb-dev.uniper.energy": [
+        "217.67.32.233"
+    ],
+    "myapps-pki.ssl.uniper.energy": [
+        "217.67.37.166"
+    ],
+    "gateway1.stpa.rwe.com": [
+        "145.46.44.88"
+    ],
+    "test.instrum.energy-pool.eu": [
+        "6.6.6.6"
+    ],
+    "data.elix.nl": [
+        "64:ff9b::6ded:d371"
+    ],
+    "portal.stpa.rwe.com": [
+        "145.46.44.87",
+        "145.46.36.87"
+    ],
+    "gateway.stpa.rwe.com": [
+        "145.46.36.88",
+        "145.46.44.88"
+    ],
+    "jenkins-master-dev.enexis.nl": [
+        "134.168.34.10"
+    ],
+    "gateway2.stpa.rwe.com": [
+        "145.46.36.88"
+    ],
+    "dispatching-france.uniper.energy": [
+        "217.67.33.76"
+    ],
+    "vdi1.stpa.rwe.com": [
+        "145.46.44.48"
+    ],
+    "esb-int.uniper.energy": [
+        "217.67.32.235"
+    ],
+    "view.rwe.com": [
+        "20.105.216.30"
+    ],
+    "live-ecm.uniper.energy": [
+        "217.67.32.224"
+    ],
+    "test-probid.uniper.energy": [
+        "217.67.39.226"
+    ],
+    "academie.hhnk.nl": [
+        "89.18.176.90"
+    ],
+    "www.ash.ggd.nl": [
+        "46.182.178.138"
+    ],
+    "www.mijn.tst.essent.nl": [
+        "13.226.61.113"
+    ],
+    "d-dataport.gasunie.nl": [
+        "65.52.152.92"
+    ],
+    "timeout.ggdgooi.nl": [
+        "77.95.99.6"
+    ],
+    "www.basisschoolmeridiaan.nl": [
+        "194.50.112.30"
+    ],
+    "mijn.staging.awesems.com": [
+        "3.160.188.55",
+        "3.160.188.113",
+        "2600:9000:2447:bc00:15:972b:2280:93a1",
+        "3.160.188.90",
+        "3.160.188.61",
+        "2600:9000:2447:be00:15:972b:2280:93a1"
+    ],
+    "vdi2.stpa.rwe.com": [
+        "145.46.36.48"
+    ],
+    "fs.gvpschool-scherpenisse.nl": [
+        "82.176.119.72"
+    ],
+    "obs-delinderakkers.nl": [
+        "2a03:3b00:1:0:700a:b7ff:fe10:7d00"
+    ],
+    "hetbovenland.nl": [
+        "37.128.144.149"
+    ],
+    "basisschoolwalburgis.nl": [
+        "84.241.168.25"
+    ],
+    "open-geodata-portaal-valleienveluwe.hub.arcgis.com": [
+        "23.23.51.121",
+        "54.197.243.216",
+        "44.215.202.167"
+    ],
+    "www.bsfranciscusbunde.nl": [
+        "24.144.78.81"
+    ],
+    "aimsonderzoek.nl": [
+        "64.227.77.30"
+    ],
+    "albertschweitzer.nl": [
+        "141.138.168.119",
+        "2a03:3c00:a002:174::1000"
+    ],
+    "digidossier.skoe.nl": [
+        "64:ff9b::8d8a:c12d"
+    ],
+    "esb-uat.uniper.energy": [
+        "217.67.32.234"
+    ],
+    "mail.cbsdenakker.nl": [
+        "82.176.79.134"
+    ],
+    "login.o2g2.nl": [
+        "81.95.154.150"
+    ],
+    "mail.hfschool.nl": [
+        "82.176.94.172"
+    ],
+    "mail.klaskompas.nl": [
+        "64:ff9b::b9b6:380c"
+    ],
+    "www.dns1.nieuwerkerk.net": [
+        "64:ff9b::b935:b235"
+    ],
+    "webmail.stolbergschool.nl": [
+        "82.176.207.242"
+    ],
+    "fs.graafjanvlissingen.nl": [
+        "82.176.236.21"
+    ],
+    "fs.bogerman-oosterland.nl": [
+        "82.176.98.191"
+    ],
+    "mail.jvanstolbergschool.org": [
+        "82.176.112.6"
+    ],
+    "schoolfranciscus.nl": [
+        "64:ff9b::ae81:19aa"
+    ],
+    "webmail.jvanstolbergschool.org": [
+        "82.176.112.6"
+    ],
+    "gbsdehandpalm.nl": [
+        "85.10.153.229"
+    ],
+    "fritsbodemail.rehoboth.nu": [
+        "64:ff9b::53f7:475a"
+    ],
+    "mail.gvpschool-scherpenisse.nl": [
+        "82.176.119.72"
+    ],
+    "www.de-marliaantjes.nl": [
+        "64:ff9b::98a0:e3a4"
+    ],
+    "remote.wolderwijs.nl": [
+        "64:ff9b::bc78:2cf3"
+    ],
+    "fs.ehstholen.nl": [
+        "82.176.119.231"
+    ],
+    "remote.obsdebrink.nl": [
+        "64:ff9b::5389:1382"
+    ],
+    "drpicardt.nl": [
+        "2a02:ca0:3::150"
+    ],
+    "www.deparelassen.nl": [
+        "85.10.153.229"
+    ],
+    "kindcentrumdeveste.nl": [
+        "172.67.154.133",
+        "2606:4700:3034::6815:50e0",
+        "2606:4700:3031::ac43:9a85"
+    ],
+    "hetpaletommen.nl": [
+        "2a10:8c80:0:12::1",
+        "185.223.163.6"
+    ],
+    "pop.johannesschool.nl": [
+        "185.41.125.155"
+    ],
+    "www.demarienborn.nl": [
+        "185.109.216.115"
+    ],
+    "printerapplicatie.cordeoscholen.nl": [
+        "141.138.138.246"
+    ],
+    "www.verwondering.info": [
+        "185.96.6.224"
+    ],
+    "webmail.hfschool.nl": [
+        "82.176.94.172"
+    ],
+    "ikcdekoperwiek.nl": [
+        "64:ff9b::c232:701e"
+    ],
+    "lonnekerschool.nl": [
+        "95.216.196.212"
+    ],
+    "degoudenkraal.nl": [
+        "185.87.187.118",
+        "2a00:f10:305:0:1c00:5dff:fe00:4ae"
+    ],
+    "freinetschooldelft.nl": [
+        "185.232.250.163"
+    ],
+    "parkschoolzwolle.nl": [
+        "185.223.163.6",
+        "2a10:8c80:0:12::1"
+    ],
+    "pms-rijswijk.nl": [
+        "174.129.25.170"
+    ],
+    "bommelstein.asg-almere.nl": [
+        "148.251.96.235"
+    ],
+    "raerderhiem.nl": [
+        "82.201.54.248"
+    ],
+    "mail.dorpsschool.nl": [
+        "185.104.29.148",
+        "2a06:2ec0:1::156"
+    ],
+    "obsdetoermalijn.nl": [
+        "64:ff9b::1890:4e51"
+    ],
+    "mail.bogerman-oosterland.nl": [
+        "82.176.98.191"
+    ],
+    "mail.smdbstalland.nl": [
+        "82.176.119.243"
+    ],
+    "mail.koelmanschoolgoes.nl": [
+        "82.176.196.189"
+    ],
+    "webmail.okba.nl": [
+        "64:ff9b::b957:bbe9"
+    ],
+    "webmail.smdbstalland.nl": [
+        "82.176.119.243"
+    ],
+    "mail.hesselanden.nl": [
+        "64:ff9b::52c9:e46"
+    ],
+    "mail.graafjanvlissingen.nl": [
+        "82.176.236.21"
+    ],
+    "www.kcbuitenrijck.nl": [
+        "64:ff9b::b9e8:faa3"
+    ],
+    "webmail.koelmanschoolgoes.nl": [
+        "82.176.196.189"
+    ],
+    "cpanel.obs-anbrenge.nl": [
+        "64:ff9b::b938:9342"
+    ],
+    "www.detoermalijn.com": [
+        "64:ff9b::1890:4e51"
+    ],
+    "mail.stolbergschool.nl": [
+        "82.176.207.242"
+    ],
+    "gateway.bogerman-oosterland.nl": [
+        "82.176.98.191"
+    ],
+    "schoolofunderstanding.nl": [
+        "64:ff9b::5d77:1b1"
+    ],
+    "obscranendonck.nl": [
+        "2a01:7c8:e100:1::50a0"
+    ],
+    "mail.dspietervandijkeschool.nl": [
+        "82.176.103.197"
+    ],
+    "www.willibrordusbk.nl": [
+        "64:ff9b::1890:4e51"
+    ],
+    "webmail.petrusimmensschool.nl": [
+        "82.176.191.242"
+    ],
+    "cpanel.obs-klazienaveen.nl": [
+        "64:ff9b::b938:9342"
+    ],
+    "mail.petrusimmensschool.nl": [
+        "82.176.191.242"
+    ],
+    "staging.rodekruis.nl": [
+        "64:ff9b::3edd:d679"
+    ],
+    "www.bijenkorf.info": [
+        "185.232.248.58"
+    ],
+    "deschothorst.nl": [
+        "185.232.250.163"
+    ],
+    "www.bredeschoolsoest.nl": [
+        "136.144.254.149"
+    ],
+    "mail.obsdedriesprong-nieuwlande.nl": [
+        "37.247.39.162"
+    ],
+    "www.aegidiusschool.nl": [
+        "84.241.177.42"
+    ],
+    "webmail.rodekruis.nl": [
+        "212.78.193.204"
+    ],
+    "piusx.eu": [
+        "5.200.15.121",
+        "2a00:1630:12a::1a"
+    ],
+    "schaapskooi-ikt.nl": [
+        "24.144.78.81"
+    ],
+    "pcbhoef.nl": [
+        "213.249.67.17",
+        "2a01:448:2001::17"
+    ],
+    "stz-ziekenhuizen.nl": [
+        "64:ff9b::d913:ed36"
+    ],
+    "www.delindenboom.nl": [
+        "172.67.167.179"
+    ],
+    "pandemie.rodekruis.nl": [
+        "194.151.221.38"
+    ],
+    "nas.gbbenjamin.nl": [
+        "62.131.165.200"
+    ],
+    "pcb146.nki.nl": [
+        "192.87.97.146"
+    ],
+    "pcb120.nki.nl": [
+        "192.87.97.120"
+    ],
+    "kon-julianaschool.nl": [
+        "172.67.153.167",
+        "104.21.58.5",
+        "2606:4700:3031::6815:3a05",
+        "2606:4700:3037::ac43:99a7"
+    ],
+    "www.rsv.nl": [
+        "80.65.96.118",
+        "2001:1690:2:4::1:118"
+    ],
+    "mail.kerstenschool.nl": [
+        "82.176.71.251"
+    ],
+    "portaal.overbetuwe.nl": [
+        "2a07:3500:1a48:11::50"
+    ],
+    "www.portaal.overbetuwe.nl": [
+        "2a07:3500:1a48:11::50"
+    ],
+    "www.geo.renkum.nl": [
+        "2a07:3503:1033:64::5969:c8d5"
+    ],
+    "apps.arnhem.nl": [
+        "2a07:3503:1033:64::57d5:a971"
+    ],
+    "wegwijzer.nijkerk.eu": [
+        "64:ff9b::c32e:26a2"
+    ],
+    "www.regiowestfriesland.nl": [
+        "64:ff9b::53d:ff09"
+    ],
+    "mdm.abnamroclearing.com": [
+        "64:ff9b::5bd5:c92f"
+    ],
+    "loket.leidschendam-voorburg.nl": [
+        "2a07:3503:1033:64::d977:e543"
+    ],
+    "meet.noord-holland.nl": [
+        "2a07:3503:1033:64::b915:3867"
+    ],
+    "wedstrijd.veiligschoonvoldoende.nl": [
+        "64:ff9b::5360:ce91"
+    ],
+    "nbso-texas.com": [
+        "::ffff:45.40.148.206"
+    ],
+    "samen.schagen.nl": [
+        "54.182.0.19",
+        "54.182.0.111",
+        "54.182.0.27",
+        "54.182.0.128"
+    ],
+    "auth.meppel.nl": [
+        "::ffff:80.113.97.204"
+    ],
+    "chromecast.dev.tv.kpn.com": [
+        "2600:9000:2642:fa00:14:aa23:ae80:93a1",
+        "2600:9000:2642:c800:14:aa23:ae80:93a1",
+        "2600:9000:2642:2e00:14:aa23:ae80:93a1",
+        "2600:9000:2642:e400:14:aa23:ae80:93a1",
+        "2600:9000:2642:800:14:aa23:ae80:93a1",
+        "2600:9000:2642:b600:14:aa23:ae80:93a1",
+        "2600:9000:2642:f600:14:aa23:ae80:93a1",
+        "2600:9000:2642:9e00:14:aa23:ae80:93a1"
+    ],
+    "mijn.dz.nl": [
+        "::ffff:80.113.105.33"
+    ],
+    "elo.huisartsopleidingutrecht.nl": [
+        "::ffff:143.121.197.29"
+    ],
+    "friesland.nl": [
+        "::ffff:79.125.126.131"
+    ],
+    "volkskredietbank.nl": [
+        "::ffff:3.120.90.11"
+    ],
+    "www.cbs-deark.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.hetbakencapelle.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "cbs-deark.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.cbs-deloofboom.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "cbs-deloofboom.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "groencapelle.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "cbs-fontein.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.cbsebenhaezer.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.cbs-fontein.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.calvijnschoolgouda.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "cbsebenhaezer.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "cordeoscholen.nl": [
+        "::ffff:93.119.0.37"
+    ],
+    "pcponwk.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.julianaschool-gouda.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.groencapelle.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.dewegwijzerkrimpen.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "dewegwijzerkrimpen.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.pcponwk.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "www.livingstoneschoolgouda.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "julianaschool-gouda.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "livingstoneschoolgouda.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "hetbakencapelle.nl": [
+        "::ffff:52.142.197.80"
+    ],
+    "calvijnschoolgouda.nl": [
+        "::ffff:52.142.197.80"
+    ]
+}

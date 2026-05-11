@@ -1,0 +1,56 @@
+{
+    "bahamas": {
+        "Valid": 84,
+        "Valid (%)": 70.0,
+        "Invalid": 2,
+        "Invalid (%)": 1.67,
+        "Unknown": 34,
+        "Unknown (%)": 28.33,
+        "Total Prefixes": 120
+    },
+    "estonia": {
+        "Valid": 250,
+        "Valid (%)": 90.25,
+        "Invalid": 0,
+        "Invalid (%)": 0.0,
+        "Unknown": 27,
+        "Unknown (%)": 9.75,
+        "Total Prefixes": 277
+    },
+    "lithuania": {
+        "Valid": 289,
+        "Valid (%)": 90.03,
+        "Invalid": 0,
+        "Invalid (%)": 0.0,
+        "Unknown": 32,
+        "Unknown (%)": 9.97,
+        "Total Prefixes": 321
+    },
+    "netherlands": {
+        "Valid": 3448,
+        "Valid (%)": 85.43,
+        "Invalid": 2,
+        "Invalid (%)": 0.05,
+        "Unknown": 586,
+        "Unknown (%)": 14.52,
+        "Total Prefixes": 4036
+    },
+    "sweden": {
+        "Valid": 422,
+        "Valid (%)": 67.41,
+        "Invalid": 2,
+        "Invalid (%)": 0.32,
+        "Unknown": 202,
+        "Unknown (%)": 32.27,
+        "Total Prefixes": 626
+    },
+    "switzerland": {
+        "Valid": 599,
+        "Valid (%)": 82.73,
+        "Invalid": 0,
+        "Invalid (%)": 0.0,
+        "Unknown": 125,
+        "Unknown (%)": 17.27,
+        "Total Prefixes": 724
+    }
+}

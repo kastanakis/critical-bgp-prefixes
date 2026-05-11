@@ -1,0 +1,435 @@
+{
+    "dra.gov.bs": [
+        "70.39.144.0/21"
+    ],
+    "bahamasfeedingnetwork.org": [
+        "136.144.192.0/18"
+    ],
+    "summitacademybahamas.net": [
+        "198.12.232.0/21"
+    ],
+    "lcis.bs": [
+        "198.185.159.0/24",
+        "198.49.23.0/24"
+    ],
+    "tambearly.org": [
+        "198.185.159.0/24",
+        "198.49.23.0/24"
+    ],
+    "gamingboardbahamas.com": [
+        "107.180.0.0/18"
+    ],
+    "courtofappeal.org.bs": [
+        "34.174.128.0/17"
+    ],
+    "pb-santander.com": [
+        "2.17.100.0/24",
+        "2a02:26f0:1d00::/48"
+    ],
+    "centralbankbahamas.com": [
+        "104.18.80.0/20",
+        "2606:4700::/44"
+    ],
+    "networkonebahamas.com": [
+        "208.109.16.0/20"
+    ],
+    "isbetbahamas.edu.bs": [
+        "198.23.48.0/24"
+    ],
+    "solpetroleum.net": [
+        "172.66.0.0/22"
+    ],
+    "the-island-house.com": [
+        "72.167.124.0/22"
+    ],
+    "ub.edu.bs": [
+        "65.75.64.0/21"
+    ],
+    "fiubahamas.org.bs": [
+        "192.185.32.0/21"
+    ],
+    "ministryofeducationbahamas.com": [
+        "185.230.63.0/24"
+    ],
+    "synergybahamas.com": [
+        "208.109.16.0/20"
+    ],
+    "bfsb-bahamas.com": [
+        "138.197.160.0/20"
+    ],
+    "immigration.gov.bs": [
+        "108.60.224.0/19",
+        "24.51.112.0/21"
+    ],
+    "citigroup.com": [
+        "104.94.222.0/24",
+        "104.96.178.0/24"
+    ],
+    "providencetg.com": [
+        "209.17.116.0/24"
+    ],
+    "rdstn.net": [
+        "162.241.224.0/21"
+    ],
+    "capitalunionbank.com": [
+        "35.214.128.0/17"
+    ],
+    "ccb.finance.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "cloudcarib.com": [
+        "141.193.84.0/24"
+    ],
+    "taxreporting.finance.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "stats.gov.bs": [
+        "24.51.100.0/24",
+        "108.60.224.0/19"
+    ],
+    "znsbahamas.com": [
+        "192.0.78.0/24"
+    ],
+    "bahamascoop.org": [
+        "160.153.0.0/24"
+    ],
+    "baic.gov.bs": [
+        "68.178.244.0/22"
+    ],
+    "bonaventurelab.com": [
+        "198.54.116.0/24"
+    ],
+    "leadinstitute.org": [
+        "107.180.112.0/22"
+    ],
+    "bahfsabahamas.com": [
+        "104.21.32.0/20",
+        "172.67.176.0/20",
+        "2606:4700:3030::/48",
+        "2606:4700:3035::/48"
+    ],
+    "mofa.gov.bs": [
+        "108.60.224.0/19",
+        "24.51.112.0/21"
+    ],
+    "caabahamas.com": [
+        "67.20.64.0/18"
+    ],
+    "bahamas.com": [
+        "104.18.160.0/20"
+    ],
+    "cibcfcib.com": [
+        "204.74.99.0/24"
+    ],
+    "pictet.com": [
+        "185.154.92.0/24"
+    ],
+    "montaguemedicalclinic.com": [
+        "162.255.119.0/24"
+    ],
+    "crif.com.bs": [
+        "212.7.64.0/20"
+    ],
+    "cec.edu.bs": [
+        "24.60.0.0/14"
+    ],
+    "preventativemeasures.org": [
+        "74.208.0.0/16",
+        "2607:f1c0::/32"
+    ],
+    "nwccubahamas.com": [
+        "141.136.43.0/24"
+    ],
+    "nfsbahamas.com": [
+        "34.174.0.0/17"
+    ],
+    "focol.com": [
+        "24.244.144.0/21"
+    ],
+    "bahamas.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "cancersocietybahamas.org": [
+        "172.67.64.0/20",
+        "104.26.0.0/20",
+        "2606:4700:20::/44"
+    ],
+    "bahamasbarassociation.com": [
+        "162.214.0.0/15"
+    ],
+    "rbccm.com": [
+        "204.74.99.0/24"
+    ],
+    "bahamasacademy.org": [
+        "216.239.136.0/21"
+    ],
+    "elections.gov.bs": [
+        "108.60.224.0/19",
+        "24.51.112.0/21"
+    ],
+    "credit-suisse.com": [
+        "185.27.184.0/24",
+        "185.27.186.0/24"
+    ],
+    "oikoumene.org": [
+        "104.26.0.0/20",
+        "172.67.64.0/20",
+        "2606:4700:20::/44"
+    ],
+    "fourseasons.com": [
+        "15.222.0.0/15",
+        "3.96.0.0/15"
+    ],
+    "moea.gov.bs": [
+        "108.60.224.0/19",
+        "24.51.112.0/21"
+    ],
+    "royalbahamaspolice.org": [
+        "162.241.172.0/23"
+    ],
+    "bahamasnationalarchives.bs": [
+        "206.188.192.0/23"
+    ],
+    "inlandrevenue.finance.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "fusionsuperplex.com": [
+        "206.189.176.0/20"
+    ],
+    "globalsunintegration.com": [
+        "188.114.96.0/24",
+        "188.114.97.0/24",
+        "2a06:98c1:3121::/48",
+        "2a06:98c1:3120::/48"
+    ],
+    "bancasempione.ch": [
+        "213.133.232.0/22"
+    ],
+    "ihg.com": [
+        "2.17.162.0/24",
+        "2a02:26f0:8d00::/48"
+    ],
+    "bhahotels.com": [
+        "72.167.132.0/22"
+    ],
+    "templechristianbahamas.com": [
+        "156.67.64.0/20"
+    ],
+    "bahamasmaritime.com": [
+        "104.21.80.0/20",
+        "172.67.192.0/20",
+        "2606:4700:3031::/48",
+        "2606:4700:3035::/48"
+    ],
+    "gbpa.com": [
+        "67.227.128.0/17"
+    ],
+    "bleccu.com": [
+        "13.248.240.0/20",
+        "76.223.96.0/20"
+    ],
+    "nhibahamas.gov.bs": [
+        "141.193.84.0/24"
+    ],
+    "wsc.com.bs": [
+        "23.251.147.0/24"
+    ],
+    "atlantisbahamas.com": [
+        "172.67.64.0/20",
+        "104.26.0.0/20",
+        "2606:4700:20::/44"
+    ],
+    "standrewsbahamas.com": [
+        "107.180.0.0/18"
+    ],
+    "rbdf.gov.bs": [
+        "162.210.96.0/24"
+    ],
+    "bahamasdevelopmentbank.com": [
+        "162.214.0.0/15"
+    ],
+    "akhepraninternationalacademy.com": [
+        "192.223.25.0/24"
+    ],
+    "efginternational.com": [
+        "104.22.64.0/20",
+        "172.67.16.0/20"
+    ],
+    "scb.gov.bs": [
+        "162.159.128.0/19",
+        "2606:4700::/44"
+    ],
+    "kpmg.com": [
+        "104.94.100.0/24"
+    ],
+    "jsafrasarasin.com": [
+        "160.219.0.0/16"
+    ],
+    "bahamasaidsfoundation.org": [
+        "138.197.160.0/20"
+    ],
+    "marriott.com": [
+        "23.220.112.0/22"
+    ],
+    "bahamasmarinas.com": [
+        "185.230.63.0/24"
+    ],
+    "bbuc.edu.bs": [
+        "67.212.160.0/19"
+    ],
+    "bahamasair.com": [
+        "217.174.153.0/24"
+    ],
+    "baystmedical.com": [
+        "172.67.192.0/20",
+        "104.21.16.0/20",
+        "2a06:98c1:3121::/48",
+        "2a06:98c1:3120::/48"
+    ],
+    "fidelitygroup.com": [
+        "44.192.0.0/11"
+    ],
+    "opm.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "ac.cec.edu.bs": [
+        "24.51.64.0/21"
+    ],
+    "genesisacademy.org": [
+        "50.87.0.0/16"
+    ],
+    "deloitte.com": [
+        "170.194.152.0/21"
+    ],
+    "amlfoods.com": [
+        "69.163.128.0/17"
+    ],
+    "bahamascustoms.gov.bs": [
+        "24.51.112.0/21"
+    ],
+    "ftdcimaging.com": [
+        "50.62.0.0/15"
+    ],
+    "bealiv.com": [
+        "24.51.64.0/21"
+    ],
+    "firstoverseasbank.com": [
+        "69.4.160.0/20"
+    ],
+    "phabahamas.org": [
+        "63.245.112.0/20"
+    ],
+    "btvi.edu.bs": [
+        "104.21.80.0/20",
+        "172.67.208.0/20",
+        "2606:4700:3030::/48",
+        "2606:4700:3032::/48"
+    ],
+    "kingswaychristianacademy.com": [
+        "5.161.74.0/24"
+    ],
+    "lombardodier.com": [
+        "80.169.0.0/16",
+        "194.6.163.0/24"
+    ],
+    "walkinclinicbahamas.com": [
+        "72.167.64.0/21"
+    ],
+    "exempt.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "bahamasprotected.com": [
+        "107.180.116.0/22"
+    ],
+    "qchenceforth.com": [
+        "35.168.0.0/13",
+        "100.24.0.0/13"
+    ],
+    "gb-power.com": [
+        "35.227.144.0/20"
+    ],
+    "tswccul.org": [
+        "50.16.0.0/16"
+    ],
+    "bahamar.com": [
+        "44.192.0.0/11",
+        "54.208.0.0/15"
+    ],
+    "insurancecommissionbahamas.com": [
+        "104.21.16.0/20",
+        "172.67.128.0/20",
+        "2606:4700:3033::/48",
+        "2606:4700:3035::/48"
+    ],
+    "rev.bs": [
+        "24.51.88.0/21"
+    ],
+    "thebahamaschamber.com": [
+        "185.230.63.0/24"
+    ],
+    "nassaucontainerport.com": [
+        "91.247.172.0/24"
+    ],
+    "bplco.com": [
+        "162.159.128.0/19",
+        "2606:4700::/44"
+    ],
+    "britishcolonial.com": [
+        "66.129.86.0/24"
+    ],
+    "windsorschoolbahamas.com": [
+        "104.17.64.0/20"
+    ],
+    "tmp-bahamas.com": [
+        "107.180.0.0/18"
+    ],
+    "cps.cec.edu.bs": [
+        "24.51.64.0/21"
+    ],
+    "winterbotham.com": [
+        "200.124.193.0/24"
+    ],
+    "cirt.bs": [
+        "104.18.0.0/20",
+        "2606:4700::/44"
+    ],
+    "comfortsuitespi.com": [
+        "104.18.160.0/20"
+    ],
+    "roadtraffic.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "mygateway.gov.bs": [
+        "24.51.112.0/21",
+        "108.60.224.0/19"
+    ],
+    "bbsq.bs": [
+        "68.178.244.0/22"
+    ],
+    "urcabahamas.bs": [
+        "162.214.0.0/15"
+    ],
+    "nema-bahamas.info": [
+        "34.96.224.0/20"
+    ],
+    "thedentalcarecenterbahamas.com": [
+        "54.70.0.0/15"
+    ],
+    "breef.org": [
+        "138.197.0.0/20"
+    ],
+    "combankltd.com": [
+        "24.244.152.0/21"
+    ],
+    "saintaugustinescollege.com": [
+        "100.24.0.0/13",
+        "35.168.0.0/13"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "data": [
+        [
+            "id",
+            "name",
+            "wikidata",
+            "wikipedia",
+            "twitter_handle"
+        ],
+        [
+            1752,
+            "Adviesraad voor wetenschap, technologie en innovatie (AWTI)",
+            "",
+            "",
+            ""
+        ],
+        [
+            1806,
+            "Raad voor Volksgezondheid en Samenleving",
+            "",
+            "",
+            ""
+        ],
+        [
+            1814,
+            "Kiesraad",
+            "",
+            "",
+            ""
+        ],
+        [
+            2339,
+            "Autoriteit Persoonsgegevens (AP)",
+            "",
+            "",
+            ""
+        ],
+        [
+            2407,
+            "Raad voor het openbaar bestuur (Rob)",
+            "",
+            "",
+            ""
+        ],
+        [
+            2736,
+            "Adviesraad Migratie (ACVZ)",
+            "",
+            "",
+            ""
+        ],
+        [
+            2740,
+            "Onderwijsraad (OR)",
+            "",
+            "",
+            ""
+        ],
+        [
+            2741,
+            "Raad voor Cultuur (RVC)",
+            "",
+            "",
+            ""
+        ],
+        [
+            3029,
+            "NLsportraad",
+            "",
+            "",
+            ""
+        ],
+        [
+            3388,
+            "Sociaal-Economische Raad (SER)",
+            "",
+            "",
+            ""
+        ],
+        [
+            3428,
+            "Adviesraad internationale vraagstukken (AIV)",
+            "",
+            "",
+            ""
+        ],
+        [
+            3432,
+            "Gezondheidsraad (GR)",
+            "",
+            "",
+            ""
+        ],
+        [
+            3433,
+            "Hoge Raad van Adel",
+            "",
+            "",
+            ""
+        ]
+    ]
+}
