@@ -1,11 +1,14 @@
 ## 🔗 Quick Links
 
-- ![CH](https://img.shields.io/badge/CH-Switzerland-red) [Switzerland Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ch-resilience_domain2pfx_routeviews.json)
-- ![EE](https://img.shields.io/badge/EE-Estonia-blue) [Estonia Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ee-tld_domain2pfx_routeviews.json)
-- ![LT](https://img.shields.io/badge/LT-Lithuania-green) [Lithuania Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/lithuania-dashboard_domain2pfx_routeviews.json)
-- ![SE](https://img.shields.io/badge/SE-Sweden-yellow) [Sweden Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/sweden-health-status_domain2pfx_routeviews.json)
-- ![NL](https://img.shields.io/badge/NL-Netherlands-orange) [Netherlands Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/basisbeveiliging_parsed/domain2pfx_merged.json)
+- ![CH](https://img.shields.io/badge/CH-Switzerland-red) [Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ch-resilience_domain2pfx_routeviews.json) | [Critical ASes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/asns_per_country/ch-resilience_domain2asn.json)
 
+- ![EE](https://img.shields.io/badge/EE-Estonia-blue) [Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ee-tld_domain2pfx_routeviews.json) | [Critical ASes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/asns_per_country/ee-tld_domain2asn.json)
+
+- ![LT](https://img.shields.io/badge/LT-Lithuania-green) [Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/lithuania-dashboard_domain2pfx_routeviews.json) | [Critical ASes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/asns_per_country/lithuania-dashboard_domain2asn.json)
+
+- ![SE](https://img.shields.io/badge/SE-Sweden-yellow) [Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/sweden-health-status_domain2pfx_routeviews.json) | [Critical ASes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/asns_per_country/sweden-health-status_domain2asn.json)
+
+- ![NL](https://img.shields.io/badge/NL-Netherlands-orange) [Critical Prefixes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/basisbeveiliging_parsed/domain2pfx_merged.json) | [Critical ASes](https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/basisbeveiliging_parsed/domain2asn.json)
 ---
 
 # Critical BGP Prefixes
