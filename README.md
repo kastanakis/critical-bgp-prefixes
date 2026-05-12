@@ -8,6 +8,25 @@ The project studies the Internet routing infrastructure behind publicly reachabl
 
 ---
 
+## 🔗 Quick Links
+
+- 🇨🇭 **Switzerland Critical Prefixes:**  
+  https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ch-resilience_domain2pfx_routeviews.json
+
+- 🇪🇪 **Estonia Critical Prefixes:**  
+  https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/ee-tld_domain2pfx_routeviews.json
+
+- 🇱🇹 **Lithuania Critical Prefixes:**  
+  https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/lithuania-dashboard_domain2pfx_routeviews.json
+
+- 🇸🇪 **Sweden Critical Prefixes:**  
+  https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/hardenize_parsed/prefixes_per_country/sweden-health-status_domain2pfx_routeviews.json
+
+- 🇳🇱 **Netherlands Critical Prefixes:**  
+  https://github.com/kastanakis/critical-bgp-prefixes/blob/main/critical_prefixes/output/basisbeveiliging_parsed/domain2pfx_merged.json
+
+---
+
 # Abstract
 
 Critical Infrastructure (CI) organizations increasingly depend on Internet-routed services to provide essential public functionality. Despite their societal importance, little is known about the BGP prefixes and Autonomous Systems (ASes) that host these services.
