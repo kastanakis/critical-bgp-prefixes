@@ -79,33 +79,6 @@ The resulting datasets are then used for:
 
 ---
 
-# Included Datasets
-
-The repository aggregates publicly reachable Critical Infrastructure datasets from multiple countries and sectors.
-
-## Countries Included
-
-* Netherlands
-* Switzerland
-* Estonia
-* Lithuania
-* Sweden
-
-## Critical Infrastructure Sectors
-
-Examples include:
-
-* Government
-* Healthcare
-* Education
-* Finance
-* Energy
-* Municipal services
-* Cybersecurity organizations
-* Public administration
-
----
-
 # Data Sources
 
 | Source         | Purpose                       |
@@ -158,42 +131,6 @@ Example outputs include:
 * geolocation maps
 * resilience plots
 * business-sector distributions
-
----
-
-# Reproducibility Notes
-
-This repository is designed as a reproducible research artifact.
-
-However, results may vary over time due to:
-
-* evolving BGP routing conditions
-* updated CAIDA snapshots
-* changing RPKI/ROV deployment
-* API data freshness
-* changing Internet topology
-
-Dataset timestamps are preserved whenever possible.
-
----
-
-# Ethical Considerations
-
-This repository exclusively uses:
-
-* publicly accessible datasets
-* publicly reachable services
-* passive Internet measurements
-* publicly documented APIs
-
-The framework is intended for:
-
-* academic research
-* resilience analysis
-* routing-security studies
-* Critical Infrastructure analysis
-
-No active exploitation or intrusive measurements are performed.
 
 ---
 
